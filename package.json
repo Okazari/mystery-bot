@@ -21,6 +21,7 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
+    "rivescript": "^1.17.1",
     "socket.io": "^1.7.2",
     "vorpal": "^1.11.4"
   }
