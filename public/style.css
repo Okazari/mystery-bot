@@ -58,7 +58,7 @@ button[role="submit"]:hover {
   flex-direction: column;
   flex-flow: flex-end;
   margin: 15px;
-  margin-bottom: 0; 
+  margin-bottom: 0;
   background-color: white;
   box-shadow: 1px 1px 10px;
 }
@@ -68,7 +68,11 @@ button[role="submit"]:hover {
 }
 
 .bot-container {
-  text-align: right
+  text-align: right;
+}
+
+.bot-container span{
+  text-align: left;
 }
 
 .message {
