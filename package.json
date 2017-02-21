@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "botpress": "0.x",
-    "botpress-discord": "^1.0.3",
-    "botpress-messenger": "^1.0.18"
+    "botpress-messenger": "^1.0.18",
+    "botpress-rivescript": "^1.0.11"
   },
   "scripts": {
     "start": "botpress start",
