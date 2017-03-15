@@ -1,18 +1,15 @@
 {
-  "name": "mystery-bot",
+  "name": "breizhbot",
   "version": "0.0.1",
-  "description": "",
+  "description": "Bot for Breizhcamp",
   "main": "index.js",
   "dependencies": {
-    "botpress": "0.1.4",
-    "botpress-discord": "^2.0.9",
-    "botpress-messenger": "^2.0.5",
-    "broid-messenger": "^1.1.7"
+    "botpress": "0.x"
   },
   "scripts": {
     "start": "botpress start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "okazari and acailly",
   "license": "AGPL-3.0"
 }
