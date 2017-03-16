@@ -5,9 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "botpress": "0.1.4",
+    "botpress-analytics": "^2.0.7",
     "botpress-discord": "^2.0.9",
     "botpress-messenger": "^2.0.5",
-    "broid-messenger": "^1.1.7"
+    "broid-messenger": "^1.1.7",
+    "rivescript": "^1.17.2"
   },
   "scripts": {
     "start": "botpress start",

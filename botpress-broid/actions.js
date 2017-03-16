@@ -1,22 +1,17 @@
-const createText = (raw) => {
-  const {generator, object: {content, context}, target} = raw
-
-  const message = {
-    '@context': 'https://www.w3.org/ns/activitystreams',
-    'type': 'Create',
-    generator,
-    'object': {
-      'type': 'Note',
-      'content': 'You said ' + content,
-      context
+const createText = (channelInfo, object) => {
+  const message = Object.assign({},
+    {
+      '@context': 'https://www.w3.org/ns/activitystreams',
+      'type': 'Create'
     },
-    'to': target
-  }
+   channelInfo,
+   {object}
+  )
 
   return {
     platform: 'broid',
     type: 'text',
-    text: 'TOTO',
+    text: 'broid',
     raw: message
   }
 }
