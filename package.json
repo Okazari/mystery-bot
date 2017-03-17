@@ -9,11 +9,15 @@
     "botpress-discord": "^2.0.9",
     "botpress-messenger": "^2.0.5",
     "broid-messenger": "^1.1.7",
-    "rivescript": "^1.17.2"
+    "moment": "^2.17.1",
+    "ramda": "^0.23.0",
+    "require-all": "^2.2.0",
+    "rivescript": "^1.17.2",
+    "vorpal": "^1.11.4"
   },
   "scripts": {
     "start": "botpress start",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cli": "node cli"
   },
   "author": "",
   "license": "AGPL-3.0"

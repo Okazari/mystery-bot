@@ -1,5 +1,7 @@
 const path = require('path')
 const RiveScript = require('rivescript')
+const executeJS = require('./executeJS')
+const actions = require('../actions')
 
 let brain
 const init = () => {
@@ -9,6 +11,7 @@ const init = () => {
 
     function loadingDone (batchNum) {
       brain.sortReplies()
+      brain.actions = actions
       console.log('RiveScript bot loaded!')
       resolve()
     }
@@ -20,22 +23,32 @@ const init = () => {
   })
 }
 
-const send = (userId, message, callback) => {
-  const doReply = (message) => {
-    const result = brain.reply(userId, message)
-    callback({
-      content: result,
-      type: 'Note'
-    })
+const reply = (userId, message, callback) => {
+  const doReply = (userId, message, callback) => {
+    const replied = brain.reply(userId, message)
+    const result = executeJS(brain, replied)
+    callback(result)
   }
 
   if (!brain) {
-    init().then(() => doReply(message))
+    init().then(() => doReply(userId, message, callback))
   } else {
-    doReply(message)
+    doReply(userId, message, callback)
   }
 }
 
+const send = (userId, message, callback) => {
+  reply(userId, message, replied => {
+    if (replied) {
+      callback({
+        content: replied,
+        type: 'Note'
+      })
+    }
+  })
+}
+
 module.exports = {
+  reply,
   send
 }

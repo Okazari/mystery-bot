@@ -1,4 +1,1 @@
-const test = require('./test')
-module.exports = {
-	test,
-}
+module.exports = require('require-all')(__dirname)
