@@ -1,4 +1,19 @@
 ! version = 2.0
 
++ hey
+@ hello
+
++ salut
+@ hello
+
++ hi
+@ hello
+
++ bonjour
+@ hello
+
++ hello
+- JS: return brain.actions.hello()
+
 + next
 - JS: return brain.actions.nextConfs()

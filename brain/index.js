@@ -1,4 +1,5 @@
 const path = require('path')
+const _ = require('lodash')
 const RiveScript = require('rivescript')
 const executeJS = require('./executeJS')
 const actions = require('../actions')
@@ -40,10 +41,16 @@ const reply = (userId, message, callback) => {
 const send = (userId, message, callback) => {
   reply(userId, message, replied => {
     if (replied) {
-      callback({
-        content: replied,
-        type: 'Note'
-      })
+      if (_.isString(replied)) {
+        // Simple text
+        callback({
+          content: replied,
+          type: 'Note'
+        })
+      } else {
+        // Object
+        callback(replied)
+      }
     }
   })
 }

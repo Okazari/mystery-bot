@@ -9,6 +9,7 @@
     "botpress-discord": "^2.0.9",
     "botpress-messenger": "^2.0.5",
     "broid-messenger": "^1.1.7",
+    "lodash": "^4.17.4",
     "moment": "^2.17.1",
     "ramda": "^0.23.0",
     "require-all": "^2.2.0",

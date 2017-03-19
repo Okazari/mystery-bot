@@ -12,11 +12,39 @@ const happensNext = confDate => {
 
 const extractStartDate = R.pipe(R.prop('event_start'), moment)
 
-const nextConfs = () => R.filter(
-  R.pipe(
-    extractStartDate,
-    happensNext
-  ),
-  confs)
+const confInfoToButton = confInfo => {
+  return {
+    'type': 'Button',
+    'name': confInfo.name,
+    'url': `conf ${confInfo.id}`
+  }
+}
+
+const aggregateButtons = buttons => {
+  return {
+    'type': 'Note',
+    'name': 'Voici les prochaines conférences !',
+    'content': '',
+    'attachment': buttons
+  }
+}
+
+const nextConfs = () =>
+  // 4- AGGREGATE BUTTONS IN ONE MESSAGE
+  aggregateButtons(
+    // 3- TRANSFORM THEM TO BUTTON
+    R.map(
+      confInfoToButton,
+      // 2- FILTER THE NEXT ONES
+      R.filter(
+        R.pipe(
+          extractStartDate,
+          happensNext
+        ),
+        // 1- GET CONF INFOS
+        confs
+      )
+    )
+  )
 
 module.exports = nextConfs

@@ -31,8 +31,6 @@ module.exports = function (bp) {
   ready(bp)
 
   bp.hear({platform: 'broid', type: 'message'}, (event, next) => {
-    // console.log('EVENT !', event)
-
     const {target, generator, object: {content}} = event.raw
 
     const callback = (object) => {
