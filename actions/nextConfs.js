@@ -12,39 +12,45 @@ const happensNext = confDate => {
 
 const extractStartDate = R.pipe(R.prop('event_start'), moment)
 
-const confInfoToButton = confInfo => {
+const confInfoToHeroCard = confInfo => {
   return {
-    'type': 'Button',
-    'name': confInfo.name,
-    'url': `conf ${confInfo.id}`
+    'contentType': 'application/vnd.microsoft.card.hero',
+    'content': {
+      'title': confInfo.name,
+      'subtitle': confInfo.description,
+      'buttons': [
+        {
+          'type': 'postBack',
+          'title': 'Plus d\'infos',
+          'value': `conf details ${confInfo.id}`
+        },
+        {
+          'type': 'postBack',
+          'title': 'Ou c\'est ?',
+          'value': `conf location ${confInfo.id}`
+        }
+      ]
+    }
   }
 }
 
-const aggregateButtons = buttons => {
+const aggregateCards = cards => {
   return {
-    'type': 'Note',
-    'name': 'Voici les prochaines conférences !',
-    'content': '',
-    'attachment': buttons
+    'attachmentLayout': 'carousel',
+    'attachments': cards
   }
 }
 
 const nextConfs = () =>
-  // 4- AGGREGATE BUTTONS IN ONE MESSAGE
-  aggregateButtons(
-    // 3- TRANSFORM THEM TO BUTTON
-    R.map(
-      confInfoToButton,
-      // 2- FILTER THE NEXT ONES
-      R.filter(
+  aggregateCards(
+    confs
+      .filter(
         R.pipe(
           extractStartDate,
           happensNext
-        ),
-        // 1- GET CONF INFOS
-        confs
+        )
       )
-    )
+      .map(confInfoToHeroCard)
   )
 
 module.exports = nextConfs

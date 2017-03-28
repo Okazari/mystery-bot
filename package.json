@@ -4,21 +4,25 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "botbuilder": "^3.7.0",
     "botpress": "0.1.4",
     "botpress-analytics": "^2.0.7",
     "botpress-discord": "^2.0.9",
     "botpress-messenger": "^2.0.5",
-    "broid-messenger": "^1.1.7",
     "lodash": "^4.17.4",
     "moment": "^2.17.1",
     "ramda": "^0.23.0",
+    "ramda-fantasy": "^0.7.0",
     "require-all": "^2.2.0",
+    "restify": "^4.3.0",
     "rivescript": "^1.17.2",
+    "sekret": "^0.0.1",
     "vorpal": "^1.11.4"
   },
   "scripts": {
     "start": "botpress start",
-    "cli": "node cli"
+    "cli": "node cli",
+    "sekret": "sekret"
   },
   "author": "",
   "license": "AGPL-3.0"

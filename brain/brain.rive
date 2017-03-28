@@ -17,3 +17,11 @@
 
 + next
 - JS: return brain.actions.nextConfs()
+
++ conf details *
+- JS: return brain.actions.confDetails(<star>)
+
++ ping
+- pong
+
+
