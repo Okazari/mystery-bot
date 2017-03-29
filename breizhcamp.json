@@ -1,7 +1,7 @@
 [
 	{
 		"active": "Y",
-		"name": "Tree shaking - Déployer moins de code en production",
+		"name": "Tree shaking - Dï¿½ployer moins de code en production",
 		"event_start": "2017-04-21T17:00:00Z",
 		"event_end": "2017-04-21T17:25:00Z",
 		"event_type": "Web et mobile",
@@ -10,7 +10,7 @@
 		"id": 387,
 		"venue_id": "4",
 		"speakers": "Vincent Ogloblinsky, ",
-		"description": "La notion d'import/export de modules d'Ecmascript 6 est une fonctionnalité très appréciable et attendue depuis longtemps de manière native dans le langage.\n\n\nLes packageurs \"Webpack 2\" et \"Rollup.js\" comportent une fonctionnalité elle aussi très intéressante appelée \"tree-shaking\". Celle-ci permet d'obtenir un \"bundle\" final plus léger en ne sélectionnant que le code \"utile\" en production.\n\n\nNous allons découvrir dans ce tool in action :\n- les avantages de cette approche par rapport à l'approche traditionnelle de l'élimination de code des optimisateurs de code Javascript comme UglifyJs par exemple.\n- un exemple simple d'utilisation avec Webpack 2 et Rollup.js\n- un autre exemple avec l'utilisation de la librairie lodash ré-écrite en 2015 en Ecmascript 6"
+		"description": "La notion d'import/export de modules d'Ecmascript 6 est une fonctionnalitï¿½ trï¿½s apprï¿½ciable et attendue depuis longtemps de maniï¿½re native dans le langage.\n\n\nLes packageurs \"Webpack 2\" et \"Rollup.js\" comportent une fonctionnalitï¿½ elle aussi trï¿½s intï¿½ressante appelï¿½e \"tree-shaking\". Celle-ci permet d'obtenir un \"bundle\" final plus lï¿½ger en ne sï¿½lectionnant que le code \"utile\" en production.\n\n\nNous allons dï¿½couvrir dans ce tool in action :\n- les avantages de cette approche par rapport ï¿½ l'approche traditionnelle de l'ï¿½limination de code des optimisateurs de code Javascript comme UglifyJs par exemple.\n- un exemple simple d'utilisation avec Webpack 2 et Rollup.js\n- un autre exemple avec l'utilisation de la librairie lodash rï¿½-ï¿½crite en 2015 en Ecmascript 6"
 	},
 	{
 		"active": "Y",
@@ -22,47 +22,47 @@
 		"venue": "Lab",
 		"id": 388,
 		"venue_id": "7",
-		"speakers": "Cécilia Bossard, Jean Paliès",
-		"description": "La programmation visuelle, vous connaissez ? \n\nScratch, Blockly, MBlock font partie des langages que nous utilisons avec les enfants pour leur apprendre à programmer. \n\nSi on l'utilise avec les enfants, on peut l'utiliser avec les grands aussi ! \n\nIOT, appels REST, tests fonctionnels... jusqu'où peut-on aller avec ces langages ? Comment sont-ils construits ?\n\nAprès une présentation de quelques outils, nous vous proposons de regarder sous le capot de Blockly et de créer vos propres blocs. Et pourquoi pas créer votre propre DSL pour faire coder à votre place les tests fonctionnels ?"
+		"speakers": "Cï¿½cilia Bossard, Jean Paliï¿½s",
+		"description": "La programmation visuelle, vous connaissez ? \n\nScratch, Blockly, MBlock font partie des langages que nous utilisons avec les enfants pour leur apprendre ï¿½ programmer. \n\nSi on l'utilise avec les enfants, on peut l'utiliser avec les grands aussi ! \n\nIOT, appels REST, tests fonctionnels... jusqu'oï¿½ peut-on aller avec ces langages ? Comment sont-ils construits ?\n\nAprï¿½s une prï¿½sentation de quelques outils, nous vous proposons de regarder sous le capot de Blockly et de crï¿½er vos propres blocs. Et pourquoi pas crï¿½er votre propre DSL pour faire coder ï¿½ votre place les tests fonctionnels ?"
 	},
 	{
 		"active": "Y",
-		"name": "La DockerCon comme si vous y étiez",
+		"name": "La DockerCon comme si vous y ï¿½tiez",
 		"event_start": "2017-04-19T14:30:00Z",
 		"event_end": "2017-04-19T15:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 391,
 		"venue_id": "5",
 		"speakers": "Nicolas De Loof, ",
-		"description": "La DockerCon a lieu _pile_ en même temps que le BreizhCamp, avouez que c'est ballot !\nPas de panique, nous allons vous permettre de suivre les annonces majeures, et sans même devoir débourser le billet d'avion pour Austin TX. \nPeut être même quelques démos si on a le temps de les préparer dans la nuit, effet Bonaldi garanti :D"
+		"description": "La DockerCon a lieu _pile_ en mï¿½me temps que le BreizhCamp, avouez que c'est ballot !\nPas de panique, nous allons vous permettre de suivre les annonces majeures, et sans mï¿½me devoir dï¿½bourser le billet d'avion pour Austin TX. \nPeut ï¿½tre mï¿½me quelques dï¿½mos si on a le temps de les prï¿½parer dans la nuit, effet Bonaldi garanti :D"
 	},
 	{
 		"active": "Y",
-		"name": "Si t'es pas développeur à 40 ans ... il n'est pas trop tard !",
+		"name": "Si t'es pas dï¿½veloppeur ï¿½ 40 ans ... il n'est pas trop tard !",
 		"event_start": "2017-04-19T14:30:00Z",
 		"event_end": "2017-04-19T15:25:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 392,
 		"venue_id": "6",
 		"speakers": "Eric SIBER, ",
-		"description": "L'automne 2016 a marqué pour Simplon le lancement de deux promotions en reconversion professionnelle vers le métier de développeur Java.\n\nAprès un brève présentation de Simplon, startup de l'éducation dans le numérique, de ses premiers contacts avec la communauté Java et la création d'un parcours de formation au développement Java, je vous partagerai l'expérience vécue avec une promotion d'apprenants dont la moyenne d'âge dépasse les 50 ans et dont la formation en alternance sur 8 mois terminera en juin.\n\nCurieux de voir la mise en oeuvre de la pédagogie active, de découvrir les compétences que des novices dans le développement (voire dans l'informatique) auront pu acquérir, des questions qu'un dispositif de reconversion professionnelle soulèvent ?\nVenez passer un moment enrichissant en compagnie des formateurs, apprenants, et de l'équipe pédagogique."
+		"description": "L'automne 2016 a marquï¿½ pour Simplon le lancement de deux promotions en reconversion professionnelle vers le mï¿½tier de dï¿½veloppeur Java.\n\nAprï¿½s un brï¿½ve prï¿½sentation de Simplon, startup de l'ï¿½ducation dans le numï¿½rique, de ses premiers contacts avec la communautï¿½ Java et la crï¿½ation d'un parcours de formation au dï¿½veloppement Java, je vous partagerai l'expï¿½rience vï¿½cue avec une promotion d'apprenants dont la moyenne d'ï¿½ge dï¿½passe les 50 ans et dont la formation en alternance sur 8 mois terminera en juin.\n\nCurieux de voir la mise en oeuvre de la pï¿½dagogie active, de dï¿½couvrir les compï¿½tences que des novices dans le dï¿½veloppement (voire dans l'informatique) auront pu acquï¿½rir, des questions qu'un dispositif de reconversion professionnelle soulï¿½vent ?\nVenez passer un moment enrichissant en compagnie des formateurs, apprenants, et de l'ï¿½quipe pï¿½dagogique."
 	},
 	{
 		"active": "Y",
 		"name": "Lao-Tseu, Software Craftsman",
 		"event_start": "2017-04-21T13:30:00Z",
 		"event_end": "2017-04-21T14:25:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
-		"format": "Conférence",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 403,
 		"venue_id": "6",
 		"speakers": "Gautier Mechling, ",
-		"description": "S'il avait vécu à notre époque, Lao-Tseu serait un pur développeur, un vrai de vrai.\n\nLe genre de mec smart, qui connaît les bons principes de la programmation et réfléchit avant d'agir\nCelui que les entreprises cherchent tant à recruter, et qui, OKLM, transmet ses conseils à tous.\n\nTiens d'ailleurs, tu savais que dans son bouquin : \"le livre de la voie et de la vertu\", il parlait du partage de connaissance, des architectures, du testing, des cérémoniaux SCRUM, de backlog, de SOLID, de la programmation réactive fonctionnelle etc.\nHein ? Tu savais pas ? Que c'était quoi ? Un truc de hippies ? Mais non, mon petit lapin ! Pas du tout !\nAllez viens, assis-toi, on va lire des extraits de son livre, et faire l'analogie avec le développement logiciel."
+		"description": "S'il avait vï¿½cu ï¿½ notre ï¿½poque, Lao-Tseu serait un pur dï¿½veloppeur, un vrai de vrai.\n\nLe genre de mec smart, qui connaï¿½t les bons principes de la programmation et rï¿½flï¿½chit avant d'agir\nCelui que les entreprises cherchent tant ï¿½ recruter, et qui, OKLM, transmet ses conseils ï¿½ tous.\n\nTiens d'ailleurs, tu savais que dans son bouquin : \"le livre de la voie et de la vertu\", il parlait du partage de connaissance, des architectures, du testing, des cï¿½rï¿½moniaux SCRUM, de backlog, de SOLID, de la programmation rï¿½active fonctionnelle etc.\nHein ? Tu savais pas ? Que c'ï¿½tait quoi ? Un truc de hippies ? Mais non, mon petit lapin ! Pas du tout !\nAllez viens, assis-toi, on va lire des extraits de son livre, et faire l'analogie avec le dï¿½veloppement logiciel."
 	},
 	{
 		"active": "Y",
@@ -75,50 +75,50 @@
 		"id": 405,
 		"venue_id": "3",
 		"speakers": "Fabien PAITRY, ",
-		"description": "Vu de la fenêtre du développeur la gestion des environnements de développement et de production est souvent vécue comme une tâche complexe et pénible. Pourtant, il est désormais possible de déployer des environnements fonctionnels en quelques minutes grâce aux solutions d’IaC (Infrastructure as Code). \n\nJe vous propose de découvrir comment Ansible peut vous permettre de déployer un environnement de production et de développement en moins de 30 minutes."
+		"description": "Vu de la fenï¿½tre du dï¿½veloppeur la gestion des environnements de dï¿½veloppement et de production est souvent vï¿½cue comme une tï¿½che complexe et pï¿½nible. Pourtant, il est dï¿½sormais possible de dï¿½ployer des environnements fonctionnels en quelques minutes grï¿½ce aux solutions dï¿½IaC (Infrastructure as Code). \n\nJe vous propose de dï¿½couvrir comment Ansible peut vous permettre de dï¿½ployer un environnement de production et de dï¿½veloppement en moins de 30 minutes."
 	},
 	{
 		"active": "Y",
-		"name": "Introduction à JHipster 4",
+		"name": "Introduction ï¿½ JHipster 4",
 		"event_start": "2017-04-21T14:30:00Z",
 		"event_end": "2017-04-21T15:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 406,
 		"venue_id": "6",
 		"speakers": "Pierre Besson, ",
-		"description": "[JHipster](https://jhipster.github.io/) est un générateur d'applications Spring Boot + AngularJS, entièrement Open Source, qui vous permet de démarrer, développer et mettre en production votre projet en un temps record.\n\nLargement utilisé, il possède une importante communauté de développeurs (plus de 260 contributeurs!), et de nombreuses entreprises l'ont choisi comme framework de référence (plus de 120 sociétés sont officiellement listées!).\n\nDans cette introduction,  Pierre Besson présentera les principales fonctionnalités de l'outil, ces cas d'utilisation classiques, et fera un focus particulier sur les nouveautés de JHipster 4."
+		"description": "[JHipster](https://jhipster.github.io/) est un gï¿½nï¿½rateur d'applications Spring Boot + AngularJS, entiï¿½rement Open Source, qui vous permet de dï¿½marrer, dï¿½velopper et mettre en production votre projet en un temps record.\n\nLargement utilisï¿½, il possï¿½de une importante communautï¿½ de dï¿½veloppeurs (plus de 260 contributeurs!), et de nombreuses entreprises l'ont choisi comme framework de rï¿½fï¿½rence (plus de 120 sociï¿½tï¿½s sont officiellement listï¿½es!).\n\nDans cette introduction,  Pierre Besson prï¿½sentera les principales fonctionnalitï¿½s de l'outil, ces cas d'utilisation classiques, et fera un focus particulier sur les nouveautï¿½s de JHipster 4."
 	},
 	{
 		"active": "Y",
 		"name": "Dev VS Wild",
 		"event_start": "2017-04-20T13:30:00Z",
 		"event_end": "2017-04-20T14:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 410,
 		"venue_id": "3",
 		"speakers": "Yoann Ono Dit Biot, ",
-		"description": "Chaque jour des développeurs risquent leurs vies et celles de leurs collègues pour vous fournir l'application qui révolutionnera votre façon de vivre. Ce métier trop souvent sous estimé pour sa dangerosité mérite néanmoins qu'on s'attarde sur cet aspect. Nous verrons dans ce talk les risques qui pèsent sur les épaules de ces chevaliers des temps modernes et leurs entreprises, et pourquoi la sécurité informatique doit être prise en compte dans le cycle de développement d'une application."
+		"description": "Chaque jour des dï¿½veloppeurs risquent leurs vies et celles de leurs collï¿½gues pour vous fournir l'application qui rï¿½volutionnera votre faï¿½on de vivre. Ce mï¿½tier trop souvent sous estimï¿½ pour sa dangerositï¿½ mï¿½rite nï¿½anmoins qu'on s'attarde sur cet aspect. Nous verrons dans ce talk les risques qui pï¿½sent sur les ï¿½paules de ces chevaliers des temps modernes et leurs entreprises, et pourquoi la sï¿½curitï¿½ informatique doit ï¿½tre prise en compte dans le cycle de dï¿½veloppement d'une application."
 	},
 	{
 		"active": "Y",
 		"name": "Atelier Eventstorming",
 		"event_start": "2017-04-19T13:30:00Z",
 		"event_end": "2017-04-19T15:30:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
-		"format": "Université",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
+		"format": "Universitï¿½",
 		"venue": "Amphi B",
 		"id": 413,
 		"venue_id": "4",
 		"speakers": "Maxime Sanglan-Charlier, ",
-		"description": "Comment modéliser un processus métier, même complexe, ou encore l’entièreté du panorama applicatif d’une entreprise sans tomber dans le piège d’une analyse sans fin, épuisante et ô combien ennuyante ?\n\nComment maîtriser la complexité d’un projet avec agilité en démarrant de la manière la plus appropriée, et ainsi obtenir une très bonne vue d’ensemble dès le départ ?\n\nL'Eventstorming est une technique d'analyse très accessible qui vise à acquérir une compréhension détaillée de votre domaine métier. Les outils utilisés lors de ces ateliers, sont des post-its, des marqueurs pour tout le monde et de l’espace, beaucoup d’espace !\n\nDans cet atelier pratique, vous apprendrez de manière ludique comment découvrir en profondeur les concepts d’un domaine applicatif grâce à une succession de courtes séances d'une quinzaine de minutes chacune. Vous pourrez non seulement apprendre comment rendre votre domaine explicite, mais vous pourrez aussi pointer les éventuelles incohérences et le manque de connaissance.\n\nA la fin de cet atelier, vous aurez les éléments nécessaires en main pour le rejouer au sein même de votre société !"
+		"description": "Comment modï¿½liser un processus mï¿½tier, mï¿½me complexe, ou encore lï¿½entiï¿½retï¿½ du panorama applicatif dï¿½une entreprise sans tomber dans le piï¿½ge dï¿½une analyse sans fin, ï¿½puisante et ï¿½ combien ennuyante ?\n\nComment maï¿½triser la complexitï¿½ dï¿½un projet avec agilitï¿½ en dï¿½marrant de la maniï¿½re la plus appropriï¿½e, et ainsi obtenir une trï¿½s bonne vue dï¿½ensemble dï¿½s le dï¿½part ?\n\nL'Eventstorming est une technique d'analyse trï¿½s accessible qui vise ï¿½ acquï¿½rir une comprï¿½hension dï¿½taillï¿½e de votre domaine mï¿½tier. Les outils utilisï¿½s lors de ces ateliers, sont des post-its, des marqueurs pour tout le monde et de lï¿½espace, beaucoup dï¿½espace !\n\nDans cet atelier pratique, vous apprendrez de maniï¿½re ludique comment dï¿½couvrir en profondeur les concepts dï¿½un domaine applicatif grï¿½ce ï¿½ une succession de courtes sï¿½ances d'une quinzaine de minutes chacune. Vous pourrez non seulement apprendre comment rendre votre domaine explicite, mais vous pourrez aussi pointer les ï¿½ventuelles incohï¿½rences et le manque de connaissance.\n\nA la fin de cet atelier, vous aurez les ï¿½lï¿½ments nï¿½cessaires en main pour le rejouer au sein mï¿½me de votre sociï¿½tï¿½ !"
 	},
 	{
 		"active": "Y",
-		"name": "WTFJS!! Comprendre les ambiguïtés de la syntaxe en JavaScript pour éviter les pièges",
+		"name": "WTFJS!! Comprendre les ambiguï¿½tï¿½s de la syntaxe en JavaScript pour ï¿½viter les piï¿½ges",
 		"event_start": "2017-04-20T12:45:00Z",
 		"event_end": "2017-04-20T13:00:00Z",
 		"event_type": "Langages",
@@ -126,12 +126,12 @@
 		"venue": "Amphi B",
 		"id": 414,
 		"venue_id": "4",
-		"speakers": "Grégory Houllier, ",
-		"description": "En 15 minutes vous comprendrez pourquoi l'opérateur + de JavaScript semble etre si capricieux ou pourquoi une fonction ne renvoie pas ce que vous attendez. Nous verrons aussi pourquoi parfois la console de votre navigateur favoris vous induit en erreur et quel sont les outils pour bien comprendre ce que fait votre code JavaScript"
+		"speakers": "Grï¿½gory Houllier, ",
+		"description": "En 15 minutes vous comprendrez pourquoi l'opï¿½rateur + de JavaScript semble etre si capricieux ou pourquoi une fonction ne renvoie pas ce que vous attendez. Nous verrons aussi pourquoi parfois la console de votre navigateur favoris vous induit en erreur et quel sont les outils pour bien comprendre ce que fait votre code JavaScript"
 	},
 	{
 		"active": "Y",
-		"name": "Quand on change le code, on prévient !",
+		"name": "Quand on change le code, on prï¿½vient !",
 		"event_start": "2017-04-20T12:45:00Z",
 		"event_end": "2017-04-20T13:00:00Z",
 		"event_type": "Cloud, Devops, Outils",
@@ -140,7 +140,7 @@
 		"id": 422,
 		"venue_id": "5",
 		"speakers": "Guillaume Renaudin, ",
-		"description": "Vendredi 19h, un client  veut réaliser sa clôture comptable dans le week-end et me contacte en urgence : 500 sur l'application Web, 1 service comptable au chômage ! Chaque année, même cirque: le mot de  passe a expiré, il faut le changer. Maurice s'y est collé l'année dernière, mais bien sûr, il n'a rien noté... Admin123*, Password456! ou autre Azerty0000; aucun de mes pattern habituels ne passe ...\n\nVous connaissez __Passbolt__ ? Vous voulez éviter ses situations stressantes et désagréables ? La proposition : centraliser et partager aisément des mots de passe dans une équipe tout en assurant un maximum de sécurité basée sur des standards ouverts ! Sa spécificité : transparence et outillage complet !"
+		"description": "Vendredi 19h, un client  veut rï¿½aliser sa clï¿½ture comptable dans le week-end et me contacte en urgence : 500 sur l'application Web, 1 service comptable au chï¿½mage ! Chaque annï¿½e, mï¿½me cirque: le mot de  passe a expirï¿½, il faut le changer. Maurice s'y est collï¿½ l'annï¿½e derniï¿½re, mais bien sï¿½r, il n'a rien notï¿½... Admin123*, Password456! ou autre Azerty0000; aucun de mes pattern habituels ne passe ...\n\nVous connaissez __Passbolt__ ? Vous voulez ï¿½viter ses situations stressantes et dï¿½sagrï¿½ables ? La proposition : centraliser et partager aisï¿½ment des mots de passe dans une ï¿½quipe tout en assurant un maximum de sï¿½curitï¿½ basï¿½e sur des standards ouverts ! Sa spï¿½cificitï¿½ : transparence et outillage complet !"
 	},
 	{
 		"active": "Y",
@@ -148,12 +148,12 @@
 		"event_start": "2017-04-21T14:30:00Z",
 		"event_end": "2017-04-21T15:25:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 435,
 		"venue_id": "3",
 		"speakers": "Guillaume LOURS, ",
-		"description": "Javaslang est une librairie complètement dédiée au paradigme de programmation fonctionnelle. Elle a la particularité d'aller un peu plus loin que les notions de lambdas, pipelines ou composition de fonctions offertes par Java 8.\n\nDurant cette session nous découvrirons les structures proposées par Javaslang, comme les collections immuables, les values types tels que les Option, les Try, les Either...\n\nNous verrons comment cette librairie gère des aspects plus fonctionnels, à savoir la composition de fonction, le lifting, la memoization ou le currying.\n\nEnfin nous terminerons avec la présentation de la syntaxe offerte pour le pattern Matching et le property checking."
+		"description": "Javaslang est une librairie complï¿½tement dï¿½diï¿½e au paradigme de programmation fonctionnelle. Elle a la particularitï¿½ d'aller un peu plus loin que les notions de lambdas, pipelines ou composition de fonctions offertes par Java 8.\n\nDurant cette session nous dï¿½couvrirons les structures proposï¿½es par Javaslang, comme les collections immuables, les values types tels que les Option, les Try, les Either...\n\nNous verrons comment cette librairie gï¿½re des aspects plus fonctionnels, ï¿½ savoir la composition de fonction, le lifting, la memoization ou le currying.\n\nEnfin nous terminerons avec la prï¿½sentation de la syntaxe offerte pour le pattern Matching et le property checking."
 	},
 	{
 		"active": "Y",
@@ -166,24 +166,24 @@
 		"id": 441,
 		"venue_id": "4",
 		"speakers": "Maxime Odye, ",
-		"description": "La ElasticOn est la grand messe de la société Elastic, entre marketing, présentation des nouveautés fonctionnelles et améliorations techniques, la journée de cette année 2016 a été très riche.\n\nLe but de ce quickie est de restituer en un quart  d'heure ce qu'il fallait retenir de cette édition 2016."
+		"description": "La ElasticOn est la grand messe de la sociï¿½tï¿½ Elastic, entre marketing, prï¿½sentation des nouveautï¿½s fonctionnelles et amï¿½liorations techniques, la journï¿½e de cette annï¿½e 2016 a ï¿½tï¿½ trï¿½s riche.\n\nLe but de ce quickie est de restituer en un quart  d'heure ce qu'il fallait retenir de cette ï¿½dition 2016."
 	},
 	{
 		"active": "Y",
-		"name": "Circuit-Breaker: Comment disjoncter pour éviter de \"péter les plombs\"",
+		"name": "Circuit-Breaker: Comment disjoncter pour ï¿½viter de \"pï¿½ter les plombs\"",
 		"event_start": "2017-04-19T17:00:00Z",
 		"event_end": "2017-04-19T17:55:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 454,
 		"venue_id": "6",
 		"speakers": "Gabriel Magniez, ",
-		"description": "Un incident en production coute en moyenne 115 000€*, comment faire en sorte que des services non critiques soient isolés automatiquement afin d'éviter un impact global sur nos services?\nLa solution? Le circuit-breaker. Nous verrons comment mesurer la santé de nos services (ou ceux de nos partenaires) et comment automatiser leur mise en quarantaine.\nAprès avoir prouvé la nécessité de la mise en place d'un tel dispositif nous détaillerons  la solution technique que nous avons mise en place à base d'annuaire de service (Consul) et de load-balancer logiciel (HAProxy).\n\n\\* _http://www.usine-digitale.fr/editorial/un-incident-informatique-coute-en-moyenne-115-000-euros.N455372 _"
+		"description": "Un incident en production coute en moyenne 115 000ï¿½*, comment faire en sorte que des services non critiques soient isolï¿½s automatiquement afin d'ï¿½viter un impact global sur nos services?\nLa solution? Le circuit-breaker. Nous verrons comment mesurer la santï¿½ de nos services (ou ceux de nos partenaires) et comment automatiser leur mise en quarantaine.\nAprï¿½s avoir prouvï¿½ la nï¿½cessitï¿½ de la mise en place d'un tel dispositif nous dï¿½taillerons  la solution technique que nous avons mise en place ï¿½ base d'annuaire de service (Consul) et de load-balancer logiciel (HAProxy).\n\n\\* _http://www.usine-digitale.fr/editorial/un-incident-informatique-coute-en-moyenne-115-000-euros.N455372 _"
 	},
 	{
 		"active": "Y",
-		"name": "Emporter votre fabrique de développement",
+		"name": "Emporter votre fabrique de dï¿½veloppement",
 		"event_start": "2017-04-19T10:00:00Z",
 		"event_end": "2017-04-19T12:00:00Z",
 		"event_type": "Cloud, Devops, Outils",
@@ -192,20 +192,20 @@
 		"id": 477,
 		"venue_id": "4",
 		"speakers": "Antoine Stalin, Yan Matagne",
-		"description": "3h … Certaines personnes sortent d’un canyon en 127 heures et avec un bras en moins, nous vous proposons de gardez vos bras pour construire et mettre en place votre SI de demain : du docker, du cluster d’OS et tout les outils nécéssaires à l’automatisation de vos projets pour partir dans le cloud dès le lendemain, et tout ça en 3 heures !"
+		"description": "3h ï¿½ Certaines personnes sortent dï¿½un canyon en 127 heures et avec un bras en moins, nous vous proposons de gardez vos bras pour construire et mettre en place votre SI de demain : du docker, du cluster dï¿½OS et tout les outils nï¿½cï¿½ssaires ï¿½ lï¿½automatisation de vos projets pour partir dans le cloud dï¿½s le lendemain, et tout ï¿½a en 3 heures !"
 	},
 	{
 		"active": "Y",
 		"name": "Des Lego, des bonnes pratiques et du fun !",
 		"event_start": "2017-04-19T10:00:00Z",
 		"event_end": "2017-04-19T12:00:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
 		"format": "Lab",
 		"venue": "Lab",
 		"id": 498,
 		"venue_id": "7",
-		"speakers": "Cécile Especel, ",
-		"description": "Play with us! Utilisation de plusieurs petits jeux pour découvrir et apprécier la qualité de code, la simplicité, la refactorisation ou encore le tdd."
+		"speakers": "Cï¿½cile Especel, ",
+		"description": "Play with us! Utilisation de plusieurs petits jeux pour dï¿½couvrir et apprï¿½cier la qualitï¿½ de code, la simplicitï¿½, la refactorisation ou encore le tdd."
 	},
 	{
 		"active": "Y",
@@ -213,25 +213,25 @@
 		"event_start": "2017-04-20T14:30:00Z",
 		"event_end": "2017-04-20T15:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 512,
 		"venue_id": "3",
 		"speakers": "Christophe Furmaniak, ",
-		"description": "`Docker` (et le principe des conteneurs en général) est fortement lié à la promesse d’une image unique qui peut tourner partout et que le même artféfact peut être utilisé sur n’importe quel environnement “runtime” (du poste de développement jusqu’en production!) sans avoir à reconstruire une image à chaque fois.\n\nMais comment atteindre cet objectif de manière pratique et efficace tout en étant capable de conserver l’historique de la configuration de vos applications sur les différents environnements?\n\nCette présentation vous propose de voir comment les outils `git` et `confd` peuvent vous aider dans cette mission critique sans perdre la flexibilité nécessaire pour que vos devs et vos ops puissent cohabiter sereinement.\n\nLe bonus: la méthode présentée n’est aucunement liée à Docker (ou à la conteneurisation) et est valable quelque soit le langage utilisé pour développer vos applications!\n\nNote: les démos seront réalisées en s’appuyant sur l’orchestrateur docker “Rancher”"
+		"description": "`Docker` (et le principe des conteneurs en gï¿½nï¿½ral) est fortement liï¿½ ï¿½ la promesse dï¿½une image unique qui peut tourner partout et que le mï¿½me artfï¿½fact peut ï¿½tre utilisï¿½ sur nï¿½importe quel environnement ï¿½runtimeï¿½ (du poste de dï¿½veloppement jusquï¿½en production!) sans avoir ï¿½ reconstruire une image ï¿½ chaque fois.\n\nMais comment atteindre cet objectif de maniï¿½re pratique et efficace tout en ï¿½tant capable de conserver lï¿½historique de la configuration de vos applications sur les diffï¿½rents environnements?\n\nCette prï¿½sentation vous propose de voir comment les outils `git` et `confd` peuvent vous aider dans cette mission critique sans perdre la flexibilitï¿½ nï¿½cessaire pour que vos devs et vos ops puissent cohabiter sereinement.\n\nLe bonus: la mï¿½thode prï¿½sentï¿½e nï¿½est aucunement liï¿½e ï¿½ Docker (ou ï¿½ la conteneurisation) et est valable quelque soit le langage utilisï¿½ pour dï¿½velopper vos applications!\n\nNote: les dï¿½mos seront rï¿½alisï¿½es en sï¿½appuyant sur lï¿½orchestrateur docker ï¿½Rancherï¿½"
 	},
 	{
 		"active": "Y",
-		"name": "Retour d'expérience: le déploiement continu chez Expedia",
+		"name": "Retour d'expï¿½rience: le dï¿½ploiement continu chez Expedia",
 		"event_start": "2017-04-21T10:30:00Z",
 		"event_end": "2017-04-21T11:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 532,
 		"venue_id": "6",
 		"speakers": "Scheibel Guillaume, ",
-		"description": "Développer un site pour plus de 60 millions d’utilisateurs en plusieurs langues et pour plusieurs marques, okay pourquoi pas.\nFaire du déploiement continu sur une partie critique d’un site (les pages de paiement), ça se tente. Maintenant, mixer les deux et là on commence à avoir du challenge !\n\nDurant cette présentation, nous verrons comment nous avons relevé le défi en nous appuyant sur de meilleures pratiques:\n     - Au niveau ops: automatisations, topologies réseaux, mesures et reporting.\n     - Au niveau dev: feature focus testing (plutôt que le découpage classique unitaire / intégration), notre culture du \"test and learn\" avec l'utilisation du A/B testing tant au niveau produit que sur les implémentations.\n\n\nBien entendu, les solutions évoquées seront un mix entre techniques maison et bonnes pratiques que vous pourrez reprendre telles quelles."
+		"description": "Dï¿½velopper un site pour plus de 60 millions dï¿½utilisateurs en plusieurs langues et pour plusieurs marques, okay pourquoi pas.\nFaire du dï¿½ploiement continu sur une partie critique dï¿½un site (les pages de paiement), ï¿½a se tente. Maintenant, mixer les deux et lï¿½ on commence ï¿½ avoir du challenge !\n\nDurant cette prï¿½sentation, nous verrons comment nous avons relevï¿½ le dï¿½fi en nous appuyant sur de meilleures pratiques:\n     - Au niveau ops: automatisations, topologies rï¿½seaux, mesures et reporting.\n     - Au niveau dev: feature focus testing (plutï¿½t que le dï¿½coupage classique unitaire / intï¿½gration), notre culture du \"test and learn\" avec l'utilisation du A/B testing tant au niveau produit que sur les implï¿½mentations.\n\n\nBien entendu, les solutions ï¿½voquï¿½es seront un mix entre techniques maison et bonnes pratiques que vous pourrez reprendre telles quelles."
 	},
 	{
 		"active": "Y",
@@ -239,25 +239,25 @@
 		"event_start": "2017-04-21T13:30:00Z",
 		"event_end": "2017-04-21T14:25:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 534,
 		"venue_id": "5",
 		"speakers": "michel Rousseau, ",
-		"description": "Faire des interfaces et des expériences, c'est bien. Faire des interfaces et des expériences qui fonctionnent et qui sont trendy, c'est mieux.\nVous êtes UX expert, UI dev, CMO, tech evangelist, ou décideur? Vous faites du desktop, du mobile ou de l'embarqué? Venez découvrir le top 10 des tendances en UX/UI de l'année, pour rester hype.\nNous parlerons d'assets animés, le layout en couches, les micro-interactions, les cards via quelques exemples bien sentis, et nous nous laisserons aller à quelques prédictions concernant les réalités alternatives et le web en 3D."
+		"description": "Faire des interfaces et des expï¿½riences, c'est bien. Faire des interfaces et des expï¿½riences qui fonctionnent et qui sont trendy, c'est mieux.\nVous ï¿½tes UX expert, UI dev, CMO, tech evangelist, ou dï¿½cideur? Vous faites du desktop, du mobile ou de l'embarquï¿½? Venez dï¿½couvrir le top 10 des tendances en UX/UI de l'annï¿½e, pour rester hype.\nNous parlerons d'assets animï¿½s, le layout en couches, les micro-interactions, les cards via quelques exemples bien sentis, et nous nous laisserons aller ï¿½ quelques prï¿½dictions concernant les rï¿½alitï¿½s alternatives et le web en 3D."
 	},
 	{
 		"active": "Y",
 		"name": "Logging-driven development --  Parce que les \"Logs are NOT JUST logs\"",
 		"event_start": "2017-04-20T13:30:00Z",
 		"event_end": "2017-04-20T14:25:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
-		"format": "Conférence",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 557,
 		"venue_id": "5",
 		"speakers": "Guillaume Polaert, null null",
-		"description": "Fact 1 : ` logger.debug(\"pouet\") ;`\n\nQui n'a jamais écrit ce genre de chose? \nPersonne, ou alors vous êtes vraiment quelqu'un de vraiment ... d'intéressant :)\n\nLes logs font partie de *TOUS* les développements d'apps. Mais très souvent, cela se fait à l'instinct ;  et c'est normal, très peu d'équipes ont codifié cette partie.\n\nFinalement, pourquoi ne pas passer quelques minutes à structurer le logging, comme pour n'importe quelle feature ? Pourquoi, tant que nous y sommes, en faire un élément de notre architecture ?\n\n* Nos apps ont plein de choses à nous dire, et beaucoup de choses passent déjà par les logs\n* Les logs sont partout, des browsers aux data stores, traquant inlassablement les erreurs, les query, les temps de réponses, et les actions des users ...\n* Établir des liens entre tous les modules et micro-services des stacks\n* Avec un peu de méthode, les logs vont fondamentalement changer votre vision produit.\n\nEt puis surtout c'est super simple :)\nPetit feedback des patterns et anti-patterns qui fonctionnent;"
+		"description": "Fact 1 : ` logger.debug(\"pouet\") ;`\n\nQui n'a jamais ï¿½crit ce genre de chose? \nPersonne, ou alors vous ï¿½tes vraiment quelqu'un de vraiment ... d'intï¿½ressant :)\n\nLes logs font partie de *TOUS* les dï¿½veloppements d'apps. Mais trï¿½s souvent, cela se fait ï¿½ l'instinct ;  et c'est normal, trï¿½s peu d'ï¿½quipes ont codifiï¿½ cette partie.\n\nFinalement, pourquoi ne pas passer quelques minutes ï¿½ structurer le logging, comme pour n'importe quelle feature ? Pourquoi, tant que nous y sommes, en faire un ï¿½lï¿½ment de notre architecture ?\n\n* Nos apps ont plein de choses ï¿½ nous dire, et beaucoup de choses passent dï¿½jï¿½ par les logs\n* Les logs sont partout, des browsers aux data stores, traquant inlassablement les erreurs, les query, les temps de rï¿½ponses, et les actions des users ...\n* ï¿½tablir des liens entre tous les modules et micro-services des stacks\n* Avec un peu de mï¿½thode, les logs vont fondamentalement changer votre vision produit.\n\nEt puis surtout c'est super simple :)\nPetit feedback des patterns et anti-patterns qui fonctionnent;"
 	},
 	{
 		"active": "Y",
@@ -265,38 +265,38 @@
 		"event_start": "2017-04-20T11:30:00Z",
 		"event_end": "2017-04-20T12:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 573,
 		"venue_id": "4",
 		"speakers": "Sylvain REVEREAULT, ",
-		"description": "Avec l’émergence des concepts d’Infrastructure as Code (gestion des infrastructure au travers d’API / Configuration Management / Software Defined Datacenter / Technologies de containerisation) viennent de nouvelles façon de gérer les infrastructures dynamiquement et programmatiquement : élasticité, plateformes autoréparantes, chaos monkey, …\nDans ce talk nous explorerons ces nouveaux paradigmes, en nous appuyant sur des exemples essentiellement basés sur des conteneurs Docker."
+		"description": "Avec lï¿½ï¿½mergence des concepts dï¿½Infrastructure as Code (gestion des infrastructure au travers dï¿½API / Configuration Management / Software Defined Datacenter / Technologies de containerisation) viennent de nouvelles faï¿½on de gï¿½rer les infrastructures dynamiquement et programmatiquement : ï¿½lasticitï¿½, plateformes autorï¿½parantes, chaos monkey, ï¿½\nDans ce talk nous explorerons ces nouveaux paradigmes, en nous appuyant sur des exemples essentiellement basï¿½s sur des conteneurs Docker."
 	},
 	{
 		"active": "Y",
-		"name": "Comment j’ai diminué la consommation d'énergie d'une application native Google Android (et pourquoi)",
+		"name": "Comment jï¿½ai diminuï¿½ la consommation d'ï¿½nergie d'une application native Google Android (et pourquoi)",
 		"event_start": "2017-04-20T16:00:00Z",
 		"event_end": "2017-04-20T16:55:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 584,
 		"venue_id": "6",
 		"speakers": "Olivier Philippot, ",
-		"description": "Ce n’est pas souvent qu’un développeur Android décide de toucher au cœur de son OS favori. Le socle AOSP (Android Open Source Project) sort tout droit des usines de chez Google à Palo Alto. Même s’il n’est pas parfait, il est suffisamment performant et fiable pour servir de base au fonctionnement de 1,4 milliard de smartphones dans le monde.\nAlors, quand un de nos clients m’a demandé si nous pouvions réduire la consommation d’énergie de SystemUI, l’une des applications de base de l’interface utilisateurs Android (Entre autre la barre de statut), j'ai sincérement eu peur. Mais l'expérience a été enrichissante !\nUne session pour vous présenter pourquoi des gros gains d'énergie sont possibles sur Android (et plus généralement sur toutes les technos) et comment faire pour obtenir ces gains."
+		"description": "Ce nï¿½est pas souvent quï¿½un dï¿½veloppeur Android dï¿½cide de toucher au cï¿½ur de son OS favori. Le socle AOSPï¿½(Android Open Source Project) sort tout droit des usines de chez Google ï¿½ Palo Alto. Mï¿½me sï¿½il nï¿½est pas parfait, il est suffisamment performant et fiable pour servir de base au fonctionnement de 1,4 milliard de smartphones dans le monde.\nAlors, quand un de nos clients mï¿½a demandï¿½ si nous pouvions rï¿½duire la consommation dï¿½ï¿½nergie de SystemUI, lï¿½une des applications de base de lï¿½interface utilisateurs Android (Entre autre la barre de statut), j'ai sincï¿½rement eu peur. Mais l'expï¿½rience a ï¿½tï¿½ enrichissante !\nUne session pour vous prï¿½senter pourquoi des gros gains d'ï¿½nergie sont possibles sur Android (et plus gï¿½nï¿½ralement sur toutes les technos) et comment faire pour obtenir ces gains."
 	},
 	{
 		"active": "Y",
-		"name": "Développez des applications web desktop avec Electron de Github",
+		"name": "Dï¿½veloppez des applications web desktop avec Electron de Github",
 		"event_start": "2017-04-21T11:30:00Z",
 		"event_end": "2017-04-21T12:25:00Z",
 		"event_type": "Backend et Desktop",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 615,
 		"venue_id": "3",
 		"speakers": "Eric Briand, Yvonnick FRIN",
-		"description": "D’un côté, nous avons la communauté web qui maintient un écosystème riche permettant de construire des interfaces utilisateurs rapidement. De l’autre côté, l’écosystème desktop possède des outils très performants mais qui demandent beaucoup d’investissement. Github s’est retroussé les manches pour tirer le meilleur des deux mondes et a créé Electron ! Electron, c’est la possibilité de construire des applications grâce aux composants web tout en profitant des interactions riches avec la machine d’une application desktop.\n\nAu cours de cette présentation, nous allons revenir sur les raisons du succès grandissant d’Electron et passerons en revue tout ce qu’il offre en matière de packaging, de mises à jour automatiques et de stratégies de testing au travers du livecoding d’une application meme generator."
+		"description": "Dï¿½un cï¿½tï¿½, nous avons la communautï¿½ web qui maintient un ï¿½cosystï¿½me riche permettant de construire des interfaces utilisateurs rapidement. De lï¿½autre cï¿½tï¿½, lï¿½ï¿½cosystï¿½me desktop possï¿½de des outils trï¿½s performants mais qui demandent beaucoup dï¿½investissement. Github sï¿½est retroussï¿½ les manches pour tirer le meilleur des deux mondes et a crï¿½ï¿½ Electron ! Electron, cï¿½est la possibilitï¿½ de construire des applications grï¿½ce aux composants web tout en profitant des interactions riches avec la machine dï¿½une application desktop.\n\nAu cours de cette prï¿½sentation, nous allons revenir sur les raisons du succï¿½s grandissant dï¿½Electron et passerons en revue tout ce quï¿½il offre en matiï¿½re de packaging, de mises ï¿½ jour automatiques et de stratï¿½gies de testing au travers du livecoding dï¿½une application meme generator."
 	},
 	{
 		"active": "Y",
@@ -309,7 +309,7 @@
 		"id": 623,
 		"venue_id": "5",
 		"speakers": "Wassim Chegham, ",
-		"description": "Ce talk est une introduction de RxJs, des Observables et Streams. Nous verrons comment exploiter ces concepts pour créer des applications Web dites réactives. Nous expliquerons ces concepts dans le contexte d'Angular et verrons comment ce framework a été battis sur ces concepts réactifs. Venez découvrir pourquoi Angular + RxJS = ??"
+		"description": "Ce talk est une introduction de RxJs, des Observables et Streams. Nous verrons comment exploiter ces concepts pour crï¿½er des applications Web dites rï¿½actives. Nous expliquerons ces concepts dans le contexte d'Angular et verrons comment ce framework a ï¿½tï¿½ battis sur ces concepts rï¿½actifs. Venez dï¿½couvrir pourquoi Angular + RxJS = ??"
 	},
 	{
 		"active": "Y",
@@ -322,59 +322,59 @@
 		"id": 626,
 		"venue_id": "5",
 		"speakers": "Wassim Chegham, ",
-		"description": "Angular est un framework très performant. Savez-vous pourquoi ? Parce que l'équipe a travaillé dur pour le rendre à la fois aussi rapide et sûr. Un des points sur lequel l'équipe n'arrête pas d'innover est le compilateur des templates. Dans ce talk, nous décrirons comment le compilateur d'Angular fonctionne. Nous présenterons les deux modes de compilations supportés: JIT et AOT ainsi que les plus et moins de chaque mode. Nous essayerons de démystifier la compilation AOT."
+		"description": "Angular est un framework trï¿½s performant. Savez-vous pourquoi ? Parce que l'ï¿½quipe a travaillï¿½ dur pour le rendre ï¿½ la fois aussi rapide et sï¿½r. Un des points sur lequel l'ï¿½quipe n'arrï¿½te pas d'innover est le compilateur des templates. Dans ce talk, nous dï¿½crirons comment le compilateur d'Angular fonctionne. Nous prï¿½senterons les deux modes de compilations supportï¿½s: JIT et AOT ainsi que les plus et moins de chaque mode. Nous essayerons de dï¿½mystifier la compilation AOT."
 	},
 	{
 		"active": "Y",
-		"name": "Les algorithmes génétiques dans tous leurs états",
+		"name": "Les algorithmes gï¿½nï¿½tiques dans tous leurs ï¿½tats",
 		"event_start": "2017-04-20T16:00:00Z",
 		"event_end": "2017-04-20T16:55:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 627,
 		"venue_id": "4",
 		"speakers": "Julien Sebrien, ",
-		"description": "Nous présenterons les algorithmes génétiques, appartenant à la famille des algorithmes évolutionnistes. Ils permettent d'obtenir une solution approchée à un problème d'optimisation, lorsqu'il n'existe pas de méthode exacte (ou que la solution est inconnue) pour le résoudre en un temps raisonnable.\n\nL'exécution d'un algorithme génétique passe par les étapes suivantes:\n- Génération aléatoire d'une population initiale\n- Croisement des génomes\n- Mutation\n- Evaluation des individus\n- Vérification des condition de terminaison\n\nDes exemples d'application seront présentés afin d'illustrer leur comportement:\n- les smart rockets, où des fusées tenteront de contourner un obstacle pour atteindre une cible ;)\n- la planification de resources, et notamment l’allocation de salles de conférences pour les intervenants d’une keynote, en fonction de leurs besoins d’équipements, des personnes inscrites, des capacités des dites salles, etc. (respect des contraintes faibles et fortes)"
+		"description": "Nous prï¿½senterons les algorithmes gï¿½nï¿½tiques, appartenant ï¿½ la famille des algorithmes ï¿½volutionnistes. Ils permettent d'obtenir une solution approchï¿½e ï¿½ un problï¿½me d'optimisation, lorsqu'il n'existe pas de mï¿½thode exacte (ou que la solution est inconnue) pour le rï¿½soudre en un temps raisonnable.\n\nL'exï¿½cution d'un algorithme gï¿½nï¿½tique passe par les ï¿½tapes suivantes:\n- Gï¿½nï¿½ration alï¿½atoire d'une population initiale\n- Croisement des gï¿½nomes\n- Mutation\n- Evaluation des individus\n- Vï¿½rification des condition de terminaison\n\nDes exemples d'application seront prï¿½sentï¿½s afin d'illustrer leur comportement:\n- les smart rockets, oï¿½ des fusï¿½es tenteront de contourner un obstacle pour atteindre une cible ;)\n- la planification de resources, et notamment lï¿½allocation de salles de confï¿½rences pour les intervenants dï¿½une keynote, en fonction de leurs besoins dï¿½ï¿½quipements, des personnes inscrites, des capacitï¿½s des dites salles, etc. (respect des contraintes faibles et fortes)"
 	},
 	{
 		"active": "Y",
-		"name": "REX : d'un monolithe à des microservices multitenants en Docker",
+		"name": "REX : d'un monolithe ï¿½ des microservices multitenants en Docker",
 		"event_start": "2017-04-20T16:00:00Z",
 		"event_end": "2017-04-20T16:55:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 669,
 		"venue_id": "3",
 		"speakers": "Jean-Philippe Gouigoux, ",
-		"description": "En trois ans, une équipe avec 30 devs, 5 ops et 10 testeurs a transformé un produit monolithique en une application en microservices uniquement basée sur des API REST utilisant des normes. Elle l'a déployé en mode Cloud ou On Premise, avec du Docker. Au passage, elle s'est structurée en DevOps et Feature Teams. En trois ans sur un tel projet, on apprend beaucoup de choses ! Le dirtech de cette équipe vous en propose un résumé."
+		"description": "En trois ans, une ï¿½quipe avec 30 devs, 5 ops et 10 testeurs a transformï¿½ un produit monolithique en une application en microservices uniquement basï¿½e sur des API REST utilisant des normes. Elle l'a dï¿½ployï¿½ en mode Cloud ou On Premise, avec du Docker. Au passage, elle s'est structurï¿½e en DevOps et Feature Teams. En trois ans sur un tel projet, on apprend beaucoup de choses ! Le dirtech de cette ï¿½quipe vous en propose un rï¿½sumï¿½."
 	},
 	{
 		"active": "Y",
-		"name": "Le test d’intrusion Red Team : digne successeur de l’audit de sécurité ?",
+		"name": "Le test dï¿½intrusion Red Team : digne successeur de lï¿½audit de sï¿½curitï¿½ ?",
 		"event_start": "2017-04-20T17:30:00Z",
 		"event_end": "2017-04-20T17:55:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
 		"format": "Tool in Action",
 		"venue": "Amphi D",
 		"id": 688,
 		"venue_id": "6",
-		"speakers": "Clément MICHEL, ",
-		"description": "Au commencement il y avait « l’audit de sécurité » qui était très cadré et très dirigé et donc manquait de vision terrain. Nous sommes ensuite passé au « test d’intrusion », plus réaliste d’une cyberattaque car il permet une plus grande marge de manœuvre pour les consultants tout en permettant l’application des méthodes des pirates. Cependant, le test d’intrusion possède ses limites et face à la généralisation des cyberattaques certains commencent à se demander s’il ne vaudrait pas mieux faire évoluer cette méthodologie…\nLe « Red Team » (qui nous vient tout droit d’outre-atlantique) serait-il LA réponse à cette problématique ? L’objectif de ce talk est donc de présenter cette nouvelle méthodologie qui petit à petit commence à faire son bout de chemin sur le vieux continent."
+		"speakers": "Clï¿½ment MICHEL, ",
+		"description": "Au commencement il y avait ï¿½ lï¿½audit de sï¿½curitï¿½ ï¿½ qui ï¿½tait trï¿½s cadrï¿½ et trï¿½s dirigï¿½ et donc manquait de vision terrain. Nous sommes ensuite passï¿½ au ï¿½ test dï¿½intrusion ï¿½, plus rï¿½aliste dï¿½une cyberattaque car il permet une plus grande marge de manï¿½uvre pour les consultants tout en permettant lï¿½application des mï¿½thodes des pirates. Cependant, le test dï¿½intrusion possï¿½de ses limites et face ï¿½ la gï¿½nï¿½ralisation des cyberattaques certains commencent ï¿½ se demander sï¿½il ne vaudrait pas mieux faire ï¿½voluer cette mï¿½thodologieï¿½\nLe ï¿½ Red Team ï¿½ (qui nous vient tout droit dï¿½outre-atlantique) serait-il LA rï¿½ponse ï¿½ cette problï¿½matique ? Lï¿½objectif de ce talk est donc de prï¿½senter cette nouvelle mï¿½thodologie qui petit ï¿½ petit commence ï¿½ faire son bout de chemin sur le vieux continent."
 	},
 	{
 		"active": "Y",
-		"name": "JUnit 5 : Tests imbriqués dynamiques",
+		"name": "JUnit 5 : Tests imbriquï¿½s dynamiques",
 		"event_start": "2017-04-21T13:00:00Z",
 		"event_end": "2017-04-21T13:15:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
 		"format": "Quickie",
 		"venue": "Amphi A",
 		"id": 716,
 		"venue_id": "3",
 		"speakers": "Benoit AVERTY, ",
-		"description": "Après une 3e milestone releasée en novembre dernier, JUnit 5 arrive à grand pas et apporte un lot de nouveautés qui vont être plus que bienvenues ! \n\nDans ce quickie, je vous propose de s'attarder sur quelques unes de ces nouveautés : En premier lieu les tests dynamiques (enfin), et d'autres nouveautés plus mineures mais néanmoins très pratiques comme les tests imbriqués, les assertions multiples, ..."
+		"description": "Aprï¿½s une 3e milestone releasï¿½e en novembre dernier, JUnit 5 arrive ï¿½ grand pas et apporte un lot de nouveautï¿½s qui vont ï¿½tre plus que bienvenues ! \n\nDans ce quickie, je vous propose de s'attarder sur quelques unes de ces nouveautï¿½s : En premier lieu les tests dynamiques (enfin), et d'autres nouveautï¿½s plus mineures mais nï¿½anmoins trï¿½s pratiques comme les tests imbriquï¿½s, les assertions multiples, ..."
 	},
 	{
 		"active": "Y",
@@ -382,7 +382,7 @@
 		"event_start": "2017-04-20T13:30:00Z",
 		"event_end": "2017-04-20T14:25:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 728,
 		"venue_id": "4",
@@ -391,29 +391,29 @@
 	},
 	{
 		"active": "Y",
-		"name": "Iot inception : Mesure de l'énergie d'Android Things sur Raspberry 3 avec Arduino Uno",
+		"name": "Iot inception : Mesure de l'ï¿½nergie d'Android Things sur Raspberry 3 avec Arduino Uno",
 		"event_start": "2017-04-19T10:00:00Z",
 		"event_end": "2017-04-19T12:00:00Z",
-		"event_type": "Objets connectés, IoT, Robotique",
-		"format": "Université",
+		"event_type": "Objets connectï¿½s, IoT, Robotique",
+		"format": "Universitï¿½",
 		"venue": "Amphi A",
 		"id": 735,
 		"venue_id": "3",
 		"speakers": "Olivier Philippot, ",
-		"description": "L'autonomie est critique pour le mobile et encore plus pour l'IOT.\nAndroid offre des API de mesure permettant de faire des mesures software mais avec le nouveau SDK d'Android pour l'IOt (Android Things) ce n'est pas aussi simple.  Les données constructeurs ne suffissent plus pour faire des estimations, il faut mettre les mains dans le moteur pour mesurer l'énergie. \nDans cette session, je vous montrerai comment utiliser un Arduino Uno pour mesurer la consommation du Raspberry PI 3 avec Android Things \nC'est le moment de voir ce que ce nouveau venu de la famille Android a dans le ventre !"
+		"description": "L'autonomie est critique pour le mobile et encore plus pour l'IOT.\nAndroid offre des API de mesure permettant de faire des mesures software mais avec le nouveau SDK d'Android pour l'IOt (Android Things) ce n'est pas aussi simple.  Les donnï¿½es constructeurs ne suffissent plus pour faire des estimations, il faut mettre les mains dans le moteur pour mesurer l'ï¿½nergie. \nDans cette session, je vous montrerai comment utiliser un Arduino Uno pour mesurer la consommation du Raspberry PI 3 avec Android Things \nC'est le moment de voir ce que ce nouveau venu de la famille Android a dans le ventre !"
 	},
 	{
 		"active": "Y",
 		"name": "JWT in depth",
 		"event_start": "2017-04-21T12:45:00Z",
 		"event_end": "2017-04-21T13:00:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
 		"format": "Quickie",
 		"venue": "Amphi B",
 		"id": 739,
 		"venue_id": "4",
 		"speakers": "Mathieu POUSSE, ",
-		"description": "JWT devient un vrai standard pour sécuriser et échanger des informations entre nos applicatifs (front / back ou back / back). \n\nSi il devient une pierre angulaire de la sécurité, il est indispensable d'en comprendre le fonctionnement dans sa globalité et ses détails.\n\nNous verrons comment ce mécanisme fonctionne et notamment comment l'implémenter correctement et en toute sécurité"
+		"description": "JWT devient un vrai standard pour sï¿½curiser et ï¿½changer des informations entre nos applicatifs (front / back ou back / back). \n\nSi il devient une pierre angulaire de la sï¿½curitï¿½, il est indispensable d'en comprendre le fonctionnement dans sa globalitï¿½ et ses dï¿½tails.\n\nNous verrons comment ce mï¿½canisme fonctionne et notamment comment l'implï¿½menter correctement et en toute sï¿½curitï¿½"
 	},
 	{
 		"active": "Y",
@@ -421,25 +421,25 @@
 		"event_start": "2017-04-19T13:30:00Z",
 		"event_end": "2017-04-19T14:25:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 741,
 		"venue_id": "5",
 		"speakers": "cyril balit, Wassim Chegham",
-		"description": "Il nous aura fallu attendre 2 ans pour avoir cette nouvelle version du fameux framework de Google. L'objectif est ambitieux: devenir le framework front le plus performant. Nous vous proposons de naviguer sur un projet Angular  pour comprendre ce qui le rend plus rapide. Nous parlerons de ce qui est proposé en natif (détection du changement, lazy loading et pre loading, compilation...) mais aussi de ce que vous pouvez mettre en place (compilation AOT, tree shaking, universal...)"
+		"description": "Il nous aura fallu attendre 2 ans pour avoir cette nouvelle version du fameux framework de Google. L'objectif est ambitieux: devenir le framework front le plus performant. Nous vous proposons de naviguer sur un projet Angular  pour comprendre ce qui le rend plus rapide. Nous parlerons de ce qui est proposï¿½ en natif (dï¿½tection du changement, lazy loading et pre loading, compilation...) mais aussi de ce que vous pouvez mettre en place (compilation AOT, tree shaking, universal...)"
 	},
 	{
 		"active": "Y",
 		"name": "Kanban from the startup warfare",
 		"event_start": "2017-04-21T16:00:00Z",
 		"event_end": "2017-04-21T16:55:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
-		"format": "Conférence",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 760,
 		"venue_id": "6",
-		"speakers": "Chéné Youen, ",
-		"description": "L'agilité n'est pas un luxe dans une startup, c'est question de survie. La valeur doit être délivrée et confrontée au plus tôt au marché et aux clients. L'effet tunnel n'est pas une option. La mort guette régulièrement la vie d'une startup.\n\nNous verrons comment l'équipe produit de Saagie s'est organisé autour de l'approche Kanban pour répondre à ce système fortement contraint. Nous partagerons aussi les erreurs et les leçons apprises.\n\nLa présentation sera agrémentée d'un parallélisme avec un empire qui a eu une croissance de startup : l'empire mongol.\n\n#kanban #leanstartup #noestimates #managertools"
+		"speakers": "Chï¿½nï¿½ Youen, ",
+		"description": "L'agilitï¿½ n'est pas un luxe dans une startup, c'est question de survie. La valeur doit ï¿½tre dï¿½livrï¿½e et confrontï¿½e au plus tï¿½t au marchï¿½ et aux clients. L'effet tunnel n'est pas une option. La mort guette rï¿½guliï¿½rement la vie d'une startup.\n\nNous verrons comment l'ï¿½quipe produit de Saagie s'est organisï¿½ autour de l'approche Kanban pour rï¿½pondre ï¿½ ce systï¿½me fortement contraint. Nous partagerons aussi les erreurs et les leï¿½ons apprises.\n\nLa prï¿½sentation sera agrï¿½mentï¿½e d'un parallï¿½lisme avec un empire qui a eu une croissance de startup : l'empire mongol.\n\n#kanban #leanstartup #noestimates #managertools"
 	},
 	{
 		"active": "Y",
@@ -451,47 +451,47 @@
 		"venue": "Amphi B",
 		"id": 762,
 		"venue_id": "4",
-		"speakers": "Chéné Youen, Aurélien Vandel",
-		"description": "Nous calculerons des indicateurs en temps réel depuis kafka pour traiter les données avec spark streaming et enfin les stocker dans Mongo DB.\n\nNous visualiserons les données avec une application web.\n\nPas besoin d'installer toutes ces technologies, une plateforme Saagie sera à disposition. \n\nViens juste avec ton IDE favoris et un langage compatible (java 8 ou Scala)!"
+		"speakers": "Chï¿½nï¿½ Youen, Aurï¿½lien Vandel",
+		"description": "Nous calculerons des indicateurs en temps rï¿½el depuis kafka pour traiter les donnï¿½es avec spark streaming et enfin les stocker dans Mongo DB.\n\nNous visualiserons les donnï¿½es avec une application web.\n\nPas besoin d'installer toutes ces technologies, une plateforme Saagie sera ï¿½ disposition. \n\nViens juste avec ton IDE favoris et un langage compatible (java 8 ou Scala)!"
 	},
 	{
 		"active": "Y",
-		"name": "Introduction à Rust",
+		"name": "Introduction ï¿½ Rust",
 		"event_start": "2017-04-20T10:30:00Z",
 		"event_end": "2017-04-20T11:25:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 774,
 		"venue_id": "4",
 		"speakers": "Olivier Bourgain, null null",
-		"description": "Vous aimez les concepts de haut niveau, comme les fonctions d’ordre supérieur, un système de typage fort, immutabilité par défaut, closures et des génériques réifiés ?\nLa gestion manuelle de la mémoire n’est pas votre fort ; vous ne voulez pas d’un ramasse miette, ni de pauses dans votre application ?\n\nRust est fait pour vous !\n\nC’est un langage de programmation assez récent, développé par Mozilla qui expose des concepts de haut niveau tout en permettant d’atteindre un niveau de contrôle similaire au C/C++.\n\nSa devise est: “Performance, Sécurité, Productivité, choisissez en trois.“ \n\nIl propose une gestion automatique de la mémoire sans ramasse miettes, ni comptage de référence mais les développeur adeptes du bas niveau ne sont pas en reste, avec la possibilité d’en avoir le contrôle. Le langage Rust permet de très bonnes performances via sa gestion de la mémoire faite au niveau du compilateur et une compilation native.\n\nA travers du live coding, nous illustrerons les concepts de Rust: borrowing, ownership, lifetimes, mutabilitée et génériques."
+		"description": "Vous aimez les concepts de haut niveau, comme les fonctions dï¿½ordre supï¿½rieur, un systï¿½me de typage fort, immutabilitï¿½ par dï¿½faut, closures et des gï¿½nï¿½riques rï¿½ifiï¿½s ?\nLa gestion manuelle de la mï¿½moire nï¿½est pas votre fort ; vous ne voulez pas dï¿½un ramasse miette, ni de pauses dans votre application ?\n\nRust est fait pour vous !\n\nCï¿½est un langage de programmation assez rï¿½cent, dï¿½veloppï¿½ par Mozilla qui expose des concepts de haut niveau tout en permettant dï¿½atteindre un niveau de contrï¿½le similaire au C/C++.\n\nSa devise est: ï¿½Performance, Sï¿½curitï¿½, Productivitï¿½, choisissez en trois.ï¿½ \n\nIl propose une gestion automatique de la mï¿½moire sans ramasse miettes, ni comptage de rï¿½fï¿½rence mais les dï¿½veloppeur adeptes du bas niveau ne sont pas en reste, avec la possibilitï¿½ dï¿½en avoir le contrï¿½le. Le langage Rust permet de trï¿½s bonnes performances via sa gestion de la mï¿½moire faite au niveau du compilateur et une compilation native.\n\nA travers du live coding, nous illustrerons les concepts de Rust: borrowing, ownership, lifetimes, mutabilitï¿½e et gï¿½nï¿½riques."
 	},
 	{
 		"active": "Y",
-		"name": "Retour sur les panama papers et les bases de donnés graphe",
+		"name": "Retour sur les panama papers et les bases de donnï¿½s graphe",
 		"event_start": "2017-04-21T10:30:00Z",
 		"event_end": "2017-04-21T11:25:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 783,
 		"venue_id": "5",
 		"speakers": "Benoit Simard, ",
-		"description": "Au printemps 2016, le premier article de presse sur les \"Panama papers\" a été publié. Il s'agit de la plus grande 'fuites' de l'histoire avec plus de 3T de données brutes.\nCette conférence vous détaillera les technologies que l'ICIJ (International Consortium Of Investigate Journalists) a utilisé pour fournir aux journalistes une interface simple pour leur recherche. \n\nVia une demonstration sur les données des panama papers, je vous présenterai nottament le coeur du syste?me, a savoir la base de données graph Neo4j avec son moteur de requête Cypher."
+		"description": "Au printemps 2016, le premier article de presse sur les \"Panama papers\" a ï¿½tï¿½ publiï¿½. Il s'agit de la plus grande 'fuites' de l'histoire avec plus de 3T de donnï¿½es brutes.\nCette confï¿½rence vous dï¿½taillera les technologies que l'ICIJ (International Consortium Of Investigate Journalists) a utilisï¿½ pour fournir aux journalistes une interface simple pour leur recherche. \n\nVia une demonstration sur les donnï¿½es des panama papers, je vous prï¿½senterai nottament le coeur du syste?me, a savoir la base de donnï¿½es graph Neo4j avec son moteur de requï¿½te Cypher."
 	},
 	{
 		"active": "Y",
-		"name": "Quand Internet sera gouvernée par les |chats> de Shrödinger",
+		"name": "Quand Internet sera gouvernï¿½e par les |chats> de Shrï¿½dinger",
 		"event_start": "2017-04-21T13:30:00Z",
 		"event_end": "2017-04-21T14:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 850,
 		"venue_id": "4",
 		"speakers": "Nicolas De Loof, ",
-		"description": "Si l'Internet de 2016 déborde de vidéos de chatons trop mignons, dans quelques années, nos réseaux véhiculeront des chats de Shrödinger.\n\nSuperposition d'état, indétermination, intrication ... L'informatique quantique est à nos portes. Elle sort doucement de la sphère théorique pour devenir une réalité de laboratoire, voire de premières solutions industrielles. Loin de pures spéculations, elle permettra de casser la sécurité des infras \"legacy\" de 2016 tout en offrant en contrepartie une sécurité inviolable, même par la NSA. Le tout étant de savoir lequel arrivera en premier."
+		"description": "Si l'Internet de 2016 dï¿½borde de vidï¿½os de chatons trop mignons, dans quelques annï¿½es, nos rï¿½seaux vï¿½hiculeront des chats de Shrï¿½dinger.\n\nSuperposition d'ï¿½tat, indï¿½termination, intrication ... L'informatique quantique est ï¿½ nos portes. Elle sort doucement de la sphï¿½re thï¿½orique pour devenir une rï¿½alitï¿½ de laboratoire, voire de premiï¿½res solutions industrielles. Loin de pures spï¿½culations, elle permettra de casser la sï¿½curitï¿½ des infras \"legacy\" de 2016 tout en offrant en contrepartie une sï¿½curitï¿½ inviolable, mï¿½me par la NSA. Le tout ï¿½tant de savoir lequel arrivera en premier."
 	},
 	{
 		"active": "Y",
@@ -499,12 +499,12 @@
 		"event_start": "2017-04-21T16:00:00Z",
 		"event_end": "2017-04-21T16:55:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 854,
 		"venue_id": "3",
 		"speakers": "Olivier Leplus, Wassim Chegham",
-		"description": "De nouvelles API arrivent afin de permettre d’avoir une vrai expérience offline-first.\n- La cache API permet par exemple de stocker facilement des assets et d’afficher une application web même sans connexion.\n- L’API background sync permet d’enregistrer des actions que l’on pourra exécuter une fois qu’on aura une connexion stable.\n- IndexedDB permet de stocker des données dans une base de donnée locale.\n\nNous verrons comment intégrer ces 3 technologies à une application durant un live coding"
+		"description": "De nouvelles API arrivent afin de permettre dï¿½avoir une vrai expï¿½rience offline-first.\n- La cache API permet par exemple de stocker facilement des assets et dï¿½afficher une application web mï¿½me sans connexion.\n- Lï¿½API background sync permet dï¿½enregistrer des actions que lï¿½on pourra exï¿½cuter une fois quï¿½on aura une connexion stable.\n- IndexedDB permet de stocker des donnï¿½es dans une base de donnï¿½e locale.\n\nNous verrons comment intï¿½grer ces 3 technologies ï¿½ une application durant un live coding"
 	},
 	{
 		"active": "Y",
@@ -516,25 +516,25 @@
 		"venue": "Amphi B",
 		"id": 861,
 		"venue_id": "4",
-		"speakers": "Frédéric Bouchery, ",
-		"description": "PHP serait-il comme Justin Bieber pour la musique : c'est bien pour les ados, mais quand on grandit, il faut passer à autre chose. \"PHP, c’est de la merde en boite\", \"Le typage faible, c’est pour les noobs\", \"Totalement inconsistant et mal conçu\", \"PHP a vécu bien trop longtemps\". PHP inspire beaucoup d’animosité, et la plupart des arguments sont justifiés. Alors, doit-on encore faire du PHP en 2017 ?"
+		"speakers": "Frï¿½dï¿½ric Bouchery, ",
+		"description": "PHP serait-il comme Justin Bieber pour la musique : c'est bien pour les ados, mais quand on grandit, il faut passer ï¿½ autre chose. \"PHP, cï¿½est de la merde en boite\", \"Le typage faible, cï¿½est pour les noobs\", \"Totalement inconsistant et mal conï¿½u\", \"PHP a vï¿½cu bien trop longtemps\". PHP inspire beaucoup dï¿½animositï¿½, et la plupart des arguments sont justifiï¿½s. Alors, doit-on encore faire du PHP en 2017 ?"
 	},
 	{
 		"active": "Y",
-		"name": "Les problèmes que l’on rencontre en microservice : configuration, authentification et autre joyeusetés",
+		"name": "Les problï¿½mes que lï¿½on rencontre en microservice : configuration, authentification et autre joyeusetï¿½s",
 		"event_start": "2017-04-20T10:30:00Z",
 		"event_end": "2017-04-20T11:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 862,
 		"venue_id": "6",
 		"speakers": "Quentin ADAM, ",
-		"description": "Ok, tout le monde est persuadé, les microservices, c’est cool. Moi aussi je le crois, ça fait 5 ans que l'architecture de Clever Cloud est basé là dessus. Mais comme tout les nouveau machin trendy, en fait, c’est pas la panacé, et ça apporte son lot de problèmes. Au rang desquels la gestion de l’authentification en mode distribué, je vais donc lister les quelques possibilités de gestion à ce point là. La gestion de la configuration est également un problème quand on déploie des applications distribué. Le talk sera donc fait pour expliquer le moyen de mettre en place une démarche de microservice dans la vie réelle et de soulever les problèmes qui vont être rencontré, et comment les régler."
+		"description": "Ok, tout le monde est persuadï¿½, les microservices, cï¿½est cool. Moi aussi je le crois, ï¿½a fait 5 ans que l'architecture de Clever Cloud est basï¿½ lï¿½ dessus. Mais comme tout les nouveau machin trendy, en fait, cï¿½est pas la panacï¿½, et ï¿½a apporte son lot de problï¿½mes. Au rang desquels la gestion de lï¿½authentification en mode distribuï¿½, je vais donc lister les quelques possibilitï¿½s de gestion ï¿½ ce point lï¿½. La gestion de la configuration est ï¿½galement un problï¿½me quand on dï¿½ploie des applications distribuï¿½. Le talk sera donc fait pour expliquer le moyen de mettre en place une dï¿½marche de microservice dans la vie rï¿½elle et de soulever les problï¿½mes qui vont ï¿½tre rencontrï¿½, et comment les rï¿½gler."
 	},
 	{
 		"active": "Y",
-		"name": "Comment ça marche systemd déjà ?",
+		"name": "Comment ï¿½a marche systemd dï¿½jï¿½ ?",
 		"event_start": "2017-04-20T17:00:00Z",
 		"event_end": "2017-04-20T17:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
@@ -543,20 +543,20 @@
 		"id": 868,
 		"venue_id": "5",
 		"speakers": "Quentin ADAM, ",
-		"description": "Après la grande guerre initd et systemd, il est clair que maintenant systemd s'est imposé. Pourquoi ? Quels sont les intérêts ?\nEst ce difficile de faire un fichier de configuration systemd ? Comment ça marche ? Comment écrire un fichier de conf ? Comment gérer des CRONs avec ?"
+		"description": "Aprï¿½s la grande guerre initd et systemd, il est clair que maintenant systemd s'est imposï¿½. Pourquoi ? Quels sont les intï¿½rï¿½ts ?\nEst ce difficile de faire un fichier de configuration systemd ? Comment ï¿½a marche ? Comment ï¿½crire un fichier de conf ? Comment gï¿½rer des CRONs avec ?"
 	},
 	{
 		"active": "Y",
-		"name": "Smartphone et blockchain, armes de révolution massive",
+		"name": "Smartphone et blockchain, armes de rï¿½volution massive",
 		"event_start": "2017-04-21T10:30:00Z",
 		"event_end": "2017-04-21T11:25:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 878,
 		"venue_id": "4",
 		"speakers": "Damien LECAN, Guillaume NICOLAS",
-		"description": "Avez-vous déjà rêvé d'un monde dans lequel votre voix compte ? Dans lequel les échanges sont libres et transparents ? Ce monde est à portée de main, probablement à cet instant dans votre poche. Nous annonçons cette révolution : la **blockchain dans votre smartphone !**\n\n- \"La blockchain dans mon smartphone ? Ca ne marchera jamais !\"\n- Mais qui a dit que la Blockchain devait rester sur nos postes de travail ? Peut-être les *2,21 Gigowatts* de consommation électrique annoncés par certains, mais nous allons vous démontrer le contraire.\n\nAprès une introduction aux Blockchains et en particulier la Blockchain Ethereum, à leurs usages et perspectives, nous vous montrerons comment construire une \"Dapp\" mobile Android Ethereum à l'aide du client Blockchain Geth et de la librairie Ethereum-Java.\n\nSoyez prêts à participer à la phase de test ! ;-)"
+		"description": "Avez-vous dï¿½jï¿½ rï¿½vï¿½ d'un monde dans lequel votre voix compte ? Dans lequel les ï¿½changes sont libres et transparents ? Ce monde est ï¿½ portï¿½e de main, probablement ï¿½ cet instant dans votre poche. Nous annonï¿½ons cette rï¿½volution : la **blockchain dans votre smartphone !**\n\n- \"La blockchain dans mon smartphone ? Ca ne marchera jamais !\"\n- Mais qui a dit que la Blockchain devait rester sur nos postes de travail ? Peut-ï¿½tre les *2,21 Gigowatts* de consommation ï¿½lectrique annoncï¿½s par certains, mais nous allons vous dï¿½montrer le contraire.\n\nAprï¿½s une introduction aux Blockchains et en particulier la Blockchain Ethereum, ï¿½ leurs usages et perspectives, nous vous montrerons comment construire une \"Dapp\" mobile Android Ethereum ï¿½ l'aide du client Blockchain Geth et de la librairie Ethereum-Java.\n\nSoyez prï¿½ts ï¿½ participer ï¿½ la phase de test ! ;-)"
 	},
 	{
 		"active": "Y",
@@ -564,12 +564,12 @@
 		"event_start": "2017-04-21T13:30:00Z",
 		"event_end": "2017-04-21T14:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 881,
 		"venue_id": "3",
-		"speakers": "Cédric Champeau, ",
-		"description": "Dans le monde Java, il y a traditionnellement deux approches pour développer un logiciel: _mono-repository_ ou _multi-repository_. Dans le premier, un _repository_ Git immense contient tout votre code, et il est possible d'éditer tous les modules simplement... tant que votre IDE tient la charge. Dans le second, votre application est divisée en modules versionnés séparément. Généralement plus propre, cette approche apporte son lot de contraintes : devoir publier des _snapshots_ pour chaque modification, typiquement, ou encore l'impossibilité de refactorer du code disponible dans un module sur lequel on ne travaille pas.\n\nLes builds composites Gradle réunissent le meilleur des deux mondes: quelle que soit votre approche, vous pouvez composer des builds indépendantes comme si elles n'en n'étaient qu'une seule ! Autrement dit, elles permettent de remplacer, dans un graphe de dépendances, une dépendance par ses sources, la transformant en sous-projet local.\n\nCette nouvelle approche va révolutionner votre façon de développer et vous faire gagner un temps précieux. Venez découvrir ses avantages, au delà de cette simple introduction !"
+		"speakers": "Cï¿½dric Champeau, ",
+		"description": "Dans le monde Java, il y a traditionnellement deux approches pour dï¿½velopper un logiciel: _mono-repository_ ou _multi-repository_. Dans le premier, un _repository_ Git immense contient tout votre code, et il est possible d'ï¿½diter tous les modules simplement... tant que votre IDE tient la charge. Dans le second, votre application est divisï¿½e en modules versionnï¿½s sï¿½parï¿½ment. Gï¿½nï¿½ralement plus propre, cette approche apporte son lot de contraintes : devoir publier des _snapshots_ pour chaque modification, typiquement, ou encore l'impossibilitï¿½ de refactorer du code disponible dans un module sur lequel on ne travaille pas.\n\nLes builds composites Gradle rï¿½unissent le meilleur des deux mondes: quelle que soit votre approche, vous pouvez composer des builds indï¿½pendantes comme si elles n'en n'ï¿½taient qu'une seule ! Autrement dit, elles permettent de remplacer, dans un graphe de dï¿½pendances, une dï¿½pendance par ses sources, la transformant en sous-projet local.\n\nCette nouvelle approche va rï¿½volutionner votre faï¿½on de dï¿½velopper et vous faire gagner un temps prï¿½cieux. Venez dï¿½couvrir ses avantages, au delï¿½ de cette simple introduction !"
 	},
 	{
 		"active": "Y",
@@ -582,7 +582,7 @@
 		"id": 888,
 		"venue_id": "7",
 		"speakers": "Horacio Gonzalez, ",
-		"description": "Les Progressive Web Apps (PWA) combinent le meilleur du web et des apps. Les utilisateurs peuvent s'en servir directement dès qu'ils s'y rendent avec leur navigateur, sans avoir besoin d'installer quoi que ce soit. Et ensuite, à fur et à mesure qu'ils passent du temps sur l'application, celle-ci devient plus puissante : elle charge très rapidement, même sur des réseaux dégradés, envoie des notifications, s'installe sur la page d'accueil du téléphone ou sur le bureau de l'ordinateur, se charge en écran complète sans la barre d'URL et recherche du navigateur... Bref, il offre à l'utilisateur une expérience semblable à une application native.\n\nEt depuis le dernier Google I/O, construire des PWA avec Polymer est devenu un jeu d'enfant ! En utilisant la puissance et la simplicité des composants web et le CLI de Polymer, toutes les étapes fastidieuses de la construction manuelle d'une PWA sont  gommés.\n\nDans ce lab nous vous proposons de créer pas à pas votre première application web progressive, tout en apprenant les bases de Polymer si vous ne les connaissez pas.  Le tout autour d'un sujet qui rassemble, comme c'est la bière, car vous allez créer une application pour gérer une base de données de bières: *pwa-beers*. \n\nEn partant vous aurez créé une PWA utilisable partout, vous aurez compris ce qui rend ces apps si puissantes et intéressantes pour tout développeur web et ou mobile, et en bonus vous aurez les bases pour développer des apps avec des web components en Polymer. Le tout basé sur notre système de tutorials pas à pas qui garanti que vous serez pas perdus en chemin, la bonne humeur et l'accent espagnol en plus..."
+		"description": "Les Progressive Web Apps (PWA) combinent le meilleur du web et des apps. Les utilisateurs peuvent s'en servir directement dï¿½s qu'ils s'y rendent avec leur navigateur, sans avoir besoin d'installer quoi que ce soit. Et ensuite, ï¿½ fur et ï¿½ mesure qu'ils passent du temps sur l'application, celle-ci devient plus puissante : elle charge trï¿½s rapidement, mï¿½me sur des rï¿½seaux dï¿½gradï¿½s, envoie des notifications, s'installe sur la page d'accueil du tï¿½lï¿½phone ou sur le bureau de l'ordinateur, se charge en ï¿½cran complï¿½te sans la barre d'URL et recherche du navigateur... Bref, il offre ï¿½ l'utilisateur une expï¿½rience semblable ï¿½ une application native.\n\nEt depuis le dernier Google I/O, construire des PWA avec Polymer est devenu un jeu d'enfant ! En utilisant la puissance et la simplicitï¿½ des composants web et le CLI de Polymer, toutes les ï¿½tapes fastidieuses de la construction manuelle d'une PWA sont  gommï¿½s.\n\nDans ce lab nous vous proposons de crï¿½er pas ï¿½ pas votre premiï¿½re application web progressive, tout en apprenant les bases de Polymer si vous ne les connaissez pas.  Le tout autour d'un sujet qui rassemble, comme c'est la biï¿½re, car vous allez crï¿½er une application pour gï¿½rer une base de donnï¿½es de biï¿½res: *pwa-beers*. \n\nEn partant vous aurez crï¿½ï¿½ une PWA utilisable partout, vous aurez compris ce qui rend ces apps si puissantes et intï¿½ressantes pour tout dï¿½veloppeur web et ou mobile, et en bonus vous aurez les bases pour dï¿½velopper des apps avec des web components en Polymer. Le tout basï¿½ sur notre systï¿½me de tutorials pas ï¿½ pas qui garanti que vous serez pas perdus en chemin, la bonne humeur et l'accent espagnol en plus..."
 	},
 	{
 		"active": "Y",
@@ -590,12 +590,12 @@
 		"event_start": "2017-04-21T10:30:00Z",
 		"event_end": "2017-04-21T11:25:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 892,
 		"venue_id": "3",
-		"speakers": "Frédéric Menou, ",
-		"description": "1 heure pour apprendre un nouveau langage, c'est court. Et quand il s'agit d'un langage aussi particulier que *Haskell*, ça devient sportif ! Mais qu'à cela ne tienne, tentons le coup !\n\nCommençons par étudier un cas topique : *le parsing de fichiers texte*."
+		"speakers": "Frï¿½dï¿½ric Menou, ",
+		"description": "1 heure pour apprendre un nouveau langage, c'est court. Et quand il s'agit d'un langage aussi particulier que *Haskell*, ï¿½a devient sportif ! Mais qu'ï¿½ cela ne tienne, tentons le coup !\n\nCommenï¿½ons par ï¿½tudier un cas topique : *le parsing de fichiers texte*."
 	},
 	{
 		"active": "Y",
@@ -603,38 +603,38 @@
 		"event_start": "2017-04-21T16:00:00Z",
 		"event_end": "2017-04-21T16:55:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 913,
 		"venue_id": "4",
 		"speakers": "Vincent Ogloblinsky, Matthieu BRECHET",
-		"description": "La version 6 de JavaScript aka __“ES6”__ permet de structurer un peu mieux la conception d’applications web.\n\n__TypeScript__, champion de la rigueur développé par le créateur de C# a quant à lui pour vocation d’apporter à JavaScript la maturité des langages objets historiques.\n\nAlors __ES6__ ou __TypeScript__ ?\n\nLors de ce talk 100% live-coding, venez découvrir le développement en parallèle des 2 versions, les limites et avantages de ces 2 technologies afin d’être en mesure de faire le bon choix pour vos futurs projets."
+		"description": "La version 6 de JavaScript aka __ï¿½ES6ï¿½__ permet de structurer un peu mieux la conception dï¿½applications web.\n\n__TypeScript__, champion de la rigueur dï¿½veloppï¿½ par le crï¿½ateur de C# a quant ï¿½ lui pour vocation dï¿½apporter ï¿½ JavaScript la maturitï¿½ des langages objets historiques.\n\nAlors __ES6__ ou __TypeScript__ ?\n\nLors de ce talk 100% live-coding, venez dï¿½couvrir le dï¿½veloppement en parallï¿½le des 2 versions, les limites et avantages de ces 2 technologies afin dï¿½ï¿½tre en mesure de faire le bon choix pour vos futurs projets."
 	},
 	{
 		"active": "Y",
-		"name": "Apache Spark : Deep dive dans l'API Java pour développeur",
+		"name": "Apache Spark : Deep dive dans l'API Java pour dï¿½veloppeur",
 		"event_start": "2017-04-19T11:00:00Z",
 		"event_end": "2017-04-19T11:55:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 923,
 		"venue_id": "6",
 		"speakers": "Alexandre Dubreuil, ",
-		"description": "Apache Spark propose une API Java comme langage principal, mais est-elle aussi puissante que l'API Scala ? Utilise-t-elle toutes les fonctionnalités du langage, comme les lambdas ? Comment intégrer Spark à nos outils de tests unitaires et à notre code base existante ? Nous allons donc plonger dans l'API Java de Spark avec des exemples et du live coding, en couvrant l'usage du cœur de Spark, la gestion des dépendances, les tests unitaires avec JUnit, le lancement à partir d'un IDE et l'intégration du code Spark avec notre code base Java existante. Depuis Spark 2.0, l'API DataFrame unifiée entre les langages rend Spark plus facile à utiliser et plus rapide à exécuter en Java, mais il existe pour l'instant peu de documentation sur des cas d'usages spécifiques, et plusieurs particularités de syntaxe rendent le code Scala difficile à convertir en Java. Les slides et le live coding vont présenter les bons et les mauvais moments que notre équipe de développement Java a rencontrés en utilisant Spark."
+		"description": "Apache Spark propose une API Java comme langage principal, mais est-elle aussi puissante que l'API Scala ? Utilise-t-elle toutes les fonctionnalitï¿½s du langage, comme les lambdas ? Comment intï¿½grer Spark ï¿½ nos outils de tests unitaires et ï¿½ notre code base existante ? Nous allons donc plonger dans l'API Java de Spark avec des exemples et du live coding, en couvrant l'usage du cï¿½ur de Spark, la gestion des dï¿½pendances, les tests unitaires avec JUnit, le lancement ï¿½ partir d'un IDE et l'intï¿½gration du code Spark avec notre code base Java existante. Depuis Spark 2.0, l'API DataFrame unifiï¿½e entre les langages rend Spark plus facile ï¿½ utiliser et plus rapide ï¿½ exï¿½cuter en Java, mais il existe pour l'instant peu de documentation sur des cas d'usages spï¿½cifiques, et plusieurs particularitï¿½s de syntaxe rendent le code Scala difficile ï¿½ convertir en Java. Les slides et le live coding vont prï¿½senter les bons et les mauvais moments que notre ï¿½quipe de dï¿½veloppement Java a rencontrï¿½s en utilisant Spark."
 	},
 	{
 		"active": "Y",
-		"name": "Introduction à Unikernel",
+		"name": "Introduction ï¿½ Unikernel",
 		"event_start": "2017-04-21T14:30:00Z",
 		"event_end": "2017-04-21T15:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 926,
 		"venue_id": "5",
 		"speakers": "Tomas Rodriguez, Jean-Baptiste Claramonte",
-		"description": "Après la machine virtuelle et le container, Unikernel est arrivé ! Cet OS \"light\" qui n'embarque que les composants essentiels à l'application, rendrait-il déjà les conteneurs has been ? Quelles sont les bases de cette technologie, et qu'apporte t'elle vraiment ? Cette présentation sera aussi l'occasion de déployer ensemble une application packagée au format Unikernel sur VirtualBox."
+		"description": "Aprï¿½s la machine virtuelle et le container, Unikernel est arrivï¿½ ! Cet OS \"light\" qui n'embarque que les composants essentiels ï¿½ l'application, rendrait-il dï¿½jï¿½ les conteneurs has been ? Quelles sont les bases de cette technologie, et qu'apporte t'elle vraiment ? Cette prï¿½sentation sera aussi l'occasion de dï¿½ployer ensemble une application packagï¿½e au format Unikernel sur VirtualBox."
 	},
 	{
 		"active": "Y",
@@ -642,38 +642,38 @@
 		"event_start": "2017-04-21T11:30:00Z",
 		"event_end": "2017-04-21T12:25:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 928,
 		"venue_id": "5",
 		"speakers": "Quentin Sallat, ",
-		"description": "Réaliser le design d'une application sur mobile ne doit pas être si compliqué que ça. Après tout, petit écran = petit design non ? Certainement pas !\n\nCette conférence vous propose de démystifier le design sur Android et iOS. Au travers d'exemples très concrets, vous allez découvrir les demandes parfois farfelues, mais bien souvent légitimes, que nous avons pu recevoir, et comment faire malgré tout un design correct. Cela sera ainsi l'occasion de vous donner quelques clés pour convaincre vos clients de faire les choses correctement.\n\nSi vous en avez assez de créer un design iOS pour vos applications Android, ou pire, de devoir appliquer un pseudo-style bootstrap pour votre app iPad, vous n'êtes pas seul, venez nous voir !"
+		"description": "Rï¿½aliser le design d'une application sur mobile ne doit pas ï¿½tre si compliquï¿½ que ï¿½a. Aprï¿½s tout, petit ï¿½cran = petit design non ? Certainement pas !\n\nCette confï¿½rence vous propose de dï¿½mystifier le design sur Android et iOS. Au travers d'exemples trï¿½s concrets, vous allez dï¿½couvrir les demandes parfois farfelues, mais bien souvent lï¿½gitimes, que nous avons pu recevoir, et comment faire malgrï¿½ tout un design correct. Cela sera ainsi l'occasion de vous donner quelques clï¿½s pour convaincre vos clients de faire les choses correctement.\n\nSi vous en avez assez de crï¿½er un design iOS pour vos applications Android, ou pire, de devoir appliquer un pseudo-style bootstrap pour votre app iPad, vous n'ï¿½tes pas seul, venez nous voir !"
 	},
 	{
 		"active": "Y",
-		"name": "Les stars du X : VertX, RX, HystriX : La seule conférence PEGI 18",
+		"name": "Les stars du X : VertX, RX, HystriX : La seule confï¿½rence PEGI 18",
 		"event_start": "2017-04-20T17:30:00Z",
 		"event_end": "2017-04-20T17:55:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
 		"format": "Tool in Action",
 		"venue": "Amphi C",
 		"id": 944,
 		"venue_id": "5",
 		"speakers": "Gabriel Magniez, ",
-		"description": "Près de la moitié des français passent sans le savoir par la solution que nous allons vous présenter; mais je vous rassure ça sera finalement assez soft. Nous verrons comment nous avons avec VertX, RxJava et une goute d'Hystrix nous avons implémenté un reverse proxy écrit en Java. Quelles ont été les difficultés et quels sont les avantages d'une telle solution.\nDestinée à générer des clés de cache pour Varnish dans un contexte de Feature Flipping, comment grâce à VertX/Netty et à son Event Loop notre proxy réussi à  effectuer ses traitements en moins d'une milliseconde tout en supportant plusieurs milliers de requêtes par seconde."
+		"description": "Prï¿½s de la moitiï¿½ des franï¿½ais passent sans le savoir par la solution que nous allons vous prï¿½senter; mais je vous rassure ï¿½a sera finalement assez soft. Nous verrons comment nous avons avec VertX, RxJava et une goute d'Hystrix nous avons implï¿½mentï¿½ un reverse proxy ï¿½crit en Java. Quelles ont ï¿½tï¿½ les difficultï¿½s et quels sont les avantages d'une telle solution.\nDestinï¿½e ï¿½ gï¿½nï¿½rer des clï¿½s de cache pour Varnish dans un contexte de Feature Flipping, comment grï¿½ce ï¿½ VertX/Netty et ï¿½ son Event Loop notre proxy rï¿½ussi ï¿½  effectuer ses traitements en moins d'une milliseconde tout en supportant plusieurs milliers de requï¿½tes par seconde."
 	},
 	{
 		"active": "Y",
 		"name": "Humbug, un framework de mutation testing",
 		"event_start": "2017-04-20T17:30:00Z",
 		"event_end": "2017-04-20T17:55:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
 		"format": "Tool in Action",
 		"venue": "Amphi A",
 		"id": 968,
 		"venue_id": "3",
 		"speakers": "Serge HARDY, Nastasia Saby",
-		"description": "L'écriture de tests unitaires est une technique courante de qualité logicielle.\n\nAdossés à des pratiques telles que le **Test Driven Development** ou le **Behaviour Driven Development**, ces tests se retrouvent au coeur de notre travail quotidien de développeur.\n\nAinsi amenés à évoluer, se multiplier, et être maintenus au cours du temps au même titre que le code applicatif, ils peuvent facilement échapper à notre contrôle.\n\n_Comment dès lors évaluer en continu leur pertinence?_\n\nNous vous proposons le concept de **mutation testing** en prenant l’exemple concret de **Humbug**, framework de mutation testing utilisé dans le monde **PHP**."
+		"description": "L'ï¿½criture de tests unitaires est une technique courante de qualitï¿½ logicielle.\n\nAdossï¿½s ï¿½ des pratiques telles que le **Test Driven Development** ou le **Behaviour Driven Development**, ces tests se retrouvent au coeur de notre travail quotidien de dï¿½veloppeur.\n\nAinsi amenï¿½s ï¿½ ï¿½voluer, se multiplier, et ï¿½tre maintenus au cours du temps au mï¿½me titre que le code applicatif, ils peuvent facilement ï¿½chapper ï¿½ notre contrï¿½le.\n\n_Comment dï¿½s lors ï¿½valuer en continu leur pertinence?_\n\nNous vous proposons le concept de **mutation testing** en prenant lï¿½exemple concret de **Humbug**, framework de mutation testing utilisï¿½ dans le monde **PHP**."
 	},
 	{
 		"active": "Y",
@@ -681,16 +681,16 @@
 		"event_start": "2017-04-21T16:00:00Z",
 		"event_end": "2017-04-21T16:55:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 987,
 		"venue_id": "5",
 		"speakers": "Maxime GREAU, ",
-		"description": "Clic, clic, clic... Les clics dans la UI Jenkins pour administrer les jobs Maven vous hantent même la nuit ? Vous aimeriez gérer vos jobs comme le code de vos projets ?\n\nSi je vous dis qu'avec 3 lignes de Groovy dans un Jenkinsfile vous pouvez gérer tous vos builds Maven, ça vous dit ?\n\nexoCI { dockerImage = ‘exoplatform/ci:jdk8-maven33’ }\n\nAvant d'en arriver là, il y a un certain nombres d'étapes à ne pas négliger pour migrer efficacement vos jobs Maven existants en “Pipeline as Code” pour Jenkins et Docker.\n\nAvec ce retour d’expérience, vous comprendrez pourquoi et comment nous avons réalisé la migration de plus de 300 jobs “standards” Jenkins de la CI d'eXo Platform..\n\nCe talk est l'occasion de revenir sur les problèmes que nous avons eus et les solutions adoptées, et sur quelques bonnes pratiques autour des builds Maven/Gradle/Android dans des containers Docker, le tout piloté par du Pipeline Jenkins 2."
+		"description": "Clic, clic, clic... Les clics dans la UI Jenkins pour administrer les jobs Maven vous hantent mï¿½me la nuit ? Vous aimeriez gï¿½rer vos jobs comme le code de vos projets ?\n\nSi je vous dis qu'avec 3 lignes de Groovy dans un Jenkinsfile vous pouvez gï¿½rer tous vos builds Maven, ï¿½a vous dit ?\n\nexoCI { dockerImage = ï¿½exoplatform/ci:jdk8-maven33ï¿½ }\n\nAvant d'en arriver lï¿½, il y a un certain nombres d'ï¿½tapes ï¿½ ne pas nï¿½gliger pour migrer efficacement vos jobs Maven existants en ï¿½Pipeline as Codeï¿½ pour Jenkins et Docker.\n\nAvec ce retour dï¿½expï¿½rience, vous comprendrez pourquoi et comment nous avons rï¿½alisï¿½ la migration de plus de 300 jobs ï¿½standardsï¿½ Jenkins de la CI d'eXo Platform..\n\nCe talk est l'occasion de revenir sur les problï¿½mes que nous avons eus et les solutions adoptï¿½es, et sur quelques bonnes pratiques autour des builds Maven/Gradle/Android dans des containers Docker, le tout pilotï¿½ par du Pipeline Jenkins 2."
 	},
 	{
 		"active": "Y",
-		"name": "Vue.js, même un dev Java peut en faire !",
+		"name": "Vue.js, mï¿½me un dev Java peut en faire !",
 		"event_start": "2017-04-20T17:00:00Z",
 		"event_end": "2017-04-20T17:25:00Z",
 		"event_type": "Web et mobile",
@@ -699,7 +699,7 @@
 		"id": 988,
 		"venue_id": "4",
 		"speakers": "Bruno Bonnin, ",
-		"description": "__Vue.js__ est entré dans la cour des grands en 2016, 2017 sera son année ! Alors, partons à la découverte de ce framework JavaScript, simple, léger et offrant une excellente alternative à Angular ou React, pour ceux qui souhaitent ne pas investir trop de temps dans l’apprentissage d’un nouveau framework. Lors de ce talk, vous verrez comment construire une web app orientée composants en quelques minutes, que même un dev Java pourrait le faire !"
+		"description": "__Vue.js__ est entrï¿½ dans la cour des grands en 2016, 2017 sera son annï¿½e ! Alors, partons ï¿½ la dï¿½couverte de ce framework JavaScript, simple, lï¿½ger et offrant une excellente alternative ï¿½ Angular ou React, pour ceux qui souhaitent ne pas investir trop de temps dans lï¿½apprentissage dï¿½un nouveau framework. Lors de ce talk, vous verrez comment construire une web app orientï¿½e composants en quelques minutes, que mï¿½me un dev Java pourrait le faire !"
 	},
 	{
 		"active": "Y",
@@ -711,8 +711,8 @@
 		"venue": "Lab",
 		"id": 1006,
 		"venue_id": "7",
-		"speakers": "Sébastien Vitard, Guillaume Gendre",
-		"description": "Aujourd'hui, les frameworks hybrides imposent leur propre interface (e.g. Cordova et ses dérivés), faisant fi des recommandations de chaque plateforme, ou nécessite d'utiliser des composants Web différents pour cela (e.g. React Native), supprimant ainsi leur principal avantage, la mutualisation du code.\n\n[Cobalt](https://cobaltians.org/), \"Made in Breizh\", propose des composants natifs pour chaque plateforme, accessibles depuis une API Web commune et offre bien plus pour réconcilier développeurs Web et développeurs natifs.\n\nVenez prendre en main ce framework et découvrir ses avantages face aux géants avec les 2 contributeurs principaux du projet\n\nPré-requis:\n\n- Dernière version d'[Android Studio](https://developer.android.com/studio/index.html) et du [SDK Android](https://developer.android.com/studio/intro/update.html#sdk-manager) (Tools, Platform-Tools, Build-Tools, SDK Platform, Android Support Repository et Library) et au moins un simulateur (System Image) ou smartphone/tablette Android 2.3+\n- Pour les possesseurs de Mac qui voudraient tester sur iOS, dernière version d'[Xcode](https://itunes.apple.com/fr/app/xcode/id497799835) et au moins un [simulateur](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html#//apple_ref/doc/uid/TP40012848-CH5-SW10) iOS 8+"
+		"speakers": "Sï¿½bastien Vitard, Guillaume Gendre",
+		"description": "Aujourd'hui, les frameworks hybrides imposent leur propre interface (e.g. Cordova et ses dï¿½rivï¿½s), faisant fi des recommandations de chaque plateforme, ou nï¿½cessite d'utiliser des composants Web diffï¿½rents pour cela (e.g. React Native), supprimant ainsi leur principal avantage, la mutualisation du code.\n\n[Cobalt](https://cobaltians.org/), \"Made in Breizh\", propose des composants natifs pour chaque plateforme, accessibles depuis une API Web commune et offre bien plus pour rï¿½concilier dï¿½veloppeurs Web et dï¿½veloppeurs natifs.\n\nVenez prendre en main ce framework et dï¿½couvrir ses avantages face aux gï¿½ants avec les 2 contributeurs principaux du projet\n\nPrï¿½-requis:\n\n- Derniï¿½re version d'[Android Studio](https://developer.android.com/studio/index.html) et du [SDK Android](https://developer.android.com/studio/intro/update.html#sdk-manager) (Tools, Platform-Tools, Build-Tools, SDK Platform, Android Support Repository et Library) et au moins un simulateur (System Image) ou smartphone/tablette Android 2.3+\n- Pour les possesseurs de Mac qui voudraient tester sur iOS, derniï¿½re version d'[Xcode](https://itunes.apple.com/fr/app/xcode/id497799835) et au moins un [simulateur](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html#//apple_ref/doc/uid/TP40012848-CH5-SW10) iOS 8+"
 	},
 	{
 		"active": "Y",
@@ -720,12 +720,12 @@
 		"event_start": "2017-04-20T16:00:00Z",
 		"event_end": "2017-04-20T16:55:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 1017,
 		"venue_id": "5",
 		"speakers": "Jeff Abrahamson, ",
-		"description": "Il y a bien un moment, j'ai écrit puis lancer un programme.\nDepuis lors, il me regarde, il prend des clichés de mon écron toutes les minutes, les réduit à un timbre postale, et les stocke.\n\nQu'est-ce que je peux apprendre de ses images réduites à 0,1% de mon écran ?  Beaucoup, c'est effrayant à dire !\n\nEt je me retrouve ainsi avec un bien beau projet de DataScience !\n\nA travers cette session, je vais vous montrer les différentes techniques d'apprentissage automatique que j'ai utilisées pour créer plusieurs modèles de mon activité à partir de ces traces minissimes.\nNous aborderons ainsi les bases du Machine Learning à travers une étude de cas appliquée à un contexte réel."
+		"description": "Il y a bien un moment, j'ai ï¿½crit puis lancer un programme.\nDepuis lors, il me regarde, il prend des clichï¿½s de mon ï¿½cron toutes les minutes, les rï¿½duit ï¿½ un timbre postale, et les stocke.\n\nQu'est-ce que je peux apprendre de ses images rï¿½duites ï¿½ 0,1% de mon ï¿½cran ?  Beaucoup, c'est effrayant ï¿½ dire !\n\nEt je me retrouve ainsi avec un bien beau projet de DataScience !\n\nA travers cette session, je vais vous montrer les diffï¿½rentes techniques d'apprentissage automatique que j'ai utilisï¿½es pour crï¿½er plusieurs modï¿½les de mon activitï¿½ ï¿½ partir de ces traces minissimes.\nNous aborderons ainsi les bases du Machine Learning ï¿½ travers une ï¿½tude de cas appliquï¿½e ï¿½ un contexte rï¿½el."
 	},
 	{
 		"active": "Y",
@@ -738,11 +738,11 @@
 		"id": 1033,
 		"venue_id": "4",
 		"speakers": "Nicolas Pennec, ",
-		"description": "Imaginez un monde parfait dans lequel chaque utilisateur de votre super application web déployée en prod vous remonte chaque erreur rencontrée !\nEn précisant bien sûr tout le détail pour vous aider à reproduire ce bug et à le corriger :-)\n\nCe monde existe (presque) avec Sentry, une plateforme open-source d'agrégation d'erreur en temps-réel et cross-language (JS, Go, Java, Python, ...)\n\nDurant ce REX, je vous présenterais les possibilités offertes par Sentry dans le contexte d'une application JavaScript, pour en finir avec les \"undefined is not a function\"."
+		"description": "Imaginez un monde parfait dans lequel chaque utilisateur de votre super application web dï¿½ployï¿½e en prod vous remonte chaque erreur rencontrï¿½e !\nEn prï¿½cisant bien sï¿½r tout le dï¿½tail pour vous aider ï¿½ reproduire ce bug et ï¿½ le corriger :-)\n\nCe monde existe (presque) avec Sentry, une plateforme open-source d'agrï¿½gation d'erreur en temps-rï¿½el et cross-language (JS, Go, Java, Python, ...)\n\nDurant ce REX, je vous prï¿½senterais les possibilitï¿½s offertes par Sentry dans le contexte d'une application JavaScript, pour en finir avec les \"undefined is not a function\"."
 	},
 	{
 		"active": "Y",
-		"name": "MinuteJS - Les nouveautés Javascript à ne pas rater !",
+		"name": "MinuteJS - Les nouveautï¿½s Javascript ï¿½ ne pas rater !",
 		"event_start": "2017-04-20T12:45:00Z",
 		"event_end": "2017-04-20T13:00:00Z",
 		"event_type": "Web et mobile",
@@ -751,33 +751,33 @@
 		"id": 1039,
 		"venue_id": "3",
 		"speakers": "Fabien JUIF, ",
-		"description": "Si toi aussi tu ne comprends plus rien aux dernières mises à jour de Javascript, **alors ce talk est fait pour toi !**\n\nComment ça fonctionne ? Quelles sont les nouveautés ? Pourquoi certaines personnes les utilisent alors que ce n'est pas officiellement sorti ?\nPourquoi j'en entends moins parler ?\n\nDans ce **Quickie** vous aurez réponses à ces questions. Nous allons revoir la façon dont ECMAScript (et donc Javascript) évolue.\nJe vous présenterai quelques nouveautés depuis l'ES6 (ES2015) qui me semblent intéressantes et applicables dès à présent via une comparaison avant/après et du **livecoding**.\n\nJe vous persuaderai que ces nouveautés vous feront gagner du temps et de la lisibilité !"
+		"description": "Si toi aussi tu ne comprends plus rien aux derniï¿½res mises ï¿½ jour de Javascript, **alors ce talk est fait pour toi !**\n\nComment ï¿½a fonctionne ? Quelles sont les nouveautï¿½s ? Pourquoi certaines personnes les utilisent alors que ce n'est pas officiellement sorti ?\nPourquoi j'en entends moins parler ?\n\nDans ce **Quickie** vous aurez rï¿½ponses ï¿½ ces questions. Nous allons revoir la faï¿½on dont ECMAScript (et donc Javascript) ï¿½volue.\nJe vous prï¿½senterai quelques nouveautï¿½s depuis l'ES6 (ES2015) qui me semblent intï¿½ressantes et applicables dï¿½s ï¿½ prï¿½sent via une comparaison avant/aprï¿½s et du **livecoding**.\n\nJe vous persuaderai que ces nouveautï¿½s vous feront gagner du temps et de la lisibilitï¿½ !"
 	},
 	{
 		"active": "Y",
-		"name": "Parenting 2.1 : calmer son bébé avec du machine learning et un Raspberry Pi",
+		"name": "Parenting 2.1 : calmer son bï¿½bï¿½ avec du machine learning et un Raspberry Pi",
 		"event_start": "2017-04-21T13:00:00Z",
 		"event_end": "2017-04-21T13:15:00Z",
-		"event_type": "Objets connectés, IoT, Robotique",
+		"event_type": "Objets connectï¿½s, IoT, Robotique",
 		"format": "Quickie",
 		"venue": "Amphi C",
 		"id": 1057,
 		"venue_id": "5",
 		"speakers": "Giulia Bianchi, ",
-		"description": "Le Machine Learning prend de plus en plus de place dans la vie de tous les jours : Google Photos vous permet de chercher des objets dans vos images tandis que Siri joue le rôle d'assistant personnel et répond à vos questions. Tout cela sans compter que l'intelligence artificielle n'arrête plus de faire le buzz.\n\nDans cette session, on vous montrera comment réaliser une application de Machine Learning qui permet de reconnaître avec un Raspberry Pi les pleurs d'un bébé et de lancer une berceuse pour essayer de le calmer avant d'intervenir personnellement. On traitera les aspects techniques liés à la classification de signaux audio et du déploiement d'un modèle de Machine Learning sur Raspberry Pi."
+		"description": "Le Machine Learning prend de plus en plus de place dans la vie de tous les jours : Google Photos vous permet de chercher des objets dans vos images tandis que Siri joue le rï¿½le d'assistant personnel et rï¿½pond ï¿½ vos questions. Tout cela sans compter que l'intelligence artificielle n'arrï¿½te plus de faire le buzz.\n\nDans cette session, on vous montrera comment rï¿½aliser une application de Machine Learning qui permet de reconnaï¿½tre avec un Raspberry Pi les pleurs d'un bï¿½bï¿½ et de lancer une berceuse pour essayer de le calmer avant d'intervenir personnellement. On traitera les aspects techniques liï¿½s ï¿½ la classification de signaux audio et du dï¿½ploiement d'un modï¿½le de Machine Learning sur Raspberry Pi."
 	},
 	{
 		"active": "Y",
-		"name": "Hey Bob! Comment ça va?",
+		"name": "Hey Bob! Comment ï¿½a va?",
 		"event_start": "2017-04-20T13:30:00Z",
 		"event_end": "2017-04-20T14:25:00Z",
-		"event_type": "Objets connectés, IoT, Robotique",
-		"format": "Conférence",
+		"event_type": "Objets connectï¿½s, IoT, Robotique",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1062,
 		"venue_id": "6",
-		"speakers": "Philippe Charrière, ",
-		"description": "Je veux Alexa à la maison! … Mais on m’a dit, là ça suffit, ça ne va pas être possible! (vous savez le “factor acceptance”…) Même pas mal, j’ai recyclé Bob (vous vous rappelez, mon “robot de télé-présence”), et j’ai commencé à créer une version d’Alexa (mais sans Amazon)\n\nPour ce faire, j’ai fait entrer Hubot dans mon RaspberryPi, j’ai utilisé une API de reconnaissance vocale, utilisé 2,3 composants Grove, fixé le RPI sur un pied de lit … Et tada!!! Maintenant, je peux dire “Ok Bob, allume moi la lampe rouge s’il te plaît”.\n\nJe vais vous expliquer tout ce que j’ai fait, et ce sera aussi l’opportunité de vous expliquer comment fonctionne Hubot (et à quoi il sert), mais aussi de reconnaissance vocale, ...\n\nPS: Pour ceux qui ne connaissent pas Hubot, c’est  l'employé le plus productif de Github... (et le moins cher), facile quand on est un bot."
+		"speakers": "Philippe Charriï¿½re, ",
+		"description": "Je veux Alexa ï¿½ la maison! ï¿½ Mais on mï¿½a dit, lï¿½ ï¿½a suffit, ï¿½a ne va pas ï¿½tre possible! (vous savez le ï¿½factor acceptanceï¿½ï¿½) Mï¿½me pas mal, jï¿½ai recyclï¿½ Bob (vous vous rappelez, mon ï¿½robot de tï¿½lï¿½-prï¿½senceï¿½), et jï¿½ai commencï¿½ ï¿½ crï¿½er une version dï¿½Alexa (mais sans Amazon)\n\nPour ce faire, jï¿½ai fait entrer Hubot dans mon RaspberryPi, jï¿½ai utilisï¿½ une API de reconnaissance vocale, utilisï¿½ 2,3 composants Grove, fixï¿½ le RPI sur un pied de lit ï¿½ Et tada!!! Maintenant, je peux dire ï¿½Ok Bob, allume moi la lampe rouge sï¿½il te plaï¿½tï¿½.\n\nJe vais vous expliquer tout ce que jï¿½ai fait, et ce sera aussi lï¿½opportunitï¿½ de vous expliquer comment fonctionne Hubot (et ï¿½ quoi il sert), mais aussi de reconnaissance vocale, ...\n\nPS: Pour ceux qui ne connaissent pas Hubot, cï¿½est  l'employï¿½ le plus productif de Github... (et le moins cher), facile quand on est un bot."
 	},
 	{
 		"active": "Y",
@@ -785,12 +785,12 @@
 		"event_start": "2017-04-19T13:30:00Z",
 		"event_end": "2017-04-19T14:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1068,
 		"venue_id": "6",
 		"speakers": "Nicolas Diez, ",
-		"description": "L’essor de l’utilisation des containers a conduit à une réflexion autour du système d’exploitation qui va gérer ses containers. Les distributions Linux actuelles se révèlent souvent embarquer des packages/binaires inutiles dans le cadre de l’utilisation des containers mais aussi potentiellement faillibles.\n\nC’est de ce constat que sont parties les équipes de Core OS pour créer Container Linux OS. Après une description des différentes fonctionnalités de Container Linux OS et les avantages présentés par ceux-ci, nous ferons alors un tour vers les différents outils/services développés autour de cette redéfinition d’une distribution Linux.  Avec ces éléments, les équipes de Core OS développent de fait un écosystème complet autour des containers."
+		"description": "Lï¿½essor de lï¿½utilisation des containers a conduit ï¿½ une rï¿½flexion autour du systï¿½me dï¿½exploitation qui va gï¿½rer ses containers. Les distributions Linux actuelles se rï¿½vï¿½lent souvent embarquer des packages/binaires inutiles dans le cadre de lï¿½utilisation des containers mais aussi potentiellement faillibles.\n\nCï¿½est de ce constat que sont parties les ï¿½quipes de Core OS pour crï¿½er Container Linux OS. Aprï¿½s une description des diffï¿½rentes fonctionnalitï¿½s de Container Linux OS et les avantages prï¿½sentï¿½s par ceux-ci, nous ferons alors un tour vers les diffï¿½rents outils/services dï¿½veloppï¿½s autour de cette redï¿½finition dï¿½une distribution Linux.  Avec ces ï¿½lï¿½ments, les ï¿½quipes de Core OS dï¿½veloppent de fait un ï¿½cosystï¿½me complet autour des containers."
 	},
 	{
 		"active": "Y",
@@ -798,12 +798,12 @@
 		"event_start": "2017-04-20T14:30:00Z",
 		"event_end": "2017-04-20T15:25:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 1070,
 		"venue_id": "5",
 		"speakers": "Manuel Verriez, ",
-		"description": "**Keras** est une librairie dédiée au **deep learning** dont les objectifs principaux sont l'expérimentation rapide et la facilité d'utilisation.\n\nDémocratisé ces dernières années avec l'augmentation des capacités de stockage et de calcul, popularisé par les géants du WEB, le deep learning peut apporter des solutions dans des domaines comme la classification d'images, la reconnaissance vocale, l'analyse de texte, la génétique, les chatbots ou même la création artistique.\n\nAprès avoir tenté de définir un peu plus précisément ce qu'est le deep learning et parcouru l'API proposée par Keras, nous verrons lors de cette session que quelques lignes de python peuvent suffire pour implémenter des premiers modèles de **traitement automatique de langage naturel** ou de **classification d'images**."
+		"description": "**Keras** est une librairie dï¿½diï¿½e au **deep learning** dont les objectifs principaux sont l'expï¿½rimentation rapide et la facilitï¿½ d'utilisation.\n\nDï¿½mocratisï¿½ ces derniï¿½res annï¿½es avec l'augmentation des capacitï¿½s de stockage et de calcul, popularisï¿½ par les gï¿½ants du WEB, le deep learning peut apporter des solutions dans des domaines comme la classification d'images, la reconnaissance vocale, l'analyse de texte, la gï¿½nï¿½tique, les chatbots ou mï¿½me la crï¿½ation artistique.\n\nAprï¿½s avoir tentï¿½ de dï¿½finir un peu plus prï¿½cisï¿½ment ce qu'est le deep learning et parcouru l'API proposï¿½e par Keras, nous verrons lors de cette session que quelques lignes de python peuvent suffire pour implï¿½menter des premiers modï¿½les de **traitement automatique de langage naturel** ou de **classification d'images**."
 	},
 	{
 		"active": "Y",
@@ -811,42 +811,42 @@
 		"event_start": "2017-04-20T11:30:00Z",
 		"event_end": "2017-04-20T12:25:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 1080,
 		"venue_id": "5",
 		"speakers": "Jonathan Roquelaure, ",
-		"description": "Si Docker a produit un engouement fulgurant et accru considérablement la vélocité de production de software, il est très facile de totalement perdre le contrôle de sa production d'images. Un pipeline de gestion des images Docker, comme pour la gestion du cycle de vie d'un software classique est vitale. Si les nouveaux outils amènent de nouveaux paradigmes nous verrons comment les modèles éprouvés peuvent s'appliquer ou non et quels sont leurs impacts sur le cycle de vie du développement logiciel."
+		"description": "Si Docker a produit un engouement fulgurant et accru considï¿½rablement la vï¿½locitï¿½ de production de software, il est trï¿½s facile de totalement perdre le contrï¿½le de sa production d'images. Un pipeline de gestion des images Docker, comme pour la gestion du cycle de vie d'un software classique est vitale. Si les nouveaux outils amï¿½nent de nouveaux paradigmes nous verrons comment les modï¿½les ï¿½prouvï¿½s peuvent s'appliquer ou non et quels sont leurs impacts sur le cycle de vie du dï¿½veloppement logiciel."
 	},
 	{
 		"active": "Y",
 		"name": "Des deux mondes de l'open source et de l'entreprise. Lequel des deux est une industrie ?",
 		"event_start": "2017-04-20T10:30:00Z",
 		"event_end": "2017-04-20T11:25:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
-		"format": "Conférence",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 1087,
 		"venue_id": "3",
 		"speakers": "Nicolas Ledez, null null",
-		"description": "Dans l'informatique, il y a principalement deux mondes dans les producteurs de logiciels :\nIl y a d'un coté les entreprises qui produisent des logiciels en majorité propriétaires.\nEt de l'autre, il y a les organisations open source.\nEt dans ces mondes, il y a des bricoleurs, mais aussi une industrie qui se met en place.\nVenez discuter avec moi de comment mettre en place cette industrie. Mais aussi pourquoi les bricoleurs devraient s'en inspirer."
+		"description": "Dans l'informatique, il y a principalement deux mondes dans les producteurs de logiciels :\nIl y a d'un cotï¿½ les entreprises qui produisent des logiciels en majoritï¿½ propriï¿½taires.\nEt de l'autre, il y a les organisations open source.\nEt dans ces mondes, il y a des bricoleurs, mais aussi une industrie qui se met en place.\nVenez discuter avec moi de comment mettre en place cette industrie. Mais aussi pourquoi les bricoleurs devraient s'en inspirer."
 	},
 	{
 		"active": "Y",
-		"name": "Ingest node : (ré)indexer et enrichir des documents dans Elasticsearch",
+		"name": "Ingest node : (rï¿½)indexer et enrichir des documents dans Elasticsearch",
 		"event_start": "2017-04-21T11:30:00Z",
 		"event_end": "2017-04-21T12:25:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1092,
 		"venue_id": "6",
 		"speakers": "David Pilato, ",
-		"description": "Lorsque vous injectez des données dans elasticsearch, vous pouvez avoir besoin de réaliser des opérations de transformation assez simples. Jusqu'à présent, ces opérations devaient s'effectuer en dehors d'elasticsearch, avant l'indexation proprement dite.\n\nSouhaitez la bienvenue à `Ingest node` ! Un nouveau type de noeud qui vous permet justement de faire cela.\n\nCe talk explique le concept de `Ingest Node`, comment l'intégrer avec le reste de la suite logicielle Elastic et comment développer son propre plugin Ingest par la pratique en montrant comment j'ai développé le plugin `ingest-bano` pour enrichir des adresses postales et/ou des coordonnées géographiques françaises (pour l'instant).\n\nCe talk parlera également de l'API de réindexation qui peut également bénéficier du pipeline d'ingestion pour modifier vos données à la volée lors de la réindexation."
+		"description": "Lorsque vous injectez des donnï¿½es dans elasticsearch, vous pouvez avoir besoin de rï¿½aliser des opï¿½rations de transformation assez simples. Jusqu'ï¿½ prï¿½sent, ces opï¿½rations devaient s'effectuer en dehors d'elasticsearch, avant l'indexation proprement dite.\n\nSouhaitez la bienvenue ï¿½ `Ingest node` ! Un nouveau type de noeud qui vous permet justement de faire cela.\n\nCe talk explique le concept de `Ingest Node`, comment l'intï¿½grer avec le reste de la suite logicielle Elastic et comment dï¿½velopper son propre plugin Ingest par la pratique en montrant comment j'ai dï¿½veloppï¿½ le plugin `ingest-bano` pour enrichir des adresses postales et/ou des coordonnï¿½es gï¿½ographiques franï¿½aises (pour l'instant).\n\nCe talk parlera ï¿½galement de l'API de rï¿½indexation qui peut ï¿½galement bï¿½nï¿½ficier du pipeline d'ingestion pour modifier vos donnï¿½es ï¿½ la volï¿½e lors de la rï¿½indexation."
 	},
 	{
 		"active": "Y",
-		"name": "Une API REST et GraphQL sans code grâce à Postgrest, Sub0 et PostgreSQL",
+		"name": "Une API REST et GraphQL sans code grï¿½ce ï¿½ Postgrest, Sub0 et PostgreSQL",
 		"event_start": "2017-04-21T12:45:00Z",
 		"event_end": "2017-04-21T13:00:00Z",
 		"event_type": "Backend et Desktop",
@@ -855,11 +855,11 @@
 		"id": 1101,
 		"venue_id": "3",
 		"speakers": "Francois-Guillaume Ribreau, ",
-		"description": "Connaissez-vous le Row Level Security de PostgreSQL ? Les Policies ? Qu'il est possible de réaliser une insertion sur une vue ou d'envoyer un message (e.g. dans un RabbitMQ) à chaque création d'un utilisateur ?\n\nRéapprenons ensemble à utiliser notre base de donnée PostgreSQL pour ce qu'elle sait faire de mieux, assurer la cohérence et la consistence des informations, gérer les droits d'accès sur les données, gérer la présentation des données.\n\nNous verrons la philosophie derrière Postgrest et PostGraphQL/Sub0 pour réaliser une API versionnée et authentifiée extrêmement performante et securisée en déclarant nos structures de données, nos contraintes data et métier avec plpgsql."
+		"description": "Connaissez-vous le Row Level Security de PostgreSQL ? Les Policies ? Qu'il est possible de rï¿½aliser une insertion sur une vue ou d'envoyer un message (e.g. dans un RabbitMQ) ï¿½ chaque crï¿½ation d'un utilisateur ?\n\nRï¿½apprenons ensemble ï¿½ utiliser notre base de donnï¿½e PostgreSQL pour ce qu'elle sait faire de mieux, assurer la cohï¿½rence et la consistence des informations, gï¿½rer les droits d'accï¿½s sur les donnï¿½es, gï¿½rer la prï¿½sentation des donnï¿½es.\n\nNous verrons la philosophie derriï¿½re Postgrest et PostGraphQL/Sub0 pour rï¿½aliser une API versionnï¿½e et authentifiï¿½e extrï¿½mement performante et securisï¿½e en dï¿½clarant nos structures de donnï¿½es, nos contraintes data et mï¿½tier avec plpgsql."
 	},
 	{
 		"active": "Y",
-		"name": "Construire et automatiser l'ecosystème de son SaaS grâce à une spécification Swagger",
+		"name": "Construire et automatiser l'ecosystï¿½me de son SaaS grï¿½ce ï¿½ une spï¿½cification Swagger",
 		"event_start": "2017-04-20T13:00:00Z",
 		"event_end": "2017-04-20T13:15:00Z",
 		"event_type": "Backend et Desktop",
@@ -868,20 +868,20 @@
 		"id": 1102,
 		"venue_id": "3",
 		"speakers": "Francois-Guillaume Ribreau, ",
-		"description": "Décrire les contraintes sur les entrées d'une API et générer la documentation à partir d'une spécification c'est bien.... Mais générer des librairies clientes ainsi que leurs documentations et tests sur mesure c'est mieux !\n\nDans ce talk nous verrons comment un fichier Swagger peut devenir la source de vérité et le coeur de tout l'éco-système — interne et externe — autour de votre SaaS."
+		"description": "Dï¿½crire les contraintes sur les entrï¿½es d'une API et gï¿½nï¿½rer la documentation ï¿½ partir d'une spï¿½cification c'est bien.... Mais gï¿½nï¿½rer des librairies clientes ainsi que leurs documentations et tests sur mesure c'est mieux !\n\nDans ce talk nous verrons comment un fichier Swagger peut devenir la source de vï¿½ritï¿½ et le coeur de tout l'ï¿½co-systï¿½me ï¿½ interne et externe ï¿½ autour de votre SaaS."
 	},
 	{
 		"active": "Y",
-		"name": "Créer un bot, pas si simple. Faisons le point.",
+		"name": "Crï¿½er un bot, pas si simple. Faisons le point.",
 		"event_start": "2017-04-20T14:30:00Z",
 		"event_end": "2017-04-20T15:25:00Z",
-		"event_type": "Objets connectés, IoT, Robotique",
-		"format": "Conférence",
+		"event_type": "Objets connectï¿½s, IoT, Robotique",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1123,
 		"venue_id": "6",
-		"speakers": "Stève Sfartz, ",
-		"description": "S’il est possible de créer un bot en quelques minutes, construire des assistants interactifs professionnels représente un réel challenge : assez vite, nous voilà confrontés à des patterns de développements avancés, des enjeux d’architecture propres aux API Web. Sans compter les compétences spécifiques au domaine des bots.\n\nAu cours de cette session, nous présenterons le code de bots permettant de gérer des interactions Chat et Voix, et explorerons les défis rencontrés lors de la construction de ces bots : stockage des contextes, approches NLP, scopes OAuth, meta-données.  \nNous présenterons ensuite les tendances actuelles en terme d’architecture : plateformes de bots, exécution de bots sous forme de micro-fonctions / serverless…\n\nDepuis un an, j'interviens sur la mise en place de bots, et ai pu coder un framework de bots en nodejs, et tester quelques framewokrs de bots. Ce talk est un retour d'expérience."
+		"speakers": "Stï¿½ve Sfartz, ",
+		"description": "Sï¿½il est possible de crï¿½er un bot en quelques minutes, construire des assistants interactifs professionnels reprï¿½sente un rï¿½el challenge : assez vite, nous voilï¿½ confrontï¿½s ï¿½ des patterns de dï¿½veloppements avancï¿½s, des enjeux dï¿½architecture propres aux API Web. Sans compter les compï¿½tences spï¿½cifiques au domaine des bots.\n\nAu cours de cette session, nous prï¿½senterons le code de bots permettant de gï¿½rer des interactions Chat et Voix, et explorerons les dï¿½fis rencontrï¿½s lors de la construction de ces bots : stockage des contextes, approches NLP, scopes OAuth, meta-donnï¿½es.  \nNous prï¿½senterons ensuite les tendances actuelles en terme dï¿½architecture : plateformes de bots, exï¿½cution de bots sous forme de micro-fonctions / serverlessï¿½\n\nDepuis un an, j'interviens sur la mise en place de bots, et ai pu coder un framework de bots en nodejs, et tester quelques framewokrs de bots. Ce talk est un retour d'expï¿½rience."
 	},
 	{
 		"active": "Y",
@@ -889,90 +889,90 @@
 		"event_start": "2017-04-19T16:00:00Z",
 		"event_end": "2017-04-19T18:00:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Université",
+		"format": "Universitï¿½",
 		"venue": "Amphi A",
 		"id": 1132,
 		"venue_id": "3",
-		"speakers": "Jérôme Mainaud, ",
-		"description": "Apache Cassandra est l'une des bases NoSQL les plus populaires grâce à ses excellentes performances, à son impressionnante scalabilité horizontale et à son architecture hautement résiliante. \n\nMaintenir un cluster Apache Cassandra en production demande une bonne compréhension de son fonctionnement, de choisir les bons paramètres, et d'effectuer les opérations de maintenance dans de bonnes conditions pour garantir un fonctionnement sans interruption.\n\nCette université, aborde les éléments essentiels pour faire tourner Apache Cassandra en production. Parmi lesquels :\n\n* Choix et dimensionnement du matériel\n* Choix des principaux paramètres\n* Stratégies de compaction\n* Ajouter, retirer et remplacer des noeuds\n* Mettre à jour le cluster.\n* Travailler avec plusieurs datacenters\n* Les opérations quotidiennes\n    * repair\n    * sauvegardes\n    * monitoring\n* Purger les données\n* Gérer les incidents\n\nForts de notre expérience sur des clusters de toutes tailles, nous partagerons ici les techniques à mettre en œuvre pour assurer une production sereine d'Apache Cassandra au cours d'une discussion à laquelle nous vous invitons à contribuer par vos questions et vos propres retours d'expérience."
+		"speakers": "Jï¿½rï¿½me Mainaud, ",
+		"description": "Apache Cassandra est l'une des bases NoSQL les plus populaires grï¿½ce ï¿½ ses excellentes performances, ï¿½ son impressionnante scalabilitï¿½ horizontale et ï¿½ son architecture hautement rï¿½siliante. \n\nMaintenir un cluster Apache Cassandra en production demande une bonne comprï¿½hension de son fonctionnement, de choisir les bons paramï¿½tres, et d'effectuer les opï¿½rations de maintenance dans de bonnes conditions pour garantir un fonctionnement sans interruption.\n\nCette universitï¿½, aborde les ï¿½lï¿½ments essentiels pour faire tourner Apache Cassandra en production. Parmi lesquels :\n\n* Choix et dimensionnement du matï¿½riel\n* Choix des principaux paramï¿½tres\n* Stratï¿½gies de compaction\n* Ajouter, retirer et remplacer des noeuds\n* Mettre ï¿½ jour le cluster.\n* Travailler avec plusieurs datacenters\n* Les opï¿½rations quotidiennes\n    * repair\n    * sauvegardes\n    * monitoring\n* Purger les donnï¿½es\n* Gï¿½rer les incidents\n\nForts de notre expï¿½rience sur des clusters de toutes tailles, nous partagerons ici les techniques ï¿½ mettre en ï¿½uvre pour assurer une production sereine d'Apache Cassandra au cours d'une discussion ï¿½ laquelle nous vous invitons ï¿½ contribuer par vos questions et vos propres retours d'expï¿½rience."
 	},
 	{
 		"active": "Y",
-		"name": "JOOQ et JOO? : Comment écrire du code propre dans vos DAO",
+		"name": "JOOQ et JOO? : Comment ï¿½crire du code propre dans vos DAO",
 		"event_start": "2017-04-21T17:00:00Z",
 		"event_end": "2017-04-21T17:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
 		"format": "Tool in Action",
 		"venue": "Amphi D",
 		"id": 1137,
 		"venue_id": "6",
 		"speakers": "Mathieu Gandin, ",
-		"description": "JOOQ et JOO? sont des solutions open-source permettant d'intégrer proprement votre application Java avec votre base de données. Quoi de nouveau sous le soleil me diriez-vous ? Après tout la problématique de mapping objet-relationnel est au moins aussi vieille que la plateforme Java. Mais depuis Java 8, JOOQ permet d'utiliser l'API Stream du JDK avec le mapping objet-relationnel, ce qui, couplé avec JOO?, a pour effet d'écrire des DAO plus simples et dans un paradigme fonctionnel. Au cours de ce tools in action nous allons vous présenter les avantages que nous pouvons tirer des frameworks JOOQ et JOO?, par rapport à du JDBC pur sucre, JPA sans oublier Spring JDBC Template. Cerise sur le gâteau, nous vous indiquerons comment simplement introduire JOOQ et JOO? dans votre code existant."
+		"description": "JOOQ et JOO? sont des solutions open-source permettant d'intï¿½grer proprement votre application Java avec votre base de donnï¿½es. Quoi de nouveau sous le soleil me diriez-vous ? Aprï¿½s tout la problï¿½matique de mapping objet-relationnel est au moins aussi vieille que la plateforme Java. Mais depuis Java 8, JOOQ permet d'utiliser l'API Stream du JDK avec le mapping objet-relationnel, ce qui, couplï¿½ avec JOO?, a pour effet d'ï¿½crire des DAO plus simples et dans un paradigme fonctionnel. Au cours de ce tools in action nous allons vous prï¿½senter les avantages que nous pouvons tirer des frameworks JOOQ et JOO?, par rapport ï¿½ du JDBC pur sucre, JPA sans oublier Spring JDBC Template. Cerise sur le gï¿½teau, nous vous indiquerons comment simplement introduire JOOQ et JOO? dans votre code existant."
 	},
 	{
 		"active": "Y",
-		"name": "Skynet vs Planète des Singes, fight !",
+		"name": "Skynet vs Planï¿½te des Singes, fight !",
 		"event_start": "2017-04-19T16:00:00Z",
 		"event_end": "2017-04-19T18:00:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Université",
+		"format": "Universitï¿½",
 		"venue": "Amphi C",
 		"id": 1145,
 		"venue_id": "5",
 		"speakers": "Adrien Blind, null null, Laurent Grangeau",
-		"description": "## TL;DR\n2 clusters `Docker` auto-managés et portés par des clouds publics s'affrontent dans une bataille sans merci. L'un conçu pour résister à toute forme d'attaque. L'autre ayant pour seul objectif de détruire le premier. Qui l'emportera ?\n\n## Version longue\n> La singularité a eu lieu, l'ère des machines a éclos. Bientôt, l'emprise de **Skynet**, l'IA massivement distribuée et son armée de robots s'étendront à travers toute la planète. Heureusement, une armée de grands singes se dresse pour mettre fin à l’hégémonie de métal.\n\n> La bataille s'annonce épique !\n\nDans le rôle de **Skynet**, une plateforme `Docker` totalement automatisée et devenue indestructible, son application cerveau ultra-résilient, et son armée de robots prêts à nous éradiquer. Dans le rôle de l'armée des singes, la Simian Army de **Netflix**.\n\n**Skynet** résistera-t-elle aux assauts incessants de l'armée des grands singes ?\n\nCette session décalée revient en détail sur les aspects d’ingénierie IT mis en œuvre pour arriver à un tel résultat. Résilience, scalabilité, architecture micro-services, plateforme multi-clouds, conteneurs, orchestration, et stockage distribué n'auront plus de secret pour vous !"
+		"description": "## TL;DR\n2 clusters `Docker` auto-managï¿½s et portï¿½s par des clouds publics s'affrontent dans une bataille sans merci. L'un conï¿½u pour rï¿½sister ï¿½ toute forme d'attaque. L'autre ayant pour seul objectif de dï¿½truire le premier. Qui l'emportera ?\n\n## Version longue\n> La singularitï¿½ a eu lieu, l'ï¿½re des machines a ï¿½clos. Bientï¿½t, l'emprise de **Skynet**, l'IA massivement distribuï¿½e et son armï¿½e de robots s'ï¿½tendront ï¿½ travers toute la planï¿½te. Heureusement, une armï¿½e de grands singes se dresse pour mettre fin ï¿½ lï¿½hï¿½gï¿½monie de mï¿½tal.\n\n> La bataille s'annonce ï¿½pique !\n\nDans le rï¿½le de **Skynet**, une plateforme `Docker` totalement automatisï¿½e et devenue indestructible, son application cerveau ultra-rï¿½silient, et son armï¿½e de robots prï¿½ts ï¿½ nous ï¿½radiquer. Dans le rï¿½le de l'armï¿½e des singes, la Simian Army de **Netflix**.\n\n**Skynet** rï¿½sistera-t-elle aux assauts incessants de l'armï¿½e des grands singes ?\n\nCette session dï¿½calï¿½e revient en dï¿½tail sur les aspects dï¿½ingï¿½nierie IT mis en ï¿½uvre pour arriver ï¿½ un tel rï¿½sultat. Rï¿½silience, scalabilitï¿½, architecture micro-services, plateforme multi-clouds, conteneurs, orchestration, et stockage distribuï¿½ n'auront plus de secret pour vous !"
 	},
 	{
 		"active": "Y",
-		"name": "CDS - Le continuous delivery sous stéroïdes",
+		"name": "CDS - Le continuous delivery sous stï¿½roï¿½des",
 		"event_start": "2017-04-20T16:00:00Z",
 		"event_end": "2017-04-20T18:00:00Z",
 		"event_type": "Cloud, Devops, Outils",
-		"format": "Université",
+		"format": "Universitï¿½",
 		"venue": "Lab",
 		"id": 1146,
 		"venue_id": "7",
-		"speakers": "François SAMIN, Yvonnick Esnault, Steven Guiheux",
-		"description": "Le continuous delivery agit comme une ceinture de sécurité pour les développements et la production...  si votre véhicule est un TGV lancé à plein vitesse sur une tracé sinueux, alors CDS - projet opensource développé par OVH - est fait pour vous !\n\nAu travers de workflows et de pipelines, sur des environnements hétérogènes (linux, windows, macos, docker, swarm, openstack, mesos/marathon, ...), gagnez du temps avec CDS sans sacrifier la disponibilité, la robustesse, l'interopérabilité et la sécurité de votre stack de continuous delivery."
+		"speakers": "Franï¿½ois SAMIN, Yvonnick Esnault, Steven Guiheux",
+		"description": "Le continuous delivery agit comme une ceinture de sï¿½curitï¿½ pour les dï¿½veloppements et la production...  si votre vï¿½hicule est un TGV lancï¿½ ï¿½ plein vitesse sur une tracï¿½ sinueux, alors CDS - projet opensource dï¿½veloppï¿½ par OVH - est fait pour vous !\n\nAu travers de workflows et de pipelines, sur des environnements hï¿½tï¿½rogï¿½nes (linux, windows, macos, docker, swarm, openstack, mesos/marathon, ...), gagnez du temps avec CDS sans sacrifier la disponibilitï¿½, la robustesse, l'interopï¿½rabilitï¿½ et la sï¿½curitï¿½ de votre stack de continuous delivery."
 	},
 	{
 		"active": "Y",
-		"name": "Condensé de MOM illustré",
+		"name": "Condensï¿½ de MOM illustrï¿½",
 		"event_start": "2017-04-19T13:30:00Z",
 		"event_end": "2017-04-19T15:30:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Université",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Universitï¿½",
 		"venue": "Amphi A",
 		"id": 1147,
 		"venue_id": "3",
 		"speakers": "Antonio Gomes Rodrigues, safa mabrouk",
-		"description": "Vous avez surement déjà rencontré un RabbitMQ ou un Apache Kafka dans vos projets sans trop savoir ce que vous pourriez en faire de plus, à part ce qui avait été prévu au départ , déplacer un message d'une application A vers une Application B. Sachez que ces serveurs de messages ou MOM sont capables de remplir plus de fonctionnalités et de fournir des solutions distribuées, résiliente et scalable répondant à plusieurs types de besoins. Vous serez étonné des uses cases que vous arrivez à résoudre avec un simple RabbitMQ et la bonne configuration. C'est ce que nous verrons ensemble durant cette présentation, nous finirons avec des REX tirées de nos missions."
+		"description": "Vous avez surement dï¿½jï¿½ rencontrï¿½ un RabbitMQ ou un Apache Kafka dans vos projets sans trop savoir ce que vous pourriez en faire de plus, ï¿½ part ce qui avait ï¿½tï¿½ prï¿½vu au dï¿½part , dï¿½placer un message d'une application A vers une Application B. Sachez que ces serveurs de messages ou MOM sont capables de remplir plus de fonctionnalitï¿½s et de fournir des solutions distribuï¿½es, rï¿½siliente et scalable rï¿½pondant ï¿½ plusieurs types de besoins. Vous serez ï¿½tonnï¿½ des uses cases que vous arrivez ï¿½ rï¿½soudre avec un simple RabbitMQ et la bonne configuration. C'est ce que nous verrons ensemble durant cette prï¿½sentation, nous finirons avec des REX tirï¿½es de nos missions."
 	},
 	{
 		"active": "Y",
 		"name": "Comment hacker la webcam de ton voisin(e) ?",
 		"event_start": "2017-04-20T17:00:00Z",
 		"event_end": "2017-04-20T17:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
 		"format": "Tool in Action",
 		"venue": "Amphi A",
 		"id": 1154,
 		"venue_id": "3",
 		"speakers": "Charles BOCHET, ",
-		"description": "Ce talk est une démonstration de l'attaque de l'Homme du milieu (Man-In-The-Middle).\nL'objectif est de démystifier le hacking par la pratique (éthique!) et de sensibiliser aux risques que l'on court en permanence (au bureau, à la maison ou dans un café public).\n\nAu programme, le déroulement complet d'une attaque :\n-  écoute réseau\n- vol de mot de passes\n- création de trojan\n- évasion antivirus\n- infection\n- prise de contrôle totale de la cible"
+		"description": "Ce talk est une dï¿½monstration de l'attaque de l'Homme du milieu (Man-In-The-Middle).\nL'objectif est de dï¿½mystifier le hacking par la pratique (ï¿½thique!) et de sensibiliser aux risques que l'on court en permanence (au bureau, ï¿½ la maison ou dans un cafï¿½ public).\n\nAu programme, le dï¿½roulement complet d'une attaque :\n-  ï¿½coute rï¿½seau\n- vol de mot de passes\n- crï¿½ation de trojan\n- ï¿½vasion antivirus\n- infection\n- prise de contrï¿½le totale de la cible"
 	},
 	{
 		"active": "Y",
 		"name": "REX refonte d'une appli avec un front Isomorphic",
 		"event_start": "2017-04-21T14:30:00Z",
 		"event_end": "2017-04-21T15:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 1157,
 		"venue_id": "4",
-		"speakers": "Cécile Especel, David Jegat",
-		"description": "Notre challenge : refondre une grosse appli Symfony 2 avec 150 bundles  ; très mauvaises performances et le code inmaintenable.\n\nNous allons vous raconter et vous montrer ce qu'on a mis en place avec une équipe de 3 dev back et un intégrateur :\n- API simple en symfony,\n- script de migration pour synchroniser la BDD mysql,\n- un front Isomorphic avec TypeScript et React. \n\nÇa va parler API REST Symfony 3, DDD, Swagger et SQL"
+		"speakers": "Cï¿½cile Especel, David Jegat",
+		"description": "Notre challenge : refondre une grosse appli Symfony 2 avec 150 bundles  ; trï¿½s mauvaises performances et le code inmaintenable.\n\nNous allons vous raconter et vous montrer ce qu'on a mis en place avec une ï¿½quipe de 3 dev back et un intï¿½grateur :\n- API simple en symfony,\n- script de migration pour synchroniser la BDD mysql,\n- un front Isomorphic avec TypeScript et React. \n\nï¿½a va parler API REST Symfony 3, DDD, Swagger et SQL"
 	},
 	{
 		"active": "Y",
@@ -980,25 +980,25 @@
 		"event_start": "2017-04-20T10:30:00Z",
 		"event_end": "2017-04-20T11:25:00Z",
 		"event_type": "Web et mobile",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi C",
 		"id": 1162,
 		"venue_id": "5",
 		"speakers": "Thomas Fournaise, ",
-		"description": "Que vous soyez développeur, chef de projet ou autre vous voyez tous les jours des graphiques dans les journaux, on vous demande de faire des jolies courbes pour des reportings. Mais quelles informations mettre dedans ? Les données sont représentées de manière visuelle depuis longtemps, mais comment faire pour les rendre plus efficaces et plus percutantes ? \nJe vous présenterai l'histoire de la datavisualisation et à quel est son objectif. Puis, au travers d'exemples concrets et de démonstrations d'outils, nous verrons quelques \"dark patterns\" et les techniques à mettre en œuvre pour avoir des graphiques qui transmettent les informations de manière efficace."
+		"description": "Que vous soyez dï¿½veloppeur, chef de projet ou autre vous voyez tous les jours des graphiques dans les journaux, on vous demande de faire des jolies courbes pour des reportings. Mais quelles informations mettre dedans ? Les donnï¿½es sont reprï¿½sentï¿½es de maniï¿½re visuelle depuis longtemps, mais comment faire pour les rendre plus efficaces et plus percutantes ? \nJe vous prï¿½senterai l'histoire de la datavisualisation et ï¿½ quel est son objectif. Puis, au travers d'exemples concrets et de dï¿½monstrations d'outils, nous verrons quelques \"dark patterns\" et les techniques ï¿½ mettre en ï¿½uvre pour avoir des graphiques qui transmettent les informations de maniï¿½re efficace."
 	},
 	{
 		"active": "Y",
-		"name": "Le Kata Kebab: Luttez contre les raisons systémiques de la tristesse de votre code",
+		"name": "Le Kata Kebab: Luttez contre les raisons systï¿½miques de la tristesse de votre code",
 		"event_start": "2017-04-21T13:30:00Z",
 		"event_end": "2017-04-21T15:30:00Z",
-		"event_type": "Agilité, Méthodologie et Tests",
+		"event_type": "Agilitï¿½, Mï¿½thodologie et Tests",
 		"format": "Lab",
 		"venue": "Lab",
 		"id": 1174,
 		"venue_id": "7",
 		"speakers": "Romeu MOURA, ",
-		"description": "Essayez de créer un code qui vous ne considérez pas comme étant “legacy”.\n\nJe jouerai le rôle de votre client et j'utiliserai 20 techniques différentes pour vous faire échouer\n\nVous allez échouer.\n\nNous allons débattre les techniques utilisées, comment elles arrivent dans la vraie vie et comment les combattre dans vos projets.\n\nTous les langages sont bienvenus. Vous aurez besoin d'un portable avec votre environment, le hands-on se fera par petites équipes montés sur place."
+		"description": "Essayez de crï¿½er un code qui vous ne considï¿½rez pas comme ï¿½tant ï¿½legacyï¿½.\n\nJe jouerai le rï¿½le de votre client et j'utiliserai 20 techniques diffï¿½rentes pour vous faire ï¿½chouer\n\nVous allez ï¿½chouer.\n\nNous allons dï¿½battre les techniques utilisï¿½es, comment elles arrivent dans la vraie vie et comment les combattre dans vos projets.\n\nTous les langages sont bienvenus. Vous aurez besoin d'un portable avec votre environment, le hands-on se fera par petites ï¿½quipes montï¿½s sur place."
 	},
 	{
 		"active": "Y",
@@ -1010,21 +1010,21 @@
 		"venue": "Lab",
 		"id": 1184,
 		"venue_id": "7",
-		"speakers": "Matthieu BRECHET, Nicolas Roussel, Anthony Guélé, Vincent Ogloblinsky",
-		"description": "Venez participer pendant 2h à ce challenge de conception d’intelligence artificielle.\n\nLes règles sont simples :\n* une bataille de personnages médiévaux en un contre un\n* une API REST d’attaque à disposition\n* une application web de visualisation du combat en live\n\nVous n’avez plus qu’à coder votre IA avec votre langage préféré, réagir en conséquence et affronter l’IA du serveur ou d’autres participants de ce lab."
+		"speakers": "Matthieu BRECHET, Nicolas Roussel, Anthony Guï¿½lï¿½, Vincent Ogloblinsky",
+		"description": "Venez participer pendant 2h ï¿½ ce challenge de conception dï¿½intelligence artificielle.\n\nLes rï¿½gles sont simples :\n* une bataille de personnages mï¿½diï¿½vaux en un contre un\n* une API REST dï¿½attaque ï¿½ disposition\n* une application web de visualisation du combat en live\n\nVous nï¿½avez plus quï¿½ï¿½ coder votre IA avec votre langage prï¿½fï¿½rï¿½, rï¿½agir en consï¿½quence et affronter lï¿½IA du serveur ou dï¿½autres participants de ce lab."
 	},
 	{
 		"active": "Y",
-		"name": "Sinon, quoi de neuf côté Apache Groovy ?",
+		"name": "Sinon, quoi de neuf cï¿½tï¿½ Apache Groovy ?",
 		"event_start": "2017-04-21T11:30:00Z",
 		"event_end": "2017-04-21T12:25:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 1198,
 		"venue_id": "4",
 		"speakers": "Guillaume Laforge, ",
-		"description": "Depuis que Groovy a rejoint la fondation Apache, on doit l'appeler Apache Groovy. Bon, OK, mais sinon, quoi de neuf du côté du langage ?\n\nDans cette présentation, Guillaume, committer de longue date sur Apache Groovy, vous montrera les dernières fonctionnalités, les transformations d'AST, les méta-annotations, l'immutabilité, la sérialisation JSON customisable, mais aussi la grande nouveauté avec les \"macros\" et le support de la syntaxe de Java 8."
+		"description": "Depuis que Groovy a rejoint la fondation Apache, on doit l'appeler Apache Groovy. Bon, OK, mais sinon, quoi de neuf du cï¿½tï¿½ du langage ?\n\nDans cette prï¿½sentation, Guillaume, committer de longue date sur Apache Groovy, vous montrera les derniï¿½res fonctionnalitï¿½s, les transformations d'AST, les mï¿½ta-annotations, l'immutabilitï¿½, la sï¿½rialisation JSON customisable, mais aussi la grande nouveautï¿½ avec les \"macros\" et le support de la syntaxe de Java 8."
 	},
 	{
 		"active": "Y",
@@ -1032,16 +1032,16 @@
 		"event_start": "2017-04-19T16:00:00Z",
 		"event_end": "2017-04-19T16:55:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1199,
 		"venue_id": "6",
 		"speakers": "Guillaume Laforge, ",
-		"description": "Récemment, Github et Google ont sorti sur BigQuery un énorme dataset avec tout le code open source stocké dans Github, à partir du projet Github Archive.\n\nQu'est-ce que l'on peut apprendre d'un tel dataset ? Dans cette session, nous allons nous focaliser sur des exemples autour de projets utilisant le langage Apache Groovy, l'outil de build Gradle, ou le framework Grails. Quelles sont les dépendances les plus communes ? Quels sont les frameworks les plus utilisés ? Quelles pratiques de code l'on retrouve souvent ? Les exceptions les plus lancées ? Les plugins Gradle les plus fréquents ? Et plus encore.\n\nDès lors que vous aurez vu comment faire, vous pourrez faire vos propres recherches sur d'autres langages ou outils !"
+		"description": "Rï¿½cemment, Github et Google ont sorti sur BigQuery un ï¿½norme dataset avec tout le code open source stockï¿½ dans Github, ï¿½ partir du projet Github Archive.\n\nQu'est-ce que l'on peut apprendre d'un tel dataset ? Dans cette session, nous allons nous focaliser sur des exemples autour de projets utilisant le langage Apache Groovy, l'outil de build Gradle, ou le framework Grails. Quelles sont les dï¿½pendances les plus communes ? Quels sont les frameworks les plus utilisï¿½s ? Quelles pratiques de code l'on retrouve souvent ? Les exceptions les plus lancï¿½es ? Les plugins Gradle les plus frï¿½quents ? Et plus encore.\n\nDï¿½s lors que vous aurez vu comment faire, vous pourrez faire vos propres recherches sur d'autres langages ou outils !"
 	},
 	{
 		"active": "Y",
-		"name": "RAML une autre façon de concevoir vos APIs RESTful",
+		"name": "RAML une autre faï¿½on de concevoir vos APIs RESTful",
 		"event_start": "2017-04-21T17:00:00Z",
 		"event_end": "2017-04-21T17:25:00Z",
 		"event_type": "Web et mobile",
@@ -1049,8 +1049,8 @@
 		"venue": "Amphi C",
 		"id": 1202,
 		"venue_id": "5",
-		"speakers": "Sébastien LECACHEUR, ",
-		"description": "RAML est le langage de **description des API RESTful** qui monte et qui gagne à être connu. Ce langage favorise la réutilisation : Don’t Repeat Yourself ! Avec le nombre d’APIs qui augmente constamment, RAML est donc le bienvenu.\n\nNous verrons donc comment décrire très simplement et rapidement une API, factoriser la description et générer une description interactive à publier en ligne ! Nous adresserons également d’autres activités telles que le mocking, les tests automatisés et la génération de code."
+		"speakers": "Sï¿½bastien LECACHEUR, ",
+		"description": "RAML est le langage de **description des API RESTful** qui monte et qui gagne ï¿½ ï¿½tre connu. Ce langage favorise la rï¿½utilisation : Donï¿½t Repeat Yourself ! Avec le nombre dï¿½APIs qui augmente constamment, RAML est donc le bienvenu.\n\nNous verrons donc comment dï¿½crire trï¿½s simplement et rapidement une API, factoriser la description et gï¿½nï¿½rer une description interactive ï¿½ publier en ligne ! Nous adresserons ï¿½galement dï¿½autres activitï¿½s telles que le mocking, les tests automatisï¿½s et la gï¿½nï¿½ration de code."
 	},
 	{
 		"active": "Y",
@@ -1062,8 +1062,8 @@
 		"venue": "Amphi D",
 		"id": 1203,
 		"venue_id": "6",
-		"speakers": "Grégory Houllier, ",
-		"description": "Organiser et réutiliser sont code JavaScript pour l'utiliser entre différents projets n'est pas toujours simple. Le versionning combiné à la gestion des dépendances peut vite devenir un casse-tête. Lerna, créé par les fondateurs de Babel permet de vous simplifier la vie. Nous verrons ensemble comment le mettre en place sur un projet React."
+		"speakers": "Grï¿½gory Houllier, ",
+		"description": "Organiser et rï¿½utiliser sont code JavaScript pour l'utiliser entre diffï¿½rents projets n'est pas toujours simple. Le versionning combinï¿½ ï¿½ la gestion des dï¿½pendances peut vite devenir un casse-tï¿½te. Lerna, crï¿½ï¿½ par les fondateurs de Babel permet de vous simplifier la vie. Nous verrons ensemble comment le mettre en place sur un projet React."
 	},
 	{
 		"active": "Y",
@@ -1071,64 +1071,64 @@
 		"event_start": "2017-04-19T10:00:00Z",
 		"event_end": "2017-04-19T12:00:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Université",
+		"format": "Universitï¿½",
 		"venue": "Amphi C",
 		"id": 1204,
 		"venue_id": "5",
 		"speakers": "Sandra Pietrowska, Antoine Michaud",
-		"description": "Dans le monde de la Data Science, l’expérimentation et la validation d’algorithmes sont encore très souvent détachées de la notion de développement à l’échelle de la production avec des outillages adéquats. Dans cet atelier, nous proposons d’implémenter un algorithme de Machine Learning réaliste et fun à l’aide de Luigi, déjà devenu un standard lorsqu’il s’agit de composer des pipelines de traitement de données. Nous montrerons comment Luigi permet de facilement capitaliser sur la valeur métier de son code tout en fournissant « out of the box » un outillage très complet sur les préoccupations qui peuvent être communes dans le traitement de la donnée.\nNous favoriserons une approche guidée par les tests et une intégration progressive de l’algorithme dans le code. Ainsi, en plus d'apprendre à maîtriser Luigi, nous donnerons un exemple alliant l'exploration scientifique et le développement logiciel, tout en gardant un bonne qualité de code.\nCet atelier est donc parfaitement d’actualité pour n’importe qui s’intéressant au monde de la data, quel que soit l’axe d’amélioration qu’il souhaite acquérir (Machine Learning, Tips & Tricks Luigi, Craftsmanship, comparaison avec Airflow, ...)."
+		"description": "Dans le monde de la Data Science, lï¿½expï¿½rimentation et la validation dï¿½algorithmes sont encore trï¿½s souvent dï¿½tachï¿½es de la notion de dï¿½veloppement ï¿½ lï¿½ï¿½chelle de la production avec des outillages adï¿½quats. Dans cet atelier, nous proposons dï¿½implï¿½menter un algorithme de Machine Learning rï¿½aliste et fun ï¿½ lï¿½aide de Luigi, dï¿½jï¿½ devenu un standard lorsquï¿½il sï¿½agit de composer des pipelines de traitement de donnï¿½es. Nous montrerons comment Luigi permet de facilement capitaliser sur la valeur mï¿½tier de son code tout en fournissant ï¿½ out of the box ï¿½ un outillage trï¿½s complet sur les prï¿½occupations qui peuvent ï¿½tre communes dans le traitement de la donnï¿½e.\nNous favoriserons une approche guidï¿½e par les tests et une intï¿½gration progressive de lï¿½algorithme dans le code. Ainsi, en plus d'apprendre ï¿½ maï¿½triser Luigi, nous donnerons un exemple alliant l'exploration scientifique et le dï¿½veloppement logiciel, tout en gardant un bonne qualitï¿½ de code.\nCet atelier est donc parfaitement dï¿½actualitï¿½ pour nï¿½importe qui sï¿½intï¿½ressant au monde de la data, quel que soit lï¿½axe dï¿½amï¿½lioration quï¿½il souhaite acquï¿½rir (Machine Learning, Tips & Tricks Luigi, Craftsmanship, comparaison avec Airflow, ...)."
 	},
 	{
 		"active": "Y",
-		"name": "Qu'apportent les accélérateurs matériels sur FPGA ? L'exemple de l'anti-DDoS d'OVH",
+		"name": "Qu'apportent les accï¿½lï¿½rateurs matï¿½riels sur FPGA ? L'exemple de l'anti-DDoS d'OVH",
 		"event_start": "2017-04-20T14:30:00Z",
 		"event_end": "2017-04-20T15:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi B",
 		"id": 1215,
 		"venue_id": "4",
-		"speakers": "Tristan Groléat, ",
-		"description": "Les FPGAs sont des **puces configurables** servant à l'origine à tester des prototypes de puces électroniques. Ils entrent maintenant dans le monde du logiciel en tant qu'**accélérateurs matériels reconfigurables**, bien plus versatiles que les GPUs. Ils sont même proposés par certains fournisseurs de cloud.\n\n**Traitement de trafic, compression, chiffrement, machine learning**, sont des domaines dans lesquels les FPGAs excellent. Des accélérateurs existent qui peuvent être utilisés sans connaissances en électronique, rendant les FPGAs accessibles à tous les développeurs. \n\nLes FPGAs n'imposent aucune architecture matérielle, et offrent un **parallélisme massif** grâce à leurs millions d'éléments (logiques, mémoire) fonctionnant indépendamment. À travers l'exemple du **système anti-DDoS d'OVH**, venez découvrir l'intérêt, les challenges et les solutions pour intégrer des FPGAs dans un environnement logiciel."
+		"speakers": "Tristan Grolï¿½at, ",
+		"description": "Les FPGAs sont des **puces configurables** servant ï¿½ l'origine ï¿½ tester des prototypes de puces ï¿½lectroniques. Ils entrent maintenant dans le monde du logiciel en tant qu'**accï¿½lï¿½rateurs matï¿½riels reconfigurables**, bien plus versatiles que les GPUs. Ils sont mï¿½me proposï¿½s par certains fournisseurs de cloud.\n\n**Traitement de trafic, compression, chiffrement, machine learning**, sont des domaines dans lesquels les FPGAs excellent. Des accï¿½lï¿½rateurs existent qui peuvent ï¿½tre utilisï¿½s sans connaissances en ï¿½lectronique, rendant les FPGAs accessibles ï¿½ tous les dï¿½veloppeurs. \n\nLes FPGAs n'imposent aucune architecture matï¿½rielle, et offrent un **parallï¿½lisme massif** grï¿½ce ï¿½ leurs millions d'ï¿½lï¿½ments (logiques, mï¿½moire) fonctionnant indï¿½pendamment. ï¿½ travers l'exemple du **systï¿½me anti-DDoS d'OVH**, venez dï¿½couvrir l'intï¿½rï¿½t, les challenges et les solutions pour intï¿½grer des FPGAs dans un environnement logiciel."
 	},
 	{
 		"active": "Y",
-		"name": "Dis … Dessine moi une monade",
+		"name": "Dis ï¿½ Dessine moi une monade",
 		"event_start": "2017-04-20T11:30:00Z",
 		"event_end": "2017-04-20T12:25:00Z",
 		"event_type": "Langages",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi A",
 		"id": 1233,
 		"venue_id": "3",
-		"speakers": "Philippe Charrière, null null, Quentin ADAM",
-		"description": "Un jour, 3 drôles de barbus ?????? se retrouvent à une terrasse de café:\n\n**ACTE I - Scène première**\n\n- ?? : N'empêche que le nom \"Scalafistes\" ça vous va super bien!  `#trollinside`\n- ?? : Non. mec, tu prends des raccourcis ...\n- ?? : Ah moi j'aime bien aussi, je revendique même!  Je suis un Scalafiste de l'extrême, et Play vaincra!!!\n- ?? : Là, mecs,  vous \"vendez\" une vision totalement réductrice du paysage fonctionnel, Il n'y a pas que Scala dans la vie, prend Haskell et la beauté des théories mathématiques associées, l'intelligence du système de types de Rust qui te propose des monades Option en retour de fonction, le ...\n- ?? : Vous me faites marrer avec vos types, si tu sais coder, tu peux faire du fonctionnel en JavaScript `#trollinside` `#oupas`\n- ?? : MDR ??, moi je fais du Play Scala tous les jours pour des cas d'usage de ouf et je suis sûr que avec ton Node tu feras que de la ??\n- ?? : `#defi` est-ce que vous croyez que nous somme capables d'expliquer ces concepts en termes simples?\n- ???? : Oh oui!\n- ?? : Quelqu'un reprend un ???\n- ???? ??"
+		"speakers": "Philippe Charriï¿½re, null null, Quentin ADAM",
+		"description": "Un jour, 3 drï¿½les de barbus ?????? se retrouvent ï¿½ une terrasse de cafï¿½:\n\n**ACTE I - Scï¿½ne premiï¿½re**\n\n- ?? : N'empï¿½che que le nom \"Scalafistes\" ï¿½a vous va super bien!  `#trollinside`\n- ?? : Non. mec, tu prends des raccourcis ...\n- ?? : Ah moi j'aime bien aussi, je revendique mï¿½me!  Je suis un Scalafiste de l'extrï¿½me, et Play vaincra!!!\n- ?? : Lï¿½, mecs,  vous \"vendez\" une vision totalement rï¿½ductrice du paysage fonctionnel, Il n'y a pas que Scala dans la vie, prend Haskell et la beautï¿½ des thï¿½ories mathï¿½matiques associï¿½es, l'intelligence du systï¿½me de types de Rust qui te propose des monades Option en retour de fonction, le ...\n- ?? : Vous me faites marrer avec vos types, si tu sais coder, tu peux faire du fonctionnel en JavaScript `#trollinside` `#oupas`\n- ?? : MDR ??, moi je fais du Play Scala tous les jours pour des cas d'usage de ouf et je suis sï¿½r que avec ton Node tu feras que de la ??\n- ?? : `#defi` est-ce que vous croyez que nous somme capables d'expliquer ces concepts en termes simples?\n- ???? : Oh oui!\n- ?? : Quelqu'un reprend un ???\n- ???? ??"
 	},
 	{
 		"active": "Y",
 		"name": "Domain Driven Architecture",
 		"event_start": "2017-04-19T16:00:00Z",
 		"event_end": "2017-04-19T18:00:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Université",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Universitï¿½",
 		"venue": "Lab",
 		"id": 1234,
 		"venue_id": "7",
 		"speakers": "Arnaud LEMAIRE, ",
-		"description": "Nous avons la chance de travailler régulièrement sur de nouveau produits ce qui nous a amenés à affiner progressivement la façon dont nous développons nos applications en suivant les concepts du Domain Driven Design.\nÀ partir d’un retour d’expérience, nous expliquerons les notions et patterns qui permettent d’exprimer au mieux le métier au sein du code source.?L’occasion de comprendre la philosophie derrière le Domain Driven Design associée a des exemples d’implémentation concrète de ce type d’architecture au sein d’environnements connus comme spring boot.\nNous terminerons avec une rapide présentation de la graine logicielle que nous utilisons en interne."
+		"description": "Nous avons la chance de travailler rï¿½guliï¿½rement sur de nouveau produits ce qui nous a amenï¿½s ï¿½ affiner progressivement la faï¿½on dont nous dï¿½veloppons nos applications en suivant les concepts du Domain Driven Design.\nï¿½ partir dï¿½un retour dï¿½expï¿½rience, nous expliquerons les notions et patterns qui permettent dï¿½exprimer au mieux le mï¿½tier au sein du code source.?Lï¿½occasion de comprendre la philosophie derriï¿½re le Domain Driven Design associï¿½e a des exemples dï¿½implï¿½mentation concrï¿½te de ce type dï¿½architecture au sein dï¿½environnements connus comme spring boot.\nNous terminerons avec une rapide prï¿½sentation de la graine logicielle que nous utilisons en interne."
 	},
 	{
 		"active": "Y",
 		"name": "CQRS, Fonctionel, Event Sourcing & Domain Driven Design",
 		"event_start": "2017-04-20T11:30:00Z",
 		"event_end": "2017-04-20T12:25:00Z",
-		"event_type": "Architecture, Performance et Sécurité",
-		"format": "Conférence",
+		"event_type": "Architecture, Performance et Sï¿½curitï¿½",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1236,
 		"venue_id": "6",
 		"speakers": "Arnaud LEMAIRE, ",
-		"description": "Avec autant de buzzwords dans le titre, laissez-moi expliciter le menu :\n\n* Nous commencerons avec une étude des principes du CQRS et la notion de projection pour construire les modèles de données dédiées à la lecture, le tout avec un datastore traditionnel (relationnel).\n* Nous continuerons avec le concept d’état en programmation fonctionnelle, et comment les gérer au sein d’une application tout en respectant le principe d’immutabilité. Et pourquoi ont-ils transformé la gestion d’états pour la construction d’interface utilisateur??\n* Dans un troisième temps, nous nous intéresserons aux évènements du domaine-métier dans le Domain Driven Design et comment ceux-ci s’intègrent dans la mécanique de construction des projections.\n* Enfin, nous assemblerons toutes ces notions pour faire apparaitre l’«?event sourcing?» comme modèle de persistance pour nos données.\n* Pour clôture, nous verrons les erreurs les plus courantes rencontrées lors de l’implémentation d’un modèle en event sourcing. Et nous terminerons avec une présentation de l’architecture que nous utilisons en interne chez Arpinum pour nos clients.\n\nTake away:\n* Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.\n* Comprendre le modèle d’états derrière Redux (utilisé massivement par la communauté ReactJs).\n* Gérer facilement les évènements-métier au sein d’une architecture DDD.\n* Savoir comment implémenter correctement un système basé sur l’event sourcing.\n* Présentation d’une architecture clef en main pour construire ce type d’application."
+		"description": "Avec autant de buzzwords dans le titre, laissez-moi expliciter le menuï¿½:\n\n* Nous commencerons avec une ï¿½tude des principes du CQRS et la notion de projection pour construire les modï¿½les de donnï¿½es dï¿½diï¿½es ï¿½ la lecture, le tout avec un datastore traditionnel (relationnel).\n* Nous continuerons avec le concept dï¿½ï¿½tat en programmation fonctionnelle, et comment les gï¿½rer au sein dï¿½une application tout en respectant le principe dï¿½immutabilitï¿½. Et pourquoi ont-ils transformï¿½ la gestion dï¿½ï¿½tats pour la construction dï¿½interface utilisateur??\n* Dans un troisiï¿½me temps, nous nous intï¿½resserons aux ï¿½vï¿½nements du domaine-mï¿½tier dans le Domain Driven Design et comment ceux-ci sï¿½intï¿½grent dans la mï¿½canique de construction des projections.\n* Enfin, nous assemblerons toutes ces notions pour faire apparaitre lï¿½ï¿½?event sourcing?ï¿½ comme modï¿½le de persistance pour nos donnï¿½es.\n* Pour clï¿½ture, nous verrons les erreurs les plus courantes rencontrï¿½es lors de lï¿½implï¿½mentation dï¿½un modï¿½le en event sourcing. Et nous terminerons avec une prï¿½sentation de lï¿½architecture que nous utilisons en interne chez Arpinum pour nos clients.\n\nTake away:\n* Utiliser CQRS (sans event-sourcing) pour simplifier la gestion de la persistance dans son application.\n* Comprendre le modï¿½le dï¿½ï¿½tats derriï¿½re Redux (utilisï¿½ massivement par la communautï¿½ ReactJs).\n* Gï¿½rer facilement les ï¿½vï¿½nements-mï¿½tier au sein dï¿½une architecture DDD.\n* Savoir comment implï¿½menter correctement un systï¿½me basï¿½ sur lï¿½event sourcing.\n* Prï¿½sentation dï¿½une architecture clef en main pour construire ce type dï¿½application."
 	},
 	{
 		"active": "Y",
@@ -1136,61 +1136,66 @@
 		"event_start": "2017-04-19T10:00:00Z",
 		"event_end": "2017-04-19T10:55:00Z",
 		"event_type": "BigData, Analytics et Machine Learning",
-		"format": "Conférence",
+		"format": "Confï¿½rence",
 		"venue": "Amphi D",
 		"id": 1249,
 		"venue_id": "6",
 		"speakers": "Yann Vanderstockt, ",
-		"description": "### Comment traiter des centaines de millions d'évènements en streaming.\n\nJe vous propose un REX sur la solution mise en place chez PagesJaunes pour la corrélation d'événements en temps réel et des notifications d'alertes instantanées sur près de 300 millions d'événements par jour.\nJe détaillerai la démarche de mise en place de l'architecture Big Data ainsi que le choix des technologies mises en oeuvre."
+		"description": "### Comment traiter des centaines de millions d'ï¿½vï¿½nements en streaming.\n\nJe vous propose un REX sur la solution mise en place chez PagesJaunes pour la corrï¿½lation d'ï¿½vï¿½nements en temps rï¿½el et des notifications d'alertes instantanï¿½es sur prï¿½s de 300 millions d'ï¿½vï¿½nements par jour.\nJe dï¿½taillerai la dï¿½marche de mise en place de l'architecture Big Data ainsi que le choix des technologies mises en oeuvre."
 	},
 	{
-        "description": "Keynote",
-        "event_start": "2017-04-20T09:00:00",
-        "event_end": "2017-04-20T10:00:00",
-        "event_key": "tobedefined",
-        "event_type": "Keynote",
-        "format": "Keynote",
-        "name": "Keynote",
-        "venue": "Track1"
+		"id": 9991,
+		"description": "Keynote",
+		"event_start": "2017-04-20T09:00:00",
+		"event_end": "2017-04-20T10:00:00",
+		"event_key": "tobedefined",
+		"event_type": "Keynote",
+		"format": "Keynote",
+		"name": "Keynote",
+		"venue": "Amphi A"
 	},
-    {
-        "description": "Closing Keynote",
-        "event_start": "2017-04-20T18:00:00",
-        "event_end": "2017-04-20T18:30:00",
-        "event_key": "tobedefined",
-        "event_type": "Keynote",
-        "format": "Keynote",
-        "name": "Keynote",
-        "venue": "Track1"
-    },
-    {
-        "description": "Meet'n Greet",
-        "event_start": "2017-04-20T18:30:00",
-        "event_end": "2017-04-20T20:30:00",
-        "event_key": "tobedefined",
-        "event_type": "Autre",
-        "format": "Party",
-        "name": "Meet'n Greet",
-        "venue": "Track6"
-    },    
-    {
-        "description": "Keynote",
-        "event_start": "2017-04-21T09:00:00",
-        "event_end": "2017-04-21T10:00:00",
-        "event_key": "tobedefined",
-        "event_type": "Keynote",
-        "format": "Keynote",
-        "name": "Keynote",
-        "venue": "Track1"
-    },
-        {
-        "description": "Closing Keynote",
-        "event_start": "2017-04-21T17:30:00",
-        "event_end": "2017-04-21T18:00:00",
-        "event_key": "tobedefined",
-        "event_type": "Keynote",
-        "format": "Keynote",
-        "name": "Keynote",
-        "venue": "Track1"
-    }
+	{
+		"id": 9992,
+		"description": "Closing Keynote",
+		"event_start": "2017-04-20T18:00:00",
+		"event_end": "2017-04-20T18:30:00",
+		"event_key": "tobedefined",
+		"event_type": "Keynote",
+		"format": "Keynote",
+		"name": "Keynote",
+		"venue": "Amphi A"
+	},
+	{
+		"id": 9993,
+		"description": "Meet'n Greet",
+		"event_start": "2017-04-20T18:30:00",
+		"event_end": "2017-04-20T20:30:00",
+		"event_key": "tobedefined",
+		"event_type": "Autre",
+		"format": "Party",
+		"name": "Meet'n Greet",
+		"venue": "Hall"
+	},    
+	{
+		"id": 9994,
+		"description": "Keynote",
+		"event_start": "2017-04-21T09:00:00",
+		"event_end": "2017-04-21T10:00:00",
+		"event_key": "tobedefined",
+		"event_type": "Keynote",
+		"format": "Keynote",
+		"name": "Keynote",
+		"venue": "Amphi A"
+	},
+	{
+		"id": 9995,
+		"description": "Closing Keynote",
+		"event_start": "2017-04-21T17:30:00",
+		"event_end": "2017-04-21T18:00:00",
+		"event_key": "tobedefined",
+		"event_type": "Keynote",
+		"format": "Keynote",
+		"name": "Keynote",
+		"venue": "Amphi A"
+	}
 ]
