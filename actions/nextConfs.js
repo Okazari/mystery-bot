@@ -21,13 +21,13 @@ const confInfoToHeroCard = confInfo => {
       'buttons': [
         {
           'type': 'postBack',
-          'title': 'Plus d\'infos',
-          'value': `conf details ${confInfo.id}`
+          'title': `${confInfo.venue}`,
+          'value': `conf location ${confInfo.id}`
         },
         {
           'type': 'postBack',
-          'title': 'Ou c\'est ?',
-          'value': `conf location ${confInfo.id}`
+          'title': 'Plus d\'infos',
+          'value': `conf details ${confInfo.id}`
         }
       ]
     }

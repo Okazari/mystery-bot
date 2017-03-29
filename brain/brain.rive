@@ -21,6 +21,9 @@
 + conf details *
 - JS: return brain.actions.confDetails(<star>)
 
++ conf location *
+- JS: return brain.actions.confLocation(<star>)
+
 + ping
 - pong
 

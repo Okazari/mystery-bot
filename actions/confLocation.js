@@ -1,11 +1,7 @@
 const findConfById = require('./findConfById')
 
-// TODO Gérer l'encodage
-
 const confToAttachment = confInfo => {
-  return [
-    confInfo.speakers,
-    confInfo.description,
+  return ['TODO Ajouter le plan',
     {
       'attachments': [
         {
@@ -14,8 +10,8 @@ const confToAttachment = confInfo => {
             'buttons': [
               {
                 'type': 'postBack',
-                'title': `${confInfo.venue}`,
-                'value': `conf location ${confInfo.id}`
+                'title': 'Description',
+                'value': `conf details ${confInfo.id}`
               },
               {
                 'type': 'postBack',
@@ -28,10 +24,10 @@ const confToAttachment = confInfo => {
     }]
 }
 
-const confDetails = confId => {
+const confLocation = confId => {
   return findConfById(confId)
     .map(confToAttachment)
     .getOrElse('La conférence n\'a pas été trouvée ¯\\\\_(ツ)_/¯')
 }
 
-module.exports = confDetails
+module.exports = confLocation
