@@ -3447,6 +3447,10 @@ stealthy-require@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/stealthy-require/-/stealthy-require-1.0.0.tgz#1a8ed8fc19a8b56268f76f5a1a3e3832b0c26200"
 
+stopword@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/stopword/-/stopword-0.1.1.tgz#d8858310a93d99fe86d30341a5bda7c6f60d8e65"
+
 stream-transform@^0.1.0:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/stream-transform/-/stream-transform-0.1.2.tgz#7d8e6b4e03ac4781778f8c79517501bfb0762a9f"

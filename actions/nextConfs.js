@@ -2,6 +2,7 @@ const R = require('ramda')
 const moment = require('moment')
 const confs = require('../breizhcamp.json')
 const currentDate = require('./currentDate')
+const formatConfList = require('./formatConfList')
 
 const happensNext = confDate => {
   return confDate.isBetween(
@@ -12,37 +13,8 @@ const happensNext = confDate => {
 
 const extractStartDate = R.pipe(R.prop('event_start'), moment)
 
-const confInfoToHeroCard = confInfo => {
-  return {
-    'contentType': 'application/vnd.microsoft.card.hero',
-    'content': {
-      'title': confInfo.name,
-      'subtitle': confInfo.description,
-      'buttons': [
-        {
-          'type': 'postBack',
-          'title': `${confInfo.venue}`,
-          'value': `conf location ${confInfo.id}`
-        },
-        {
-          'type': 'postBack',
-          'title': 'Plus d\'infos',
-          'value': `conf details ${confInfo.id}`
-        }
-      ]
-    }
-  }
-}
-
-const aggregateCards = cards => {
-  return {
-    'attachmentLayout': 'carousel',
-    'attachments': cards
-  }
-}
-
 const nextConfs = () =>
-  aggregateCards(
+  formatConfList(
     confs
       .filter(
         R.pipe(
@@ -50,7 +22,6 @@ const nextConfs = () =>
           happensNext
         )
       )
-      .map(confInfoToHeroCard)
   )
 
 module.exports = nextConfs
