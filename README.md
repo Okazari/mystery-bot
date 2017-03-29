@@ -1,11 +1,7 @@
 
 ## TODO
 
-- Améliorer la recherche pour qu'elle soit moins stricte 
-
-> "microservice" et "microservices" renvoient des résultats différents)
-> "micro" ne renvoit rien
-
+Voir ici : https://github.com/Okazari/mystery-bot/projects/1
 
 ## Récupérer les informations de connexion
 
