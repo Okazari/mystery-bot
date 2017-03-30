@@ -3,25 +3,33 @@ const moment = require('moment')
 const confs = require('../breizhcamp.json')
 const currentDate = require('./currentDate')
 const formatConfList = require('./formatConfList')
+const formatDate = require('./formatDate')
+const extractStartDate = require('./extractStartDate')
 
-const happensNext = confDate => {
-  return confDate.isBetween(
-    currentDate().subtract(5, 'm'),
-    currentDate().add(20, 'm')
-  )
-}
+const happensNext = R.curry(
+  (referenceDate, confDate) => {
+    return confDate.isBetween(
+      moment(referenceDate).subtract(5, 'm'),
+      moment(referenceDate).add(20, 'm')
+    )
+  }
+)
 
-const extractStartDate = R.pipe(R.prop('event_start'), moment)
+const nextConfs = eventStart => {
+  const referenceDate = eventStart ? moment(eventStart) : currentDate()
+  const formatedReferenceDate = formatDate(referenceDate)
 
-const nextConfs = () =>
-  formatConfList(
-    confs
-      .filter(
-        R.pipe(
-          extractStartDate,
-          happensNext
+  return [
+    `Voici les conférences qui démarrent aux environs de ${formatedReferenceDate}`,
+    formatConfList(
+      confs
+        .filter(
+          R.pipe(
+            extractStartDate,
+            happensNext(referenceDate)
+          )
         )
-      )
-  )
+    )]
+}
 
 module.exports = nextConfs

@@ -1,8 +1,11 @@
 const findConfById = require('./findConfById')
+const formatDate = require('./formatDate')
 
 // TODO Gérer l'encodage
 
 const confToAttachment = confInfo => {
+  const formatedStartDate = formatDate(confInfo.event_start)
+
   return [
     confInfo.speakers,
     confInfo.description,
@@ -12,6 +15,12 @@ const confToAttachment = confInfo => {
           'contentType': 'application/vnd.microsoft.card.hero',
           'content': {
             'buttons': [
+              {
+                'type': 'postBack',
+                'title': `${formatedStartDate}`,
+                // TODO Appeler next 'date de la conf'
+                'value': `conf details ${confInfo.id}`
+              },
               {
                 'type': 'postBack',
                 'title': `${confInfo.venue}`,

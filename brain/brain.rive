@@ -15,8 +15,11 @@
 + hello
 - JS: return brain.actions.hello()
 
-+ next
-- JS: return brain.actions.nextConfs()
++ next 
+@ next false
+
++ next *
+- JS: return brain.actions.nextConfs(<star>)
 
 + conf details *
 - JS: return brain.actions.confDetails(<star>)

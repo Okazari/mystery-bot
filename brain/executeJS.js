@@ -5,6 +5,7 @@ const executeJS = (brain, replied) => {
 
   if (match) {
     const body = match[1]
+    console.log('EXECUTE', body)
     const fn = new Function('brain', body)
     return fn(brain)
   }
