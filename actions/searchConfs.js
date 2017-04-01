@@ -1,50 +1,56 @@
 const R = require('ramda')
-const stopwords = require('stopword')
-const frenchStopWords = stopwords.fr
 const confs = require('../breizhcamp.json')
 const formatConfList = require('./formatConfList')
 
-const extractKeywords = text => {
-  if (!text) return []
-  const keywords = stopwords.removeStopwords(text.split(' '), frenchStopWords)
-  return keywords.map(R.toLower)
-}
+const lunr = require('lunr')
+require('lunr-languages/lunr.stemmer.support')(lunr)
+require('lunr-languages/lunr.fr')(lunr)
 
-const fieldContainingKeywords = [
-  'name',
-  'description',
-  'speakers'
-]
-
-const extractConfKeywords = conf => fieldContainingKeywords
-  .reduce((acc, field) => {
-    const keywords = extractKeywords(conf[field])
-    return acc.concat(keywords)
-  }, [])
-
-const extractAllConfKeywords = confs => confs.reduce((acc, conf) => {
-  const confKeywords = extractConfKeywords(conf)
-  return acc.concat({conf, confKeywords})
-}, [])
-
-// TODO Strict comparison return different results if we search 'microservice' or 'microservices'. And return nothing if we search 'micro'
-const isConfRelevant = (confKeywords, searchKeywords) => {
-  return R.all(
-    searchKeyword => R.contains(searchKeyword, confKeywords),
-    searchKeywords
-  )
-}
+const index = lunr(function () {
+  this.use(lunr.fr)
+  this.field('name', { boost: 10 })
+  this.field('description')
+  this.field('speakers')
+})
+confs.forEach(conf => index.add(conf))
 
 const searchConfs = search => {
-  const searchKeywords = extractKeywords(search)
+  const results = index.search(search)
+  const foundConfIds = R.pluck('ref', results)
+  const foundConfs = R.filter(conf => R.contains(conf.id, foundConfIds), confs)
 
-  const allConfKeywords = extractAllConfKeywords(confs)
-
-  const filteredConfs = allConfKeywords
-    .filter(({confKeywords}) => isConfRelevant(confKeywords, searchKeywords))
-    .map(({conf}) => conf)
-
-  return formatConfList(filteredConfs)
+  if (foundConfs.length) {
+    return [
+      `Voici ce que j'ai trouvé pour "${search}"`,
+      formatConfList(foundConfs)
+    ]
+  } else {
+    return [
+      `Je n'ai rien trouvé pour "${search}"`,
+      {
+        'attachments': [
+          {
+            'contentType': 'application/vnd.microsoft.card.hero',
+            'content': {
+              'subtitle': 'Que voulez vous savoir ?',
+              'buttons': [
+                {
+                  'type': 'postBack',
+                  'title': 'Prochaines confs',
+                  'value': 'next'
+                },
+                {
+                  'type': 'postBack',
+                  'title': 'Aide',
+                  'value': 'help'
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
 }
 
 module.exports = searchConfs

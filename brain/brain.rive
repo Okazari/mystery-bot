@@ -12,6 +12,9 @@
 + bonjour
 @ hello
 
++ yo
+@ hello
+
 + hello
 - JS: return brain.actions.hello()
 
