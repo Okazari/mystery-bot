@@ -3,6 +3,10 @@ const RiveScript = require('rivescript')
 const executeJS = require('./executeJS')
 const actions = require('../actions')
 
+// Set locale to FR
+const moment = require('moment')
+moment.locale('fr')
+
 let brain
 const init = () => {
   return new Promise((resolve, reject) => {
