@@ -7,7 +7,7 @@ const confToAttachment = confInfo => {
   const formatedStartDate = formatDate(confInfo.event_start)
 
   return [
-    confInfo.speakers,
+    `Par ${confInfo.speakers} :`,
     confInfo.description,
     {
       'attachments': [
