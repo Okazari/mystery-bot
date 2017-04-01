@@ -15,8 +15,8 @@ const happensNext = R.curry(
   }
 )
 
-const nextConfs = eventStart => {
-  const referenceDate = eventStart ? moment(eventStart) : currentDate()
+const nextConfs = eventStartUnixTime => {
+  const referenceDate = eventStartUnixTime ? moment.unix(eventStartUnixTime) : currentDate()
   const formatedReferenceDate = formatDate(referenceDate)
 
   return [

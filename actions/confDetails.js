@@ -1,13 +1,13 @@
+const moment = require('moment')
 const findConfById = require('./findConfById')
 const formatDate = require('./formatDate')
 
-// TODO Gérer l'encodage
-
 const confToAttachment = confInfo => {
   const formatedStartDate = formatDate(confInfo.event_start)
+  const startDateUnixTime = moment(confInfo.event_start).unix()
 
   return [
-    `Par ${confInfo.speakers} :`,
+    `Par ${confInfo.speakers}`,
     confInfo.description,
     {
       'attachments': [
@@ -18,8 +18,7 @@ const confToAttachment = confInfo => {
               {
                 'type': 'postBack',
                 'title': `${formatedStartDate}`,
-                // TODO Appeler next 'date de la conf'
-                'value': `conf details ${confInfo.id}`
+                'value': `next ${startDateUnixTime}`
               },
               {
                 'type': 'postBack',

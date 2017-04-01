@@ -1,7 +1,10 @@
+const moment = require('moment')
 const formatDate = require('./formatDate')
 
 const confInfoToHeroCard = confInfo => {
   const formatedStartDate = formatDate(confInfo.event_start)
+  const startDateUnixTime = moment(confInfo.event_start).unix()
+
   return {
     'contentType': 'application/vnd.microsoft.card.hero',
     'content': {
@@ -11,8 +14,7 @@ const confInfoToHeroCard = confInfo => {
         {
           'type': 'postBack',
           'title': `${formatedStartDate}`,
-          // TODO Appeler next 'date de la conf'
-          'value': `conf details ${confInfo.id}`
+          'value': `next ${startDateUnixTime}`
         },
         {
           'type': 'postBack',
