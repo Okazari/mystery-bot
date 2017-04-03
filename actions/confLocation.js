@@ -1,13 +1,25 @@
 const findConfById = require('./findConfById')
 
+const planUrl = 'https://raw.githubusercontent.com/Okazari/mystery-bot/botpress-botbuilder/images/plan.png'
+
 const confToAttachment = confInfo => {
-  return ['TODO Ajouter le plan',
+  return [
     {
       'attachments': [
         {
           'contentType': 'application/vnd.microsoft.card.hero',
           'content': {
+            'images': [
+              {
+                'url': planUrl
+              }
+            ],
             'buttons': [
+              {
+                'type': 'openUrl',
+                'title': 'Ouvrir en grand',
+                'value': planUrl
+              },
               {
                 'type': 'postBack',
                 'title': 'Description',
