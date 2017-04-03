@@ -8,10 +8,12 @@ module.exports = (bp, botfmk) => {
     // TODO DEBUG
     // console.log('MESSAGE', message)
 
+    const text = message.text !== '' ? message.text : 'hey'
+
     bp.middlewares.sendIncoming({
       platform: 'botfmk',
       type: 'message',
-      text: message.text || 'No text',
+      text,
       raw: message,
       session
     })
@@ -19,5 +21,14 @@ module.exports = (bp, botfmk) => {
 
   botfmk.dialog('/', function (session) {
     sendMessageToIncomingMiddlewares(session)
+  })
+
+  const users = []
+
+  botfmk.on('conversationUpdate', function(session){
+    if(!users[session.user.id]) {
+      users[session.user.id] = true
+      botfmk.beginDialog(session.address, '/')
+    }
   })
 }

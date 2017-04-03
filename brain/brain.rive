@@ -30,6 +30,10 @@
 + conf location *
 - JS: return brain.actions.confLocation(<star>)
 
++ help
+- Cliquez sur "Prochaines confs" ou entre 'next' pour avoir la liste des prochaines conférences \n\n
+^ Entre un mot et je rechercherai pour toi les confs sur le sujet
+
 + *
 - JS: return brain.actions.searchConfs('<star>')
 

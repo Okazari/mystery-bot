@@ -35,7 +35,8 @@ module.exports = function (bp) {
     // TODO DEBUG
     // console.log('EVENT', event)
 
-    const {text, user} = event.raw
+    const text = event.text
+    const {user} = event.raw
     const session = event.session
 
     const callback = (message) => {
