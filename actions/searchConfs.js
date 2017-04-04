@@ -1,6 +1,7 @@
 const R = require('ramda')
 const confs = require('../breizhcamp.json')
 const formatConfList = require('./formatConfList')
+const defaultMenu = require('./defaultMenu')
 
 const lunr = require('lunr')
 require('lunr-languages/lunr.stemmer.support')(lunr)
@@ -27,28 +28,7 @@ const searchConfs = search => {
   } else {
     return [
       `Je n'ai rien trouvé pour "${search}"`,
-      {
-        'attachments': [
-          {
-            'contentType': 'application/vnd.microsoft.card.hero',
-            'content': {
-              'subtitle': 'Que voulez vous savoir ?',
-              'buttons': [
-                {
-                  'type': 'postBack',
-                  'title': 'Prochaines confs',
-                  'value': 'next'
-                },
-                {
-                  'type': 'postBack',
-                  'title': 'Aide',
-                  'value': 'help'
-                }
-              ]
-            }
-          }
-        ]
-      }
+      defaultMenu()
     ]
   }
 }
