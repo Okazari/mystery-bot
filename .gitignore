@@ -49,3 +49,4 @@ jspm_packages
 
 .sekret
 config/config.json
+config/config.trainbot.json
