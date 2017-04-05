@@ -1,3 +1,5 @@
+const siteUrl = 'http://www.breizhcamp.org/conference/programme/'
+
 const defaultMenu = () => {
   return {
     'attachments': [
@@ -15,6 +17,11 @@ const defaultMenu = () => {
               'type': 'postBack',
               'title': 'Aide',
               'value': 'help'
+            },
+            {
+              'type': 'openUrl',
+              'title': 'Site Web',
+              'value': siteUrl
             }
           ]
         }
