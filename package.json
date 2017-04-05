@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.16.0",
     "botbuilder": "^3.7.0",
     "botpress": "0.1.4",
     "botpress-analytics": "^2.0.7",
