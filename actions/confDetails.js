@@ -1,13 +1,15 @@
 const moment = require('moment')
 const findConfById = require('./findConfById')
 const formatDate = require('./formatDate')
+const formatConfDuration = require('./formatConfDuration')
 
 const confToAttachment = confInfo => {
   const formatedStartDate = formatDate(confInfo.event_start)
   const startDateUnixTime = moment(confInfo.event_start).unix()
+  const formatedConfDuration = formatConfDuration(confInfo)
 
   return [
-    `Par ${confInfo.speakers}`,
+    `${formatedConfDuration}, par ${confInfo.speakers}`,
     confInfo.description,
     {
       'attachments': [

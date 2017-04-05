@@ -1,15 +1,17 @@
 const moment = require('moment')
 const formatDate = require('./formatDate')
+const formatConfDuration = require('./formatConfDuration')
 
 const confInfoToHeroCard = confInfo => {
   const formatedStartDate = formatDate(confInfo.event_start)
   const startDateUnixTime = moment(confInfo.event_start).unix()
+  const formatedConfDuration = formatConfDuration(confInfo)
 
   return {
     'contentType': 'application/vnd.microsoft.card.hero',
     'content': {
       'title': confInfo.name,
-      'subtitle': confInfo.description,
+      'subtitle': `${formatedConfDuration} - ${confInfo.description}`,
       'buttons': [
         {
           'type': 'postBack',
