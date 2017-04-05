@@ -34,6 +34,10 @@
 + [*] plan [*]
 - JS: return brain.actions.plan()
 
++ [*] wifi [*]
+- Si vous avez fait la demande d'accès wifi avant la conférence, vous pouvez vous connec 
+^ ter au réseau "eduspot" avec le mot de passe que vous avez reçu par email
+
 + help
 - Cliquez sur "Prochaines confs" ou entre 'next' pour avoir la liste des prochaines conférences \n\n
 ^ Entre un mot et je rechercherai pour toi les confs sur le sujet
