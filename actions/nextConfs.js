@@ -5,6 +5,7 @@ const currentDate = require('./currentDate')
 const formatConfList = require('./formatConfList')
 const formatDate = require('./formatDate')
 const extractStartDate = require('./extractStartDate')
+const defaultMenu = require('./defaultMenu')
 
 const happensNext = R.curry(
   (referenceDate, confDate) => {
@@ -19,17 +20,25 @@ const nextConfs = eventStartUnixTime => {
   const referenceDate = eventStartUnixTime ? moment.unix(eventStartUnixTime) : currentDate()
   const formatedReferenceDate = formatDate(referenceDate)
 
-  return [
-    `Voici les conférences qui démarrent aux environs de ${formatedReferenceDate}`,
-    formatConfList(
-      confs
+  const foundConfs = confs
         .filter(
           R.pipe(
             extractStartDate,
             happensNext(referenceDate)
           )
         )
-    )]
+
+  if (foundConfs.length) {
+    return [
+      `Voici les conférences qui démarrent aux environs de ${formatedReferenceDate}`,
+      formatConfList(foundConfs)
+    ]
+  } else {
+    return [
+      `Je n'ai rien trouvé aux environs de ${formatedReferenceDate}`,
+      defaultMenu()
+    ]
+  }
 }
 
 module.exports = nextConfs
