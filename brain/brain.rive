@@ -39,6 +39,6 @@
 ^ Entre un mot et je rechercherai pour toi les confs sur le sujet
 
 + *
-- JS: return brain.actions.searchConfs('<star>')
+- JS: return brain.actions.searchConfs(`<star>`)
 
 
