@@ -19,7 +19,7 @@
 - JS: return brain.actions.hello()
 
 + next 
-@ next false
+@ next null
 
 + next *
 - JS: return brain.actions.nextConfs(<star>)
@@ -27,8 +27,12 @@
 + conf details *
 - JS: return brain.actions.confDetails(<star>)
 
+
 + conf location *
 - JS: return brain.actions.confLocation(<star>)
+
++ [*] plan [*]
+- JS: return brain.actions.plan()
 
 + help
 - Cliquez sur "Prochaines confs" ou entre 'next' pour avoir la liste des prochaines conférences \n\n
