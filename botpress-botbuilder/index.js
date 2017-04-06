@@ -7,7 +7,8 @@
 const _ = require('lodash')
 const Promise = require('bluebird')
 const botbuilder = require('botbuilder')
-const restify = require('restify')
+const express = require('express')
+const greenlock = require('greenlock-express')
 const incoming = require('./incoming')
 const outgoing = require('./outgoing')
 const actions = require('./actions')
@@ -62,10 +63,10 @@ module.exports = {
   },
 
   ready: function (bp) {
-    const server = restify.createServer()
-    server.listen(process.env.port || process.env.PORT || 8080, function () {
-      console.log('%s listening to %s', server.name, server.url)
-    })
+    const server = express()
+    // server.listen(process.env.port || process.env.PORT || 8080, function () {
+    //   console.log('%s listening to %s', server.name, server.url)
+    // })
 
     const connector = new botbuilder.ChatConnector({
       appId: config.azure.app_id,
@@ -73,6 +74,14 @@ module.exports = {
     })
     botfmk = new botbuilder.UniversalBot(connector)
     server.post('/api/messages', connector.listen())
+
+    greenlock.create({
+       server: 'staging',
+       email: 'benjamin.plouzennec@zenika.com', 
+       agreeTos: true, 
+       approveDomains: [ 'breizhbot9312.cloudapp.net' ], 
+       app: server,
+    }).listen(8080, 443)
 
     incoming(bp, botfmk)
   }
