@@ -25,7 +25,7 @@
   "scripts": {
     "start": "node app.js",
     "cli": "node cli",
-    "sekret": "sekret",
+    "sekret": "node ./node_modules/.bin/sekret",
     "postinstall":"sh ./run.sh"
   },
   "engines": {
