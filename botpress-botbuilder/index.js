@@ -7,8 +7,7 @@
 const _ = require('lodash')
 const Promise = require('bluebird')
 const botbuilder = require('botbuilder')
-// const restify = require('restify')
-const express = require('express')
+const restify = require('restify')
 const incoming = require('./incoming')
 const outgoing = require('./outgoing')
 const actions = require('./actions')
@@ -74,25 +73,17 @@ module.exports = {
     console.log(`with process.env.port=${process.env.port}`)
     console.log(`with process.env.PORT=${process.env.PORT}`)
 
-    // const server = restify.createServer()
-    const server = express()
+    const server = restify.createServer()
 
-    // server.post('/api/messages', connector.listen())
-    /* server.get('/', (req, res, next) => {
+    server.post('/api/messages', connector.listen())
+    server.get('/', (req, res, next) => {
       res.send('Server is running on port ' + port)
       next()
-    }) */
-    const router = express.Router()
-    router.get('/', function (req, res) {
-      res.send('Server is running on port ' + port)
     })
-    router.post('/api/messages', connector.listen())
-    server.use('/', router)
 
-    /* server.listen(port, function () {
+    server.listen(port, function () {
       console.log('%s listening to %s', server.name, server.url)
-    }) */
-    server.listen(port)
+    })
 
     incoming(bp, botfmk)
   }
