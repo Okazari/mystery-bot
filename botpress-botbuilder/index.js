@@ -7,7 +7,8 @@
 const _ = require('lodash')
 const Promise = require('bluebird')
 const botbuilder = require('botbuilder')
-const restify = require('restify')
+// const restify = require('restify')
+const express = require('express')
 const incoming = require('./incoming')
 const outgoing = require('./outgoing')
 const actions = require('./actions')
@@ -62,21 +63,36 @@ module.exports = {
   },
 
   ready: function (bp) {
-    const server = restify.createServer()
-	const port = process.env.port || process.env.PORT || 80
-	console.log(`Deploying on port ${port}`)
-	console.log(`with process.env.port=${process.env.port}`)
-	console.log(`with process.env.PORT=${process.env.PORT}`)
-    server.listen(port, function () {
-      console.log('%s listening to %s', server.name, server.url)
-    })
-
     const connector = new botbuilder.ChatConnector({
       appId: config.azure.app_id,
       appPassword: config.azure.app_password
     })
     botfmk = new botbuilder.UniversalBot(connector)
-    server.post('/api/messages', connector.listen())
+
+    const port = process.env.port || process.env.PORT || 1337
+    console.log(`Deploying on port ${port}`)
+    console.log(`with process.env.port=${process.env.port}`)
+    console.log(`with process.env.PORT=${process.env.PORT}`)
+
+    // const server = restify.createServer()
+    const server = express()
+
+    // server.post('/api/messages', connector.listen())
+    /* server.get('/', (req, res, next) => {
+      res.send('Server is running on port ' + port)
+      next()
+    }) */
+    const router = express.Router()
+    router.get('/', function (req, res) {
+      res.send('Server is running on port ' + port)
+    })
+    router.post('/api/messages', connector.listen())
+    server.use('/', router)
+
+    /* server.listen(port, function () {
+      console.log('%s listening to %s', server.name, server.url)
+    }) */
+    server.listen(port)
 
     incoming(bp, botfmk)
   }
