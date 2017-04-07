@@ -23,7 +23,7 @@
     "vorpal": "^1.11.4"
   },
   "scripts": {
-    "start": "botpress start",
+    "start": "node node_modules\\botpress\\bin\\botpress start",
     "cli": "node cli",
     "sekret": "sekret"
   },
