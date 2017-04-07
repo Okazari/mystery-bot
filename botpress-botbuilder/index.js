@@ -7,7 +7,7 @@
 const _ = require('lodash')
 const Promise = require('bluebird')
 const botbuilder = require('botbuilder')
-const restify = require('restify')
+const express = require('express')
 const incoming = require('./incoming')
 const outgoing = require('./outgoing')
 const actions = require('./actions')
@@ -73,7 +73,7 @@ module.exports = {
     console.log(`with process.env.port=${process.env.port}`)
     console.log(`with process.env.PORT=${process.env.PORT}`)
 
-    const server = restify.createServer()
+    const server = express()
 
     server.post('/api/messages', connector.listen())
     server.get('/', (req, res, next) => {
