@@ -27,6 +27,10 @@
     "cli": "node cli",
     "sekret": "sekret"
   },
+  "engines": {
+    "node": "6.9.1"
+  },
+  
   "author": "",
   "license": "AGPL-3.0"
 }

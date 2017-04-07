@@ -63,7 +63,11 @@ module.exports = {
 
   ready: function (bp) {
     const server = restify.createServer()
-    server.listen(process.env.port || process.env.PORT || 80, function () {
+	const port = process.env.port || process.env.PORT || 80
+	console.log(`Deploying on port ${port}`)
+	console.log(`with process.env.port=${process.env.port}`)
+	console.log(`with process.env.PORT=${process.env.PORT}`)
+    server.listen(port, function () {
       console.log('%s listening to %s', server.name, server.url)
     })
 
