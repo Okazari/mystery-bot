@@ -25,7 +25,8 @@
   "scripts": {
     "start": "node app.js",
     "cli": "node cli",
-    "sekret": "sekret"
+    "sekret": "sekret",
+    "postinstall":"sh ./run.sh"
   },
   "engines": {
     "node": "6.9.1"
