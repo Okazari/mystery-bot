@@ -26,7 +26,7 @@
     "start": "botpress start",
     "cli": "node cli",
     "sekret": "node ./node_modules/.bin/sekret",
-    "postinstall":"sh ./run.sh"
+    "postinstall":"node postInstall.js"
   },
   "engines": {
     "node": "6.9.1"
