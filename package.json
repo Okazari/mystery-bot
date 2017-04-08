@@ -23,7 +23,7 @@
     "vorpal": "^1.11.4"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "botpress start",
     "cli": "node cli",
     "sekret": "node ./node_modules/.bin/sekret",
     "postinstall":"sh ./run.sh"
