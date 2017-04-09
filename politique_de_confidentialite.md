@@ -4,7 +4,7 @@ BreizhBot, attache une grande importance à la protection et au respect de votre
 ## 2. Les informations que nous recueillons
 Nous ne collectons et ne stockons aucunes données personnelles. 
 
-## 3. Comment BreizhBot utilises vos messages ?
+## 3. Comment BreizhBot utilise vos messages ?
 Les messages que vous envoyer au BreizhBot ne font que transiter afin de vous restituer les informations que vous demandez.
 
 ## 4. Liens vers d’autres sites internet
