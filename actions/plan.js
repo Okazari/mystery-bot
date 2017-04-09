@@ -12,7 +12,7 @@ const plan = confInfo => {
   if (confInfo) {
     buttons.push({
       'type': 'postBack',
-      'title': 'Description',
+      'title': 'Retour aux infos',
       'value': `conf details ${confInfo.id}`
     })
   }
