@@ -35,7 +35,7 @@ Cliquer sur le nom de l'Amphi pour avoir un plan de la zone
 
 ## Recherche via mot clés
 
-Vous souhaitez trouver les conférences qui parles d'un sujet en particulier ? Elémentaire !
+Vous souhaitez trouver les conférences qui parlent d'un sujet en particulier ? Elémentaire !
 
 Envoyez un message contenant l'expression à rechercher, BreizhBot vous renverra la liste des conférences donc le titre ou la description contiens l'expression.
 
