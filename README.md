@@ -7,6 +7,12 @@ Lorsqu'on assiste à des séries de conférences, certains d'entre nous (nous le
 
 BreizhBot à pour but de résituer avec le moins d'intermédiaire possible les informations sur les conférences imminentes.
 
+# Plateformes
+
+ - Skype : {link} (soon)
+ - Facebook : [https://www.facebook.com/BreizhBot-313072932442431/](https://www.facebook.com/BreizhBot-313072932442431/) (Working soon)
+ - Slack : [https://breizhbot.slack.com/messages/@breizhbot/](https://breizhbot.slack.com/messages/@breizhbot/) (soon)
+ 
 # Fonctionnalités
 ## Afficher les informations sur les conférences imminentes
 Comment faire ? Simple ! Dites poliement bonjour puis cliquez sur "Prochaine conférences"
