@@ -15,7 +15,7 @@ BreizhBot à pour but de résituer avec le moins d'intermédiaire possible les i
  
 # Fonctionnalités
 ## Afficher les informations sur les conférences imminentes
-Comment faire ? Simple ! Dites poliement bonjour puis cliquez sur "Prochaine conférences"
+Comment faire ? Simple ! Dites poliement bonjour puis cliquez sur "Prochaines conférences"
 
 BreizhBot recherchera pour vous toutes les conférences venant juste de démarrer ou commençant dans moins de 20minutes
 
