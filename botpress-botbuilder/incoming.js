@@ -23,12 +23,4 @@ module.exports = (bp, botfmk) => {
     sendMessageToIncomingMiddlewares(session)
   })
 
-  const users = []
-
-  botfmk.on('conversationUpdate', function(session){
-    if(!users[session.user.id]) {
-      users[session.user.id] = true
-      botfmk.beginDialog(session.address, '/')
-    }
-  })
 }
