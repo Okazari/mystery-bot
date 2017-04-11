@@ -9,9 +9,14 @@ BreizhBot à pour but de résituer avec le moins d'intermédiaire possible les i
 
 # Plateformes
 
- - Skype : {link} (soon)
- - Facebook : [https://www.facebook.com/BreizhBot-313072932442431/](https://www.facebook.com/BreizhBot-313072932442431/) (Working soon)
- - Slack : [https://breizhbot.slack.com/messages/@breizhbot/](https://breizhbot.slack.com/messages/@breizhbot/) (soon)
+ - Skype : 
+   - <a href='https://join.skype.com/bot/09a5f958-7738-4eb6-b84d-2969a8f26d3b'><img src='https://cloud.githubusercontent.com/assets/5747538/24907217/92474f14-1ebb-11e7-9765-b8c937375cec.png'/></a>
+ - Facebook : 
+   - Cliquez ici pour ouvrir directement messenger <a href='https://www.messenger.com/t/313072932442431'><img src='https://facebook.botframework.com/Content/MessageUs.png'></a> 
+   - ou visitez la page [https://www.facebook.com/BreizhBot-313072932442431/](https://www.facebook.com/BreizhBot-313072932442431/)
+ - Slack : 
+   - Ajoutez le bot à votre slack <a href="https://slack.com/oauth/authorize?scope=bot&client_id=2365691125.166006090865&redirect_uri=https%3a%2f%2fslack.botframework.com%2fHome%2fauth&state=breizh-bot"><img height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"></a>
+   - ou rejoignez le slack BreizhBot [https://breizhbot.slack.com/messages/@breizhbot/](https://breizhbot.slack.com/messages/@breizhbot/)
  
 # Fonctionnalités
 ## Afficher les informations sur les conférences imminentes
