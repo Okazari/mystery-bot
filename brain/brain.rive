@@ -42,6 +42,9 @@
 - Cliquez sur "Prochaines confs" ou entre 'next' pour avoir la liste des prochaines conférences \n\n
 ^ Entrez un mot et je rechercherai pour vous les conférences sur le sujet
 
++ casse toi pauv con
+- /leave
+
 + *
 - JS: return brain.actions.searchConfs(`<star>`)
 
