@@ -29,9 +29,10 @@ const nextConfs = eventStartUnixTime => {
         )
 
   if (foundConfs.length) {
+    const formattedConfs = formatConfList(foundConfs)
     return [
       `Voici les conférences qui démarrent aux environs de ${formatedReferenceDate}`,
-      formatConfList(foundConfs)
+      ...formattedConfs
     ]
   } else {
     return [

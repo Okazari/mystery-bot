@@ -34,9 +34,10 @@ const searchConfs = search => {
   const foundConfs = R.filter(conf => R.contains(conf.id, foundConfIds), confs)
 
   if (foundConfs.length) {
+    const formattedConfs = formatConfList(foundConfs)
     return [
       `Voici ce que j'ai trouvé pour "${search}"`,
-      formatConfList(foundConfs)
+      ...formattedConfs
     ]
   } else {
     return [

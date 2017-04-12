@@ -1,4 +1,5 @@
 const moment = require('moment')
+const R = require('ramda')
 const formatDate = require('./formatDate')
 const formatConfDuration = require('./formatConfDuration')
 
@@ -33,11 +34,16 @@ const confInfoToHeroCard = confInfo => {
   }
 }
 
-const aggregateCards = cards => {
-  return {
-    'attachmentLayout': 'carousel',
-    'attachments': cards
-  }
+// See https://github.com/Microsoft/BotBuilder-Samples/tree/master/Node/cards-CarouselCards#outcome
+const cardCountLimit = 10
+
+const aggregateCards = allCards => {
+  return R.splitEvery(cardCountLimit, allCards).map(cards => {
+    return {
+      'attachmentLayout': 'carousel',
+      'attachments': cards
+    }
+  })
 }
 
 const formatConfList = confs => {
