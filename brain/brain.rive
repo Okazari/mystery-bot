@@ -21,6 +21,9 @@
 + [*] hello [*]
 - JS: return brain.actions.hello()
 
++ [*] (prochain|prochaine|prochains|prochaines) [*] 
+@ next null
+
 + next 
 @ next null
 
@@ -29,7 +32,6 @@
 
 + conf details *
 - JS: return brain.actions.confDetails(<star>)
-
 
 + conf location *
 - JS: return brain.actions.confLocation(<star>)
@@ -41,12 +43,15 @@
 - Si vous avez fait la demande d'accès wifi avant la conférence, vous pouvez vous connec 
 ^ ter au réseau "eduspot" avec le mot de passe que vous avez reçu par email
 
-+ help
-- Cliquez sur "Prochaines confs" ou entre 'next' pour avoir la liste des prochaines conférences \n\n
-^ Entrez un mot et je rechercherai pour vous les conférences sur le sujet
++ aide
+@help
 
-+ supercommandeadmin *
-- <star>
++ help
+- JS: return brain.actions.help()
+
++ about
+- Je suis BreizhBot, un chatbot créé par Benjamin Plouzennec et Antoine Cailly de Zenika\n\n
+^ N'hésitez pas à venir nous voir sur le stand !
 
 + *
 - JS: return brain.actions.searchConfs(`<star>`)
