@@ -9,6 +9,7 @@ const confToAttachment = confInfo => {
   const formatedConfDuration = formatConfDuration(confInfo)
 
   return [
+    `${confInfo.name}`,
     `${formatedConfDuration}, par ${confInfo.speakers}`,
     confInfo.description,
     {
