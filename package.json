@@ -17,7 +17,6 @@
     "ramda": "^0.23.0",
     "ramda-fantasy": "^0.7.0",
     "require-all": "^2.2.0",
-    "restify": "^4.3.0",
     "rivescript": "^1.17.2",
     "sekret": "^0.0.4",
     "vorpal": "^1.11.4"
@@ -26,7 +25,7 @@
     "start": "botpress start",
     "cli": "node cli",
     "sekret": "node ./node_modules/.bin/sekret",
-    "postinstall":"node postInstall.js"
+    "postinstall": "node postInstall.js"
   },
   "engines": {
     "node": "6.9.1"
