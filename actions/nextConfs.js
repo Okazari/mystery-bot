@@ -7,6 +7,8 @@ const formatDate = require('./formatDate')
 const extractStartDate = require('./extractStartDate')
 const defaultMenu = require('./defaultMenu')
 
+const breizhcampStartDate = moment('2017-04-19T10:00:00.000')
+
 const happensNext = R.curry(
   (referenceDate, confDate) => {
     return confDate.isBetween(
@@ -18,6 +20,16 @@ const happensNext = R.curry(
 
 const nextConfs = eventStartUnixTime => {
   const referenceDate = eventStartUnixTime ? moment.unix(eventStartUnixTime) : currentDate()
+
+  // Special case : Before the BreizhCamp opening
+  if (breizhcampStartDate.isAfter(referenceDate)) {
+    const firstConfs = nextConfs(breizhcampStartDate.unix())
+    return [
+      'Le BreizhCamp 2017 ouvre ses portes le mercredi 19 avril à 10h !',
+      ...firstConfs
+    ]
+  }
+
   const formatedReferenceDate = formatDate(referenceDate)
 
   const foundConfs = confs
