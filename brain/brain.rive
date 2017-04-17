@@ -54,7 +54,7 @@
 
 + about
 - Je suis BreizhBot, un chatbot créé par Benjamin Plouzennec et Antoine Cailly de Zenika\n\n
-^ N'hésitez pas à venir nous voir sur le stand !
+^ N'hésitez pas à venir nous voir sur le stand Zenika !
 
 + *
 - JS: return brain.actions.searchConfs(`<star>`)
