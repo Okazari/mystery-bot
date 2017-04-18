@@ -20,7 +20,7 @@ const defaultMenu = () => {
             },
             {
               'type': 'openUrl',
-              'title': 'Site Web',
+              'title': 'Programme en ligne',
               'value': siteUrl
             }
           ]
