@@ -12,8 +12,8 @@ const breizhcampStartDate = moment('2017-04-19T10:00:00.000')
 const happensNext = R.curry(
   (referenceDate, confDate) => {
     return confDate.isBetween(
-      moment(referenceDate).subtract(5, 'm'),
-      moment(referenceDate).add(20, 'm')
+      moment(referenceDate).subtract(15, 'm'),
+      moment(referenceDate).add(45, 'm')
     )
   }
 )
