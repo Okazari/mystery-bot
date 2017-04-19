@@ -22,13 +22,13 @@ const nextConfs = eventStartUnixTime => {
   const referenceDate = eventStartUnixTime ? moment.unix(eventStartUnixTime) : currentDate()
 
   // Special case : Before the BreizhCamp opening
-  if (breizhcampStartDate.isAfter(referenceDate)) {
-    const firstConfs = nextConfs(breizhcampStartDate.unix())
-    return [
-      'Le BreizhCamp 2017 ouvre ses portes le mercredi 19 avril à 10h !',
-      ...firstConfs
-    ]
-  }
+  // if (breizhcampStartDate.isAfter(referenceDate)) {
+  //   const firstConfs = nextConfs(breizhcampStartDate.unix())
+  //   return [
+  //     'Le BreizhCamp 2017 ouvre ses portes le mercredi 19 avril à 10h !',
+  //     ...firstConfs
+  //   ]
+  // }
 
   const formatedReferenceDate = formatDate(referenceDate)
 
