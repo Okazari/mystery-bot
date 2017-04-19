@@ -14,6 +14,7 @@
     "lunr": "^1.0.0",
     "lunr-languages": "^0.0.5",
     "moment": "^2.17.1",
+    "moment-timezone": "^0.5.13",
     "ramda": "^0.23.0",
     "ramda-fantasy": "^0.7.0",
     "require-all": "^2.2.0",
