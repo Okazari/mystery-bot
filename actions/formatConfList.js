@@ -6,7 +6,7 @@ const formatConfDuration = require('./formatConfDuration')
 const confInfoToHeroCard = confInfo => {
   const formatedStartDate = formatDate(confInfo.event_start)
   const startDateUnixTime = moment(confInfo.event_start).unix()
-  const formatedConfDuration = formatConfDuration(confInfo)
+  const formatedConfDuration = formatConfDuration(confInfo).toUpperCase()
 
   return {
     'contentType': 'application/vnd.microsoft.card.hero',
