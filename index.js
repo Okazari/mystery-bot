@@ -1,3 +1,6 @@
+const http = require('http')
+const httpProxy = require('http-proxy')
+
 const {init, ready} = require('./botpress-botbuilder')
 const brain = require('./brain')
 
@@ -46,4 +49,20 @@ module.exports = function (bp) {
     const userId = user.id
     brain.send(userId, text, callback)
   })
+
+  // Reverse proxy to handle the dashboard and the webhook on the same port
+  const proxyPort = process.env.PROXY_PORT || 8009
+  const botPort = process.env.port || process.env.PORT || 1337
+  const dashboardPort = process.env.BOTPRESS_PORT || process.env.PORT || 3000
+  const proxy = httpProxy.createProxyServer({})
+  const router = (req, res) => {
+    const url = req.url
+    const matched = /\/api\/messages/.exec(url)
+    if (matched) {
+      proxy.web(req, res, { target: `http://127.0.0.1:${botPort}` })
+    } else {
+      proxy.web(req, res, { target: `http://127.0.0.1:${dashboardPort}` })
+    }
+  }
+  http.createServer(router).listen(proxyPort)
 }
