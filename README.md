@@ -1,4 +1,4 @@
-# BreizhBot, le bot à l'ouest !
+# BreizhBot, le bot à l'ouest ! (Attention : BreizhBot est à la retraite)
 ## BreizhBot ? Kececé ?
 
 BreizhBot le bot à l'ouest est une création originale de Benjamin Plouzennec et d'Antoine Cailly. 
