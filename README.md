@@ -3,7 +3,7 @@
 
 BreizhBot le bot à l'ouest est une création originale de Benjamin Plouzennec et d'Antoine Cailly. 
 
-Lorsqu'on assiste à des séries de conférences, certains d'entre nous (nous les premiers) s'y prennent à la dernière minute pour choisir quel talks ils vont voir, se fiant uniquement aux titres de conférences. Malheureusement cela se solde parfois par une place debout au fond de l'amphi, voir assister à une conférence dont finalement le sujet ne nous concerne pas forcément.
+Lorsqu'on assiste à des séries de conférences, certains d'entre nous (nous les premiers) s'y prennent à la dernière minute pour choisir les talks qu'ils vont voir, se fiant uniquement aux titres de conférences. Malheureusement cela se solde parfois par une place debout au fond de l'amphi, voir assister à une conférence dont finalement le sujet ne nous concerne pas forcément.
 
 BreizhBot à pour but de résituer avec le moins d'intermédiaire possible les informations sur les conférences imminentes.
 
